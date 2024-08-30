@@ -1,0 +1,22 @@
+{
+    "name": "Playbux.Network.Client.Action",
+    "rootNamespace": "com.playbux.networking.mirror.client.action",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:d525ad6bd40672747bde77962f1c401e",
+        "GUID:9c9dbf812d76b8b4099275edebc882d9",
+        "GUID:98d2b615087ebef46b712197ef7dd94a",
+        "GUID:d64f82f48eafddb43828d8e961377886",
+        "GUID:226845603b48f22498c20fcf798e9e9f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

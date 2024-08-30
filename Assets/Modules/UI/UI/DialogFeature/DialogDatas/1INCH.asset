@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caae6ae202a2a94e982f052307f7a76, type: 3}
+  m_Name: 1INCH
+  m_EditorClassIdentifier: 
+  header: {fileID: 21300000, guid: e5fc58c2f8a5f854c914a307671f8bea, type: 3}
+  imageContents:
+  - {fileID: 21300000, guid: 60589f25db317bc43874c4db4ff5f8af, type: 3}
+  stringContents:
+  - DEX aggregator protocol searches across liquidity sources for better rates. It
+    utilizes an algorithm to find optimal paths among 400+ liquidity sources.
+  imageConfirm: {fileID: 21300000, guid: 841a4d7c8ca85324d95125439f4385b3, type: 3}
+  readMoreUrl: 
+  confirmUrl: https://app.1inch.io

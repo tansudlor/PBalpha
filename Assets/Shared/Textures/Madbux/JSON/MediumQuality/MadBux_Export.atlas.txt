@@ -1,0 +1,419 @@
+
+MadBux_Export.png
+size: 4096, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 582, 78
+  size: 23, 512
+  orig: 23, 512
+  offset: 0, 0
+  index: -1
+Arm1
+  rotate: true
+  xy: 2385, 488
+  size: 22, 511
+  orig: 22, 511
+  offset: 0, 0
+  index: -1
+Arm2
+  rotate: true
+  xy: 582, 54
+  size: 22, 511
+  orig: 22, 511
+  offset: 0, 0
+  index: -1
+Arm_1_Blur
+  rotate: true
+  xy: 2385, 314
+  size: 172, 338
+  orig: 173, 338
+  offset: 1, 0
+  index: -1
+Arm_Fx
+  rotate: true
+  xy: 2947, 193
+  size: 64, 134
+  orig: 64, 142
+  offset: 0, 8
+  index: -1
+Body_0
+  rotate: false
+  xy: 447, 103
+  size: 418, 407
+  orig: 418, 407
+  offset: 0, 0
+  index: -1
+Body_0_Blur
+  rotate: false
+  xy: 2, 103
+  size: 443, 407
+  orig: 443, 407
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: true
+  xy: 1678, 220
+  size: 290, 353
+  orig: 418, 407
+  offset: 64, 27
+  index: -1
+Body_2
+  rotate: false
+  xy: 867, 103
+  size: 418, 407
+  orig: 418, 407
+  offset: 0, 0
+  index: -1
+Body_Front_Blur
+  rotate: true
+  xy: 2033, 198
+  size: 312, 350
+  orig: 312, 350
+  offset: 0, 0
+  index: -1
+Boom 2/Bomb1
+  rotate: true
+  xy: 2586, 192
+  size: 52, 79
+  orig: 250, 250
+  offset: 99, 86
+  index: -1
+Boom 2/Bomb2
+  rotate: false
+  xy: 2485, 66
+  size: 112, 121
+  orig: 250, 250
+  offset: 66, 62
+  index: -1
+Boom 2/Bomb3
+  rotate: true
+  xy: 1884, 93
+  size: 125, 142
+  orig: 250, 250
+  offset: 58, 62
+  index: -1
+Boom 2/Bomb4
+  rotate: true
+  xy: 3654, 366
+  size: 144, 164
+  orig: 250, 250
+  offset: 53, 46
+  index: -1
+Boom 2/Bomb5
+  rotate: false
+  xy: 1287, 13
+  size: 232, 220
+  orig: 250, 250
+  offset: 9, 23
+  index: -1
+Boom 2/Bomb6
+  rotate: false
+  xy: 2725, 302
+  size: 220, 184
+  orig: 250, 250
+  offset: 15, 45
+  index: -1
+Boom 2/Bomb7
+  rotate: true
+  xy: 1521, 64
+  size: 169, 151
+  orig: 250, 250
+  offset: 40, 50
+  index: -1
+Boom 2/Bomb8
+  rotate: true
+  xy: 3820, 364
+  size: 146, 148
+  orig: 250, 250
+  offset: 52, 51
+  index: -1
+Boom 2/Bomb9
+  rotate: false
+  xy: 2693, 137
+  size: 103, 106
+  orig: 250, 250
+  offset: 73, 72
+  index: -1
+Boom/Boom_1
+  rotate: false
+  xy: 2363, 70
+  size: 120, 117
+  orig: 225, 225
+  offset: 57, 48
+  index: -1
+Boom/Boom_2
+  rotate: false
+  xy: 2947, 337
+  size: 201, 173
+  orig: 225, 225
+  offset: 21, 39
+  index: -1
+Boom/Boom_3
+  rotate: true
+  xy: 3484, 367
+  size: 143, 168
+  orig: 225, 225
+  offset: 45, 24
+  index: -1
+Boom/Boom_4
+  rotate: true
+  xy: 3317, 352
+  size: 158, 165
+  orig: 225, 225
+  offset: 38, 34
+  index: -1
+Boom/Boom_5
+  rotate: false
+  xy: 2226, 65
+  size: 135, 131
+  orig: 225, 225
+  offset: 45, 47
+  index: -1
+Boom/Boom_6
+  rotate: false
+  xy: 3083, 172
+  size: 83, 85
+  orig: 225, 225
+  offset: 65, 74
+  index: -1
+Eye_Spiral
+  rotate: false
+  xy: 2363, 2
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+Eyes_Blank
+  rotate: true
+  xy: 4087, 311
+  size: 199, 7
+  orig: 199, 7
+  offset: 0, 0
+  index: -1
+Eyes_Cross
+  rotate: false
+  xy: 1095, 16
+  size: 179, 41
+  orig: 179, 41
+  offset: 0, 0
+  index: -1
+Eyes_Die
+  rotate: false
+  xy: 2028, 141
+  size: 193, 55
+  orig: 193, 55
+  offset: 0, 0
+  index: -1
+Eyes_Donut
+  rotate: false
+  xy: 2028, 88
+  size: 196, 51
+  orig: 196, 51
+  offset: 0, 0
+  index: -1
+Eyes_Fire
+  rotate: false
+  xy: 1674, 140
+  size: 208, 78
+  orig: 250, 87
+  offset: 21, 9
+  index: -1
+Eyes_Front_Close
+  rotate: false
+  xy: 1674, 49
+  size: 193, 32
+  orig: 193, 32
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 814, 6
+  size: 198, 46
+  orig: 198, 46
+  offset: 0, 0
+  index: -1
+Eyes_Hurt
+  rotate: false
+  xy: 2947, 259
+  size: 193, 42
+  orig: 193, 42
+  offset: 0, 0
+  index: -1
+Eyes_Pizza
+  rotate: false
+  xy: 1674, 83
+  size: 200, 55
+  orig: 250, 87
+  offset: 25, 0
+  index: -1
+Eyes_Round1
+  rotate: false
+  xy: 1096, 59
+  size: 186, 42
+  orig: 186, 42
+  offset: 0, 0
+  index: -1
+Eyes_Round2
+  rotate: false
+  xy: 2385, 189
+  size: 199, 55
+  orig: 199, 55
+  offset: 0, 0
+  index: -1
+Eyes_Star
+  rotate: false
+  xy: 2675, 245
+  size: 193, 55
+  orig: 193, 55
+  offset: 0, 0
+  index: -1
+Eyes_Tired
+  rotate: false
+  xy: 2947, 303
+  size: 200, 32
+  orig: 200, 32
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 2599, 79
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+Hand1
+  rotate: false
+  xy: 2693, 45
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+Hole
+  rotate: false
+  xy: 1014, 9
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 1521, 5
+  size: 57, 58
+  orig: 59, 58
+  offset: 1, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1581, 4
+  size: 58, 58
+  orig: 59, 58
+  offset: 1, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2798, 185
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 3806, 306
+  size: 57, 56
+  orig: 59, 58
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 3587, 307
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 3150, 350
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+Leg_Front
+  rotate: false
+  xy: 3970, 370
+  size: 115, 140
+  orig: 115, 140
+  offset: 0, 0
+  index: -1
+Light_Red
+  rotate: false
+  xy: 3648, 286
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Mouth_Back
+  rotate: false
+  xy: 2385, 246
+  size: 288, 66
+  orig: 288, 99
+  offset: 0, 0
+  index: -1
+Mouth_Front
+  rotate: false
+  xy: 2, 2
+  size: 288, 99
+  orig: 288, 99
+  offset: 0, 0
+  index: -1
+Mouth_Side
+  rotate: false
+  xy: 292, 2
+  size: 288, 99
+  orig: 288, 99
+  offset: 0, 0
+  index: -1
+Pizza
+  rotate: false
+  xy: 1287, 235
+  size: 389, 275
+  orig: 389, 275
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 3728, 288
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Spike/Spike
+  rotate: true
+  xy: 2870, 217
+  size: 83, 75
+  orig: 83, 76
+  offset: 0, 1
+  index: -1
+Square
+  rotate: false
+  xy: 3484, 264
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: false
+  xy: 2437, 16
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+laser
+  rotate: true
+  xy: 582, 30
+  size: 22, 230
+  orig: 22, 230
+  offset: 0, 0
+  index: -1

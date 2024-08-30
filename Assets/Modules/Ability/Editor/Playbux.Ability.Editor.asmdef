@@ -1,0 +1,20 @@
+{
+    "name": "Playbux.Ability.Editor",
+    "rootNamespace": "com.playbux.ability.editor",
+    "references": [
+        "GUID:9c6a2dcbb423b734f905c1a131e5adb8",
+        "GUID:40d7c0c2b4c09684aa5e168479bcb795",
+        "GUID:c668f8744d81ba74884631ea273233c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

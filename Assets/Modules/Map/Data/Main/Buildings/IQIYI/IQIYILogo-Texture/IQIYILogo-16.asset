@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c591adc869422ab0033718377f370e, type: 3}
+  m_Name: IQIYILogo-16
+  m_EditorClassIdentifier: 
+  highQuality: {fileID: 2800000, guid: 98eb527756aff3e4aa434cce5a22e417, type: 3}
+  mediumQuality: {fileID: 2800000, guid: 186fba6386622db43aff947ff9e7b3ce, type: 3}
+  lowQuality: {fileID: 2800000, guid: 2b873632e95d6554daa3313102232942, type: 3}
+  defaultQuality: {fileID: 0}

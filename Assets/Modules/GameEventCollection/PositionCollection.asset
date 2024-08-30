@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e6655969d3fba14f949af2ec6fc248d, type: 3}
+  m_Name: PositionCollection
+  m_EditorClassIdentifier: 
+  positoions:
+  - {x: 50.17215, y: -46.87092}
+  - {x: 56.61703, y: -54.9358}
+  - {x: 63.07549, y: -60.85426}
+  - {x: 72.66208, y: -55.58764}
+  - {x: 78.65961, y: -46.76}
+  - {x: 83.89348, y: -38.7}
+  areaPrefab: {fileID: 3907662641809045089, guid: a1d82e2ab3ad8704d9e943d729e30833, type: 3}
+  colors:
+  - {r: 0.078431375, g: 0.7725491, b: 0.9294118, a: 0.49019608}
+  - {r: 1, g: 0.8431373, b: 0.30588236, a: 0.49019608}
+  - {r: 0.5568628, g: 0.4901961, b: 0.8941177, a: 0.49019608}

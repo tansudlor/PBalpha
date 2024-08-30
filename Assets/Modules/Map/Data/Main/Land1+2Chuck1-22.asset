@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691c725c0af34e03a16d4444ff106524, type: 3}
+  m_Name: Land1+2Chuck1-22
+  m_EditorClassIdentifier: 
+  width: 5
+  height: 4
+  gridSize: 1024
+  highQualityScale: 1
+  mediumQualityScale: 2
+  lowQualityScale: 4
+  defaultQualityScale: 1
+  textures:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 11400000, guid: 7f340f5f3f93b9649951a0c2382d9a74, type: 2}
+    - Key: 2
+      Value: {fileID: 11400000, guid: a46ef0d87857bf240a211a2f29fb993a, type: 2}
+    - Key: 3
+      Value: {fileID: 11400000, guid: 00aa75a3c89bd6541add29a9534b9e4d, type: 2}
+    - Key: 4
+      Value: {fileID: 11400000, guid: db16d2cda800a65428c57d636d176fb6, type: 2}
+    - Key: 6
+      Value: {fileID: 11400000, guid: ba9e63c7cd85ab94d9bc8905baf84fe0, type: 2}
+    - Key: 7
+      Value: {fileID: 11400000, guid: 42ebdc25759601649a01326ae8339d40, type: 2}

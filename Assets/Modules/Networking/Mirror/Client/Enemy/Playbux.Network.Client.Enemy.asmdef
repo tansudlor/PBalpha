@@ -1,0 +1,25 @@
+{
+    "name": "Playbux.Network.Client.Enemy",
+    "rootNamespace": "com.playbux.networking.mirror.client.enemy",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:d525ad6bd40672747bde77962f1c401e",
+        "GUID:40d7c0c2b4c09684aa5e168479bcb795",
+        "GUID:80d687cabffbe6a41a4ea554b0e1fecf",
+        "GUID:e5e1b60991ebb104690ca9e6db2da7e5",
+        "GUID:72ba9e47475667a47b74b39a7408bc80",
+        "GUID:d18ca3c2c28a0b346ac1ac78d0064f0d",
+        "GUID:5c640717ca72e134ea25eca2d2b65898"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"zMLybgpn5Ms","spine":"4.1.24","x":-519.11,"y":-409.73,"width":328,"height":394,"images":"./images/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"Gate","bone":"root","attachment":"Gate"}],"skins":[{"name":"default","attachments":{"Gate":{"Gate":{"x":-355.11,"y":-212.73,"width":328,"height":394}}}}],"animations":{"animation":{}}}

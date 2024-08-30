@@ -1,0 +1,478 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc1e79a729acf6849a4c3ee9b508c4ae, type: 3}
+  m_Name: PBU
+  m_EditorClassIdentifier: 
+  BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  TargetFolder: 2
+  TargetFilter: .prefab
+  FileList:
+  - Name: 'Back : <UnityEngine.GameObject>15_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\15_0
+    Data: {fileID: 3996105364709801355, guid: 6abf22f9952824156ace081082c0b0d6, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>15_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\15_1
+    Data: {fileID: 6709886743491699002, guid: d162695d49d5646f8b3a8476b288b434, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>15_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\15_2
+    Data: {fileID: 8997205761441644876, guid: d9ee651d9ebd14737a80700181e842ca, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>15_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\15_3
+    Data: {fileID: 5603388805667228203, guid: d013fdac8be824131be47de3a49a7a03, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>16_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\16_0
+    Data: {fileID: 98758201745812467, guid: 8e225a6b98fb84243ba95c40666fd5c7, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>16_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\16_1
+    Data: {fileID: 1600283906989155690, guid: 6819e296cfab742ab958690a7dab2f50, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>16_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\16_2
+    Data: {fileID: 1508457008998943660, guid: 46a39f22854d74b818f034949bc404d3, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>16_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\16_3
+    Data: {fileID: 5856190293283759904, guid: 1560266e22cac4bfe9304fe8e9a64df9, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>17_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\17_0
+    Data: {fileID: 8419300528015825284, guid: 6e3c8bc94bac342808dfc5476854815c, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>17_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\17_1
+    Data: {fileID: 9100373726433824582, guid: f5ccd3edc0c7d4fb4a95c2e120d71a01, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>17_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\17_2
+    Data: {fileID: 6876010709520399683, guid: 07cb9bfccc8cb41b7a4df8e85bde7b99, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.GameObject>17_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Back\17_3
+    Data: {fileID: 8117149105271954905, guid: a53a634971fdd4d1f8da26d24197268a, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.GameObject>19_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Face\19_0
+    Data: {fileID: 8030671333413443095, guid: 4aca21d853e544be4a52a92471492546, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.GameObject>19_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Face\19_1
+    Data: {fileID: 5679926639545266959, guid: dfbb4e26d3b8c4a958a57c44736f8a85, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.GameObject>19_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Face\19_2
+    Data: {fileID: 4468741101226691519, guid: 8fc6d4f2b9610473d96cec15fb0f71d0, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.GameObject>19_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Face\19_3
+    Data: {fileID: 6011866033682802190, guid: 51809ae4687c34e87a0c2d9636c65f57, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.GameObject>21_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Face\21_0
+    Data: {fileID: 2011743707620098172, guid: 8926a023f8ac344c19b2a5b8dff5648c, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.GameObject>21_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Face\21_1
+    Data: {fileID: 9012288155031079280, guid: af8c4ecbef3c8495a97efb7ba4c4b720, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.GameObject>21_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Face\21_2
+    Data: {fileID: 7182701518152733017, guid: 4523cf5f06b3c4925977832a0fca275e, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.GameObject>21_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Face\21_3
+    Data: {fileID: 3078981248274479930, guid: b459a0b2955ac439698b073f4d17bdc7, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>2_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\2_0
+    Data: {fileID: 4025747849287397491, guid: d996a9862064649f0b6264ffbcec1f58, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>2_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\2_1
+    Data: {fileID: 1399078934929575388, guid: ff2e32f70441747118eb9a8d1dd7a6be, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>2_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\2_2
+    Data: {fileID: 1210219207751538119, guid: fc14555002c224be1ba240730b418c38, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>2_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\2_3
+    Data: {fileID: 8181391253314507471, guid: 6c70b89b7ea0e4111a6a3a59553f92a4, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>5_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\5_0
+    Data: {fileID: 4842777761101232614, guid: 7163cc414dc7d4e8995c8f6aad290179, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>5_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\5_1
+    Data: {fileID: 5459182233081876379, guid: 775cd43ee0bb14cbc9690c6c16c1e6ae, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>5_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\5_2
+    Data: {fileID: 1031816176384616751, guid: cd7d6aa41330a4d6ab0e9bb4db3108e1, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>5_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\5_3
+    Data: {fileID: 8870503849015840247, guid: 31eb1ef60d98a495e9cc9c71472bcc56, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>7_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\7_0
+    Data: {fileID: 6040694205833979982, guid: 9a7a25c03731a49ccb78f007d03a5a05, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>7_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\7_1
+    Data: {fileID: 6040694205833979982, guid: 7b7f31da436c543abaa4b91312474e96, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>7_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\7_2
+    Data: {fileID: 6040694205833979982, guid: 1955b29cff9ae4c5abc8c881d7bf9cb7, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>7_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\7_3
+    Data: {fileID: 6040694205833979982, guid: 95317b5bc4c384efa84f45a35ae662f2, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>8_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\8_0
+    Data: {fileID: 7944970010394822549, guid: 4f27a4e1b842e44ac890a4031bf60f1b, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>8_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\8_1
+    Data: {fileID: 695794062371439968, guid: c71c0983319d64b61ad16c2d0065690b, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>8_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\8_2
+    Data: {fileID: 1816161740361794705, guid: ec0e230e371844a4f9bba805258be6a5, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>8_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\8_3
+    Data: {fileID: 3140289731072086967, guid: 4d2fbeb5cede84f8599c22746d807d2a, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>9_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\9_0
+    Data: {fileID: 528007335606962023, guid: 038313ec250d04f518ee0f06c28e6fc9, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>9_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\9_1
+    Data: {fileID: 528007335606962023, guid: 3871d818e528b4a5dab2e54a6abf27ff, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>9_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\9_2
+    Data: {fileID: 528007335606962023, guid: dfce82295a63541e696705737fecc216, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>9_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\9_3
+    Data: {fileID: 528007335606962023, guid: f5bccf45e459c48a4b15493e4486bac1, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>11_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\11_0
+    Data: {fileID: 6687258744978597225, guid: 4dbd1dbd1d5864d54858310e4b021315, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>11_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\11_1
+    Data: {fileID: 2921681377332228122, guid: 2b6de2a768d344096b944309e8166915, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>11_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\11_2
+    Data: {fileID: 9015052162951933199, guid: 0a7a613bbcaff4584b244f32043298c9, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>11_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\11_3
+    Data: {fileID: 5842279626293371125, guid: 3103a7aed0a3a4c5f986d536350c0cfb, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>12_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\12_0
+    Data: {fileID: 3412332194646310673, guid: b539f471466b24332b2f89db6e4b6cea, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>12_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\12_1
+    Data: {fileID: 3381650567012104137, guid: 88a241f4e9d5e4022bb2d710e62626b0, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>12_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\12_2
+    Data: {fileID: 3513949302390082851, guid: e60b185ff289c4163b22bd546b56ac9c, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>12_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\12_3
+    Data: {fileID: 1460140173710298689, guid: f4607b73a5af24454931e164275dd81f, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>13_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\13_0
+    Data: {fileID: 6993476503952229125, guid: 863d4d196a70c4cc2a6ad6ed1ea714d3, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>13_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\13_1
+    Data: {fileID: 5714259828459131485, guid: dcef074bb1f6c417e8ddf7df539324eb, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>13_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\13_2
+    Data: {fileID: 5862001119846850281, guid: c685ce6bd6adc4a5ab3527078effc044, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>13_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\13_3
+    Data: {fileID: 7308735071659817387, guid: 70722f918b8544fbd934c468afafe942, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>18_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\18_0
+    Data: {fileID: 3897321472377309215, guid: 535bea460c00147a49fff04bb9cf6440, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>18_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\18_1
+    Data: {fileID: 8188057392230381366, guid: 7f7dfc32918de4434bcda6bb041f5160, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>18_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\18_2
+    Data: {fileID: 1597316557943836202, guid: 00056a5f3395b4bb6aeb9c568d08857a, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>18_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\18_3
+    Data: {fileID: 523759328705024008, guid: dacacf8d695734466b7b610ad5c5c5fb, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>20_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\20_0
+    Data: {fileID: 6780181185451095384, guid: 9f611123887224e33908cfe4fa8dc415, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>20_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\20_1
+    Data: {fileID: 3420956425050595508, guid: e0607a9af5b7f4343a1faa3080c9815e, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>20_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\20_2
+    Data: {fileID: 3492400072483823954, guid: ae760f80d03444da38ab4da2b5d84ee2, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.GameObject>20_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Hat\20_3
+    Data: {fileID: 1505621046413161174, guid: b0ba86ce4e0d5417bac20cde2f9a2c38, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.GameObject>6_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Head\6_0
+    Data: {fileID: 629376767232565228, guid: 4c666c632613345aa981df86063375a1, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.GameObject>6_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Head\6_1
+    Data: {fileID: 4899294234562420494, guid: 3d8b6c3b16b21450fbe88ab1e27279c0, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.GameObject>6_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Head\6_2
+    Data: {fileID: 8588247107808332780, guid: e6672b7e3c2de4d3dbdef05b73f4c253, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.GameObject>6_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Head\6_3
+    Data: {fileID: 8784746003761275226, guid: 3e5107d44583144dc8bc6d16437b994a, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.GameObject>14_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Head\14_0
+    Data: {fileID: 5199873296056282199, guid: 6ac7a7020643a4da5b67beae452caed5, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.GameObject>14_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Head\14_1
+    Data: {fileID: 2384450599288718138, guid: f3846978e736042b199c32ff4ea6b0b2, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.GameObject>14_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Head\14_2
+    Data: {fileID: 1849012863676869270, guid: 16b2dcd9bca904cb0b08a4d71f8e757f, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.GameObject>14_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Head\14_3
+    Data: {fileID: 5541454567736535102, guid: d1ea5bbb70f3d4afba821997ee13560b, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.GameObject>3_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Pants\3_0
+    Data: {fileID: 8137204060515405982, guid: de3290ceecf39483e86c2d720017b70e, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.GameObject>3_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Pants\3_1
+    Data: {fileID: 8402330537058359828, guid: 02f2aed4e87d041578baaa2d8233b3ed, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.GameObject>3_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Pants\3_2
+    Data: {fileID: 3320947948583053561, guid: 168b00067396c4beb874ac443c3ffa45, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.GameObject>3_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Pants\3_3
+    Data: {fileID: 5809020340252966516, guid: d8e9a7545f36441ec827dcd87053e17d, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.GameObject>4_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Pants\4_0
+    Data: {fileID: 5717382247144574964, guid: 6b82b9a33eae544f1a0ac1068225bf18, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.GameObject>4_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Pants\4_1
+    Data: {fileID: 8331336487069618939, guid: b58687a24a8324c909d3c297e5d62010, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.GameObject>4_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Pants\4_2
+    Data: {fileID: 3799840987294740741, guid: 147afa49eb43e440a91dc77626da9d28, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.GameObject>4_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Pants\4_3
+    Data: {fileID: 5913516262615830706, guid: d74317554411f4c2ea057b540ed7cbe1, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.GameObject>1_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shirt\1_0
+    Data: {fileID: 1589370297672575796, guid: 5553bda909e9b41e6a58e5f04f447166, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.GameObject>1_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shirt\1_1
+    Data: {fileID: 3069625747288826791, guid: c45b6fb742eae440ab13a15bc86abc8d, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.GameObject>1_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shirt\1_2
+    Data: {fileID: 6778348042872620972, guid: c26c346464cb342e6b4b10f7d178658b, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.GameObject>1_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shirt\1_3
+    Data: {fileID: 6940023022115246852, guid: 7c2d6f3b3a05b4ae987f5fd075120721, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.GameObject>22_0'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shirt\22_0
+    Data: {fileID: 3230822447236079928, guid: d84b1724552ed4d9390d0d7c504bfc04, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.GameObject>22_1'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shirt\22_1
+    Data: {fileID: 4448423554867160660, guid: c4e2a6ea9e16942c0a1bbce031f6f83f, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.GameObject>22_2'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shirt\22_2
+    Data: {fileID: 4448423554867160660, guid: 7c3d6480ce368414d8f58b3701a6a148, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.GameObject>22_3'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shirt\22_3
+    Data: {fileID: 3230822447236079928, guid: 7933e9a20da494ad28be87931cf4306b, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.GameObject>10_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shoes\10_0_L
+    Data: {fileID: 2652181601119971161, guid: 1eeebdc8050854f5694f684da9c2986c, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.GameObject>10_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shoes\10_0_R
+    Data: {fileID: 8147956935973010624, guid: e72cceae6c39944b09a7e0c5b622cd06, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.GameObject>10_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shoes\10_1_L
+    Data: {fileID: 5035003158021572465, guid: d695f3c5304e44955924df519402bd7a, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.GameObject>10_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shoes\10_1_R
+    Data: {fileID: 2260585988490939245, guid: 6f046827a6cea41888925afb598b6b8c, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.GameObject>10_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shoes\10_2_L
+    Data: {fileID: 7027632740247166959, guid: 8c7552690e9bc44b7ba9d990bcacfd96, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.GameObject>10_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shoes\10_2_R
+    Data: {fileID: 5469333763654103651, guid: 6524af2b8868d4d32bff6b25b3cde607, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.GameObject>10_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shoes\10_3_L
+    Data: {fileID: 5723640978016982109, guid: 4005aa4f8ed1d415db905ac2fd3bf8c3, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.GameObject>10_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\2\Shoes\10_3_R
+    Data: {fileID: 7194813036000012629, guid: e6e8b7aff36154daeb7d2460829fe91a, type: 3}
+    Info: UnityEngine.GameObject
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/

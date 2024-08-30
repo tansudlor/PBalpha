@@ -1,0 +1,34 @@
+
+VendingMachine.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Btn_Red
+  rotate: false
+  xy: 560, 179
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Screen
+  rotate: false
+  xy: 2, 2
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Vending_Blue
+  rotate: true
+  xy: 2, 36
+  size: 152, 277
+  orig: 152, 277
+  offset: 0, 0
+  index: -1
+Vending_Purple
+  rotate: true
+  xy: 281, 36
+  size: 152, 277
+  orig: 152, 277
+  offset: 0, 0
+  index: -1

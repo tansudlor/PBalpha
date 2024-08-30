@@ -1,0 +1,3603 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc1e79a729acf6849a4c3ee9b508c4ae, type: 3}
+  m_Name: PBN
+  m_EditorClassIdentifier: 
+  BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  TargetFolder: 1
+  TargetFilter: .png
+  FileList:
+  - Name: 'Arm : <UnityEngine.Texture2D>arm'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Arm\arm
+    Data: {fileID: 2800000, guid: 11d9905740e154c9ca03d01838512e35, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>12_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\12_0
+    Data: {fileID: 2800000, guid: c7e5cecea878a42db924f184f5f7e4e1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>12_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\12_1
+    Data: {fileID: 2800000, guid: 07ddf4972923f41f59ff4581dfb88913, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>12_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\12_2
+    Data: {fileID: 2800000, guid: 7c134214e470441d1a931edc3120b157, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>12_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\12_3
+    Data: {fileID: 2800000, guid: ac4ae6731635241ae995914091587a83, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>29_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\29_0
+    Data: {fileID: 2800000, guid: 3d4ca8e98eeda4286ab060184353d82d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>29_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\29_1
+    Data: {fileID: 2800000, guid: 5efa294bc132646b9bbbe8cad94ab674, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>29_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\29_2
+    Data: {fileID: 2800000, guid: 1587bc9a8c382414abf93360493483da, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>29_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\29_3
+    Data: {fileID: 2800000, guid: 21a926a22910c4ebd8c1f091f13e050c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>49_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\49_0
+    Data: {fileID: 2800000, guid: 0a0aeaf0c45924cbb906263d44b6e1b7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>49_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\49_1
+    Data: {fileID: 2800000, guid: 5762ef649a85a44daae06e7c367d2074, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>49_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\49_2
+    Data: {fileID: 2800000, guid: 9365043f0ce0048258b68998cc94cac2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>49_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\49_3
+    Data: {fileID: 2800000, guid: 85e4651882bd84f1b8952401758e7516, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>53_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\53_0
+    Data: {fileID: 2800000, guid: 4176782f23a944f01a9ac96c82b36aa6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>53_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\53_1
+    Data: {fileID: 2800000, guid: 8544fbbd8bab647f4a055334fd16d130, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>53_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\53_2
+    Data: {fileID: 2800000, guid: beeac4b9b1747427a9156b56d0682daa, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>53_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\53_3
+    Data: {fileID: 2800000, guid: efd9b0b87f46943fabaedb97762da407, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>61_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\61_0
+    Data: {fileID: 2800000, guid: 55a5e724b304a4bb88d6236baf190d83, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>61_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\61_1
+    Data: {fileID: 2800000, guid: 8294d42647b5640d692d963d78e8349b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>61_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\61_2
+    Data: {fileID: 2800000, guid: 928a1798abf784c8786a9c608fe38047, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>61_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\61_3
+    Data: {fileID: 2800000, guid: e086aa0afd2624fc7a495bec4d0b3363, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>67_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\67_0
+    Data: {fileID: 2800000, guid: 8f7a531e9b34543be8f3036c5934ad0c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>67_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\67_1
+    Data: {fileID: 2800000, guid: 719937747137540f98e0fbd2bcdc0771, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>67_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\67_2
+    Data: {fileID: 2800000, guid: 0843da5d613734ca99439fcf87e5a0bd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>67_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\67_3
+    Data: {fileID: 2800000, guid: 3287ffaa76b0647b8aac3dfb8f2da1c6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>73_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\73_0
+    Data: {fileID: 2800000, guid: 904dacf728cdc4fab9d0b1c129f4b031, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>73_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\73_1
+    Data: {fileID: 2800000, guid: 8bfb55482149147ba89acb68c5e108da, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>73_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\73_2
+    Data: {fileID: 2800000, guid: b18eb004e153d4d218a1341522d8d06d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>73_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\73_3
+    Data: {fileID: 2800000, guid: ef79d1d2fa5e642fd8838c0b689a053c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>79_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\79_0
+    Data: {fileID: 2800000, guid: 3d1a60cdeb6424530898638d7ae106ba, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>79_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\79_1
+    Data: {fileID: 2800000, guid: d29869b88c8c547f49115b83758f796e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>79_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\79_2
+    Data: {fileID: 2800000, guid: bc4b06244cf164d29b49cff31e11aca8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>79_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\79_3
+    Data: {fileID: 2800000, guid: d9ab77094de234edf98aac952631d203, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>82_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\82_0
+    Data: {fileID: 2800000, guid: 266a46b537c134ec79e876429e3a59b2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>82_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\82_1
+    Data: {fileID: 2800000, guid: 6c7d12dd6467e49908c78808f72fea00, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>82_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\82_2
+    Data: {fileID: 2800000, guid: 9f314ff3507a24bc6a4d8f82ef265754, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>82_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\82_3
+    Data: {fileID: 2800000, guid: 2c286540c28014b11875928c66c7ab03, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>84_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\84_0
+    Data: {fileID: 2800000, guid: 759bdd8a3612c4415a632d553b5023e5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>84_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\84_1
+    Data: {fileID: 2800000, guid: 14c6bb10ed80b4947823aacc4f627183, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>84_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\84_2
+    Data: {fileID: 2800000, guid: 8ef595c1990f940309a566cfdd265c4f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>84_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\84_3
+    Data: {fileID: 2800000, guid: 1d672ef29cb5841538f0b44ae982c2ff, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>93_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\93_0
+    Data: {fileID: 2800000, guid: 3507e50ef284244c280c8cf93926ae94, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>93_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\93_1
+    Data: {fileID: 2800000, guid: cb7550044bda94f85821a6e9c0abea0e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>93_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\93_2
+    Data: {fileID: 2800000, guid: d7619755514bf4e18b155551b141f9a3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>93_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\93_3
+    Data: {fileID: 2800000, guid: 905624a22c7ba4fe9885488070fe31f1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>95_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\95_0
+    Data: {fileID: 2800000, guid: b19b5246b558b4872b5de79be216f147, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>95_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\95_1
+    Data: {fileID: 2800000, guid: 47d1b3ccc4b2e441d87c2f70a257881c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>95_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\95_2
+    Data: {fileID: 2800000, guid: 994f3a60eb1764cc2b4199d475fb8810, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>95_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\95_3
+    Data: {fileID: 2800000, guid: 626054b5cfaa84ebca510344537ee4c8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>100_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\100_0
+    Data: {fileID: 2800000, guid: fe2542c9ce6f444e49525ecea92c31f4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>100_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\100_1
+    Data: {fileID: 2800000, guid: 376976ab0cc1745ca98bada1b96df0c7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>100_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\100_2
+    Data: {fileID: 2800000, guid: db5cc4f87aecb47f8bae119836a036aa, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>100_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\100_3
+    Data: {fileID: 2800000, guid: e83e05686ddda4aa98a247ea678044af, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>112_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\112_0
+    Data: {fileID: 2800000, guid: bc4441746447e4e2cbe5b3f67781ad49, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>112_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\112_1
+    Data: {fileID: 2800000, guid: 1043725ecb510445d9fe343fc5374ff7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>112_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\112_2
+    Data: {fileID: 2800000, guid: 0de959cf90e8c4f2987407b41cd3c4c3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>112_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\112_3
+    Data: {fileID: 2800000, guid: ab634b40b3296472bbe15cea14a33e7c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>113_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\113_0
+    Data: {fileID: 2800000, guid: b91d6874ebfcc4a30aa217994cb5e68c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>113_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\113_1
+    Data: {fileID: 2800000, guid: 9f68090ab456248d0ad41b431ae615de, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>113_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\113_2
+    Data: {fileID: 2800000, guid: 319991e5cc2bd4cfcaca88a984c8c4d7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>113_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\113_3
+    Data: {fileID: 2800000, guid: e6fd46e1403834cb7926648f04d6e6a0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>123_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\123_0
+    Data: {fileID: 2800000, guid: 3c2ae2ac7cb26426d8678479ea2d72d5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>123_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\123_1
+    Data: {fileID: 2800000, guid: 0426b40ba77c5497c8412f807c268485, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>123_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\123_2
+    Data: {fileID: 2800000, guid: 0e40a499455c9436792b9be054d58b34, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>123_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\123_3
+    Data: {fileID: 2800000, guid: 8482152cd03844e7ebb85e0580bdcb86, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>129_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\129_0
+    Data: {fileID: 2800000, guid: 59abb3735f0ff4e56a1b309fbb24eec8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>129_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\129_1
+    Data: {fileID: 2800000, guid: 34a42b34b428a457a9639150cd903841, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>129_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\129_2
+    Data: {fileID: 2800000, guid: 2efbc0277441c4e6c9c9d019a5cfa5c7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>129_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\129_3
+    Data: {fileID: 2800000, guid: 9dd1dff9250f44229b7a67d77b0db034, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>141_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\141_0
+    Data: {fileID: 2800000, guid: cd7d28a391ddd4391a7846ae0be356e1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>141_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\141_1
+    Data: {fileID: 2800000, guid: 5f5a3f707209c4a0b937d5b6db6219be, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>141_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\141_2
+    Data: {fileID: 2800000, guid: d181c750647a84517a169b8555d04d88, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>141_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\141_3
+    Data: {fileID: 2800000, guid: 8a412f0d3966d40cf88e439dc6945212, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>Default_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\Default_0
+    Data: {fileID: 2800000, guid: 64f770a087f064840b4ee2a54cc322fd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>Default_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\Default_1
+    Data: {fileID: 2800000, guid: 9a0dfa35ac4124eaa93b4c6ea4058826, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>Default_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\Default_2
+    Data: {fileID: 2800000, guid: ffb954cae086f4ec58b51be7b26691ca, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Back : <UnityEngine.Texture2D>Default_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Back\Default_3
+    Data: {fileID: 2800000, guid: 72a92aea52d8b4888ad54ca6fcd74da6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>4_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\4_0
+    Data: {fileID: 2800000, guid: b72e68b4afd314f669630c1667c1d650, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>4_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\4_1
+    Data: {fileID: 2800000, guid: 66922a53db15647e691480bdbc25c314, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>4_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\4_2
+    Data: {fileID: 2800000, guid: e3d5e457e617b4905967db5f0206a8b6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>4_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\4_3
+    Data: {fileID: 2800000, guid: 8d4fdcc4ac3484da39e2faccbe88ea68, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>40_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\40_0
+    Data: {fileID: 2800000, guid: 5d6fa13bbb321472dadb0ee99ae8db06, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>40_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\40_1
+    Data: {fileID: 2800000, guid: 3ba0b3d5220e140df9fab9d86174ce5b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>40_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\40_2
+    Data: {fileID: 2800000, guid: a8021640a23e448d09ed7375a3efed05, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>40_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\40_3
+    Data: {fileID: 2800000, guid: 94273157395f4431ca1528cb69069a15, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>41_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\41_0
+    Data: {fileID: 2800000, guid: b8b5a6628ce6d4fcb8de15c7be27663d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>41_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\41_1
+    Data: {fileID: 2800000, guid: 0c8cb1f0493c8402fa15073aad0dad78, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>41_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\41_2
+    Data: {fileID: 2800000, guid: f44e5e8c442cf4a7f876870e514bfa1b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>41_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\41_3
+    Data: {fileID: 2800000, guid: e4c0fa564d0894f6da12929555e793e3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>78_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\78_0
+    Data: {fileID: 2800000, guid: 69191dcf079b04fc7989131f8515c3da, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>78_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\78_1
+    Data: {fileID: 2800000, guid: 468e8b654d6a9485b9da715f0bde7025, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>78_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\78_2
+    Data: {fileID: 2800000, guid: 7d806bbf817004b97a5379651e14fe63, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>78_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\78_3
+    Data: {fileID: 2800000, guid: ce7aa2ad4c1fb4f0b9686b01d9a476b4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>105_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\105_0
+    Data: {fileID: 2800000, guid: b4852e1cc48a84c7e8e50890c4c53eb6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>105_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\105_1
+    Data: {fileID: 2800000, guid: df9f97cb2588d4f33b2cda0bc0525927, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>105_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\105_2
+    Data: {fileID: 2800000, guid: aba7a2b91667949478bc8cb7da11399c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>105_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\105_3
+    Data: {fileID: 2800000, guid: c05d44a1775934dd788de3eb4fd42e8f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>120_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\120_0
+    Data: {fileID: 2800000, guid: c6be88dc700d84d17aa62e26e57dbb08, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>120_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\120_1
+    Data: {fileID: 2800000, guid: 36a76e4b181ef4e2f81f3cbd2ba9e5fd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>120_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\120_2
+    Data: {fileID: 2800000, guid: 1caf4ff1626ea4b5c908a2f049770414, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>120_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\120_3
+    Data: {fileID: 2800000, guid: 19b44c1e17f6f4d0a92c41be37b7f74b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>148_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\148_0
+    Data: {fileID: 2800000, guid: f3b13dc0df2c349beab7d65ccdd47a31, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>148_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\148_1
+    Data: {fileID: 2800000, guid: e9d5ef21588b14cedb2a63bbfe0a30b5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>148_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\148_2
+    Data: {fileID: 2800000, guid: 9ec37d2b80a0f45f3bebf239c1153042, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>148_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\148_3
+    Data: {fileID: 2800000, guid: 14e12177082ae4973932518440563b0b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>Default_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\Default_0
+    Data: {fileID: 2800000, guid: 86824581bbc2d4a15b2c43e21f1c520a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>Default_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\Default_1
+    Data: {fileID: 2800000, guid: 21949bc66657a413785c0e53e2f8d68a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>Default_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\Default_2
+    Data: {fileID: 2800000, guid: 5786d93089c4e49ddaabf2231e25ef2d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Face : <UnityEngine.Texture2D>Default_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Face\Default_3
+    Data: {fileID: 2800000, guid: 63492166031eb44129d9cf503daed6dd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>6_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\6_0
+    Data: {fileID: 2800000, guid: cc6b95d0baf194d4bab1b469616246bd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>6_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\6_1
+    Data: {fileID: 2800000, guid: 303763b99e83a40fb9f1ee7d25525066, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>6_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\6_2
+    Data: {fileID: 2800000, guid: 8ce3d3abc684c44dbbe6c1abd5157886, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>6_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\6_3
+    Data: {fileID: 2800000, guid: d13c1dde51a044bd1a133979f553389c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>10_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\10_0
+    Data: {fileID: 2800000, guid: 08ac7ee65208d4d24a125cb024ad9cbf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>10_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\10_1
+    Data: {fileID: 2800000, guid: 648632c771400442c9ac1f42b2052896, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>10_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\10_2
+    Data: {fileID: 2800000, guid: da0609debda224425aee2f66f7cc5009, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>10_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\10_3
+    Data: {fileID: 2800000, guid: aacb799ae8d9d4441b3b26e030d28c4a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>11_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\11_0
+    Data: {fileID: 2800000, guid: f96bcbeeffa32421a974944d1f730251, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>11_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\11_1
+    Data: {fileID: 2800000, guid: 6b1ab2a245afe4266bb8275fa4009616, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>11_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\11_2
+    Data: {fileID: 2800000, guid: 8d83d77a2f741426b8634ec637c8d56c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>11_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\11_3
+    Data: {fileID: 2800000, guid: 4dbaf07ab8c19430ba2103ecff670f58, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>14_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\14_0
+    Data: {fileID: 2800000, guid: 6596543ff4a4a44b188f4c9562f5102f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>14_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\14_1
+    Data: {fileID: 2800000, guid: 7df75a148e42d4c6c8cd003c59c5af9b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>14_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\14_2
+    Data: {fileID: 2800000, guid: d85721c42293246ccb18d9de0e687ad6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>14_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\14_3
+    Data: {fileID: 2800000, guid: 2545f135ac6db45ec91a6c9b965c5fc7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>15_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\15_0
+    Data: {fileID: 2800000, guid: 59bb3934675424e72927757bf287ed36, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>15_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\15_1
+    Data: {fileID: 2800000, guid: c1e9e15b67a6340d8a1fcaf6ffd339ff, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>15_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\15_2
+    Data: {fileID: 2800000, guid: c85c04d439e90487a8e21158681adfa9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>15_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\15_3
+    Data: {fileID: 2800000, guid: 50af30ede81864c379febc9cc138f7ca, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>16_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\16_0
+    Data: {fileID: 2800000, guid: a3cf9de0bffc8456e8c313d10ba3272d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>16_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\16_1
+    Data: {fileID: 2800000, guid: 95c5898e07f534eeba28884c176d6879, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>16_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\16_2
+    Data: {fileID: 2800000, guid: d27b77dc8e7bf400d9765defa5a37849, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>16_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\16_3
+    Data: {fileID: 2800000, guid: 9ae0a9076df764314af67b7d7f4c6ac4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>17_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\17_0
+    Data: {fileID: 2800000, guid: d8f078c7c223245d8a340228ac453280, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>17_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\17_1
+    Data: {fileID: 2800000, guid: dbc76065dea3b4731a347b25a9c4585e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>17_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\17_2
+    Data: {fileID: 2800000, guid: f350e39a7ae2e4ecea32e4173a01d1f0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>17_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\17_3
+    Data: {fileID: 2800000, guid: 9e70cbf8173704f75b5a69526d71a9cc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>18_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\18_0
+    Data: {fileID: 2800000, guid: 376eb9e638cb841028c959916af8d523, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>18_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\18_1
+    Data: {fileID: 2800000, guid: df96a10e392b440ce93e5997d1d7aa13, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>18_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\18_2
+    Data: {fileID: 2800000, guid: c4424bd8f82dc4047b5617edf2c864b2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>18_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\18_3
+    Data: {fileID: 2800000, guid: 5a683ef23b6904b6b9f1581fda9c60f5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>19_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\19_0
+    Data: {fileID: 2800000, guid: c5aaa5676fc284415a43a34969f589fc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>19_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\19_1
+    Data: {fileID: 2800000, guid: 962fbe89bb4a74696b6eb54f3ab677e0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>19_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\19_2
+    Data: {fileID: 2800000, guid: 189092fa1ea8944c2beeb60b09f2227f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>19_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\19_3
+    Data: {fileID: 2800000, guid: 2cf8cf1a037c64ecd9dcc88d06cdbe6c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>20_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\20_0
+    Data: {fileID: 2800000, guid: 26b74f3e9bbdb4bdea410d9deec8edaf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>20_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\20_1
+    Data: {fileID: 2800000, guid: ffbba56ebd979407489bf900e82e1bf3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>20_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\20_2
+    Data: {fileID: 2800000, guid: 91dd314da46984dd39f250155e623602, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>20_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\20_3
+    Data: {fileID: 2800000, guid: 3ab9c91ce619142d88bddfaeeed657e5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>21_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\21_0
+    Data: {fileID: 2800000, guid: 40207a34f9169443ebd29187d7228841, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>21_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\21_1
+    Data: {fileID: 2800000, guid: fb9d094ab51a44fa7b8fb95e726430ad, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>21_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\21_2
+    Data: {fileID: 2800000, guid: a22f2888ad7f44ad4ac955824d5561d1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>21_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\21_3
+    Data: {fileID: 2800000, guid: 2c36882a7e15c434eb44d600c97c611f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>22_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\22_0
+    Data: {fileID: 2800000, guid: 1c682db70267348258f9fe7a28ccb17d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>22_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\22_1
+    Data: {fileID: 2800000, guid: b85245c1472e846c889f405382daeb84, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>22_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\22_2
+    Data: {fileID: 2800000, guid: abcf851c7e3f34778a41c08e54bf1952, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>22_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\22_3
+    Data: {fileID: 2800000, guid: 1a7aa2993931b478ea044fa047d4267f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>24_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\24_0
+    Data: {fileID: 2800000, guid: 1bb74c63a0de94f768cbd79862af8965, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>24_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\24_1
+    Data: {fileID: 2800000, guid: 8b24f8869d9d749e58d8d4342393cc2b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>24_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\24_2
+    Data: {fileID: 2800000, guid: cbd25ac84e88443419d148033c2af045, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>24_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\24_3
+    Data: {fileID: 2800000, guid: 2a9f5ab674a334ce3bc7ba634e64191e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>30_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\30_0
+    Data: {fileID: 2800000, guid: e4849c634c4b846bb84553eebfeaae75, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>30_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\30_1
+    Data: {fileID: 2800000, guid: 726f7807c193242b48dbe34eb3ea5ed2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>30_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\30_2
+    Data: {fileID: 2800000, guid: b3544d7b981cf4d54801b4bde53610c1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>30_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\30_3
+    Data: {fileID: 2800000, guid: 0990a567fd4c44195ba12d3cb08012c4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>33_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\33_0
+    Data: {fileID: 2800000, guid: 91eeaed09963a4596ac3720a527efbc0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>33_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\33_1
+    Data: {fileID: 2800000, guid: 2dff90dd73525457db315528c2359d5b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>33_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\33_2
+    Data: {fileID: 2800000, guid: e4f5bc12fb68645c2b247ba39f9eff08, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>33_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\33_3
+    Data: {fileID: 2800000, guid: 5e6da928ef6004a05ae0f0a3adebd8b7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>42_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\42_0
+    Data: {fileID: 2800000, guid: 943131cea235d422ba732f8c301bf9e3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>42_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\42_1
+    Data: {fileID: 2800000, guid: 52ba663a9c0614ce88344a1e07775dd2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>42_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\42_2
+    Data: {fileID: 2800000, guid: 1d0c4b1452cd144c49df9a8df419a25e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>42_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\42_3
+    Data: {fileID: 2800000, guid: 439e9463777c14e8d998d27d3ba5fe56, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>43_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\43_0
+    Data: {fileID: 2800000, guid: dc8f22db8955f48aa8b13201f0c88178, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>43_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\43_1
+    Data: {fileID: 2800000, guid: 4dd7d430f993741489adf7d5d37ccfaa, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>43_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\43_2
+    Data: {fileID: 2800000, guid: 795ae288f20a84d2c8740a9364392c60, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>43_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\43_3
+    Data: {fileID: 2800000, guid: dab9d97fccea542559d85e3afa3cf488, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>48_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\48_0
+    Data: {fileID: 2800000, guid: a6cbdfd241ce243d3abdee7085fb5c22, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>48_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\48_1
+    Data: {fileID: 2800000, guid: d3203c489fb5a42498c479c02b21d204, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>48_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\48_2
+    Data: {fileID: 2800000, guid: f71944868485541f3ab8b079efcb58b3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>48_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\48_3
+    Data: {fileID: 2800000, guid: 750273b4aa2e640a0bead3972f3c496f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>54_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\54_0
+    Data: {fileID: 2800000, guid: 2a1086986b93e41389d581c1ce0c2c30, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>54_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\54_1
+    Data: {fileID: 2800000, guid: 1c3ee6765e11e4edaaf94839d7cdfdbb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>54_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\54_2
+    Data: {fileID: 2800000, guid: 7a0440cc9681f4dacbfaa4a918b13f6d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>54_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\54_3
+    Data: {fileID: 2800000, guid: 3c14f9110807842df87c56ee45a96707, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>58_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\58_0
+    Data: {fileID: 2800000, guid: bb19c536e2cad4cffa745d9e0ca9e5b0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>58_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\58_1
+    Data: {fileID: 2800000, guid: 14574227cf93045c1aabab8e763b98c6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>58_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\58_2
+    Data: {fileID: 2800000, guid: 1cf6289e47fc1424f9a364c74503bbcb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>58_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\58_3
+    Data: {fileID: 2800000, guid: 9fbbcca64ebc848c683e15dde7a09be4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>64_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\64_0
+    Data: {fileID: 2800000, guid: 177e7e90c45544005afa414bcb5db7b5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>64_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\64_1
+    Data: {fileID: 2800000, guid: e6b9b4cce08f24690adb23fbbcaad471, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>64_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\64_2
+    Data: {fileID: 2800000, guid: 43a1dc62b22c44252acdcb873c404925, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>64_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\64_3
+    Data: {fileID: 2800000, guid: 8e45d7e129b6b49caa7021fc79690c15, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>71_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\71_0
+    Data: {fileID: 2800000, guid: 0c93406a249824a94a3fd58a1cb95ae5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>71_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\71_1
+    Data: {fileID: 2800000, guid: 03d01e24c87f5474a99cd83eb9289d39, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>71_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\71_2
+    Data: {fileID: 2800000, guid: 1c062f52663034175830d45d54559436, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>71_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\71_3
+    Data: {fileID: 2800000, guid: a6d283b3caf7b4baba22cb873595e0ce, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>77_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\77_0
+    Data: {fileID: 2800000, guid: e68f688e24e17426397e606a7dbcca04, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>77_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\77_1
+    Data: {fileID: 2800000, guid: daa370b11665541eda6dab02d4f41a99, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>77_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\77_2
+    Data: {fileID: 2800000, guid: 8cd8a1b094f8b441da15655a29e51fa0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>77_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\77_3
+    Data: {fileID: 2800000, guid: ee09545e902ad421e9f332d32b8b7be3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>81_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\81_0
+    Data: {fileID: 2800000, guid: d7145af5203d74c87805885580739301, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>81_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\81_1
+    Data: {fileID: 2800000, guid: bc6fc52cac2574d36890efa214bbb51d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>81_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\81_2
+    Data: {fileID: 2800000, guid: 21675eb192b104418948b3daf98a5558, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>81_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\81_3
+    Data: {fileID: 2800000, guid: 3756bf694cc4f43e7b31d8b026d1d420, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>83_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\83_0
+    Data: {fileID: 2800000, guid: 89468084e5a9b4233953b7f67bcfd9ac, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>83_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\83_1
+    Data: {fileID: 2800000, guid: 03a8ba8cd165a401cbe20efce5bfaa91, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>83_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\83_2
+    Data: {fileID: 2800000, guid: 96eb9e95184ec415dbfd281c50b66722, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>83_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\83_3
+    Data: {fileID: 2800000, guid: a862c5d635af4439a9ceff9a4341dfa3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>85_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\85_0
+    Data: {fileID: 2800000, guid: 25178611c08414ecab0bcf3789145b8e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>85_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\85_1
+    Data: {fileID: 2800000, guid: 0f9c9a69d86584afeabf4811a0e10993, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>85_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\85_2
+    Data: {fileID: 2800000, guid: 2caaaa9801491472fa2888cd032e9e7c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>85_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\85_3
+    Data: {fileID: 2800000, guid: 4ea6955aa7d7e411d9caa29548f87d67, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>86_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\86_0
+    Data: {fileID: 2800000, guid: 983857686bf2d468a9b016def6506144, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>86_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\86_1
+    Data: {fileID: 2800000, guid: 448e108507cb94bacb604cd6ad3935c5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>86_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\86_2
+    Data: {fileID: 2800000, guid: a3a76bd396a1244ceaf91aff9e4d53d9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>86_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\86_3
+    Data: {fileID: 2800000, guid: 2da91310070694f7199125bf675a45f4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>89_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\89_0
+    Data: {fileID: 2800000, guid: 2cb26d014ff2c48bd8340967c7293d80, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>89_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\89_1
+    Data: {fileID: 2800000, guid: 4a085b408a6274f46bede4da142374fb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>89_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\89_2
+    Data: {fileID: 2800000, guid: bf7536bba38d94bcfa4a68991cb3d154, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>89_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\89_3
+    Data: {fileID: 2800000, guid: bffb89b8a30a543a1be33795dba34466, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>90_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\90_0
+    Data: {fileID: 2800000, guid: 375d1aba9565a4cccba5a6dc90e39ef1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>90_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\90_1
+    Data: {fileID: 2800000, guid: 7d715703a09d946d4949f22a66e8871f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>90_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\90_2
+    Data: {fileID: 2800000, guid: 60febc5c2a0114f6e8198e12d02eaf84, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>90_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\90_3
+    Data: {fileID: 2800000, guid: 3926ab054116e428cb63eb372f89cf0a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>91_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\91_0
+    Data: {fileID: 2800000, guid: f2100761ed4d54df985c60711cda3150, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>91_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\91_1
+    Data: {fileID: 2800000, guid: 2471d6545b01a481dafe80e431a41931, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>91_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\91_2
+    Data: {fileID: 2800000, guid: a82a8074d411f4ffdb35109af2b93e45, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>91_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\91_3
+    Data: {fileID: 2800000, guid: cd23c50a3eed240e5a5f5600dc6e385a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>92_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\92_0
+    Data: {fileID: 2800000, guid: 9e44ae81a46b7473985cddae63bbaee4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>92_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\92_1
+    Data: {fileID: 2800000, guid: 2a059311dcbac4f108600035cdfc5d14, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>92_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\92_2
+    Data: {fileID: 2800000, guid: 60da77ecb9ac0455f88894925cb9df76, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>92_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\92_3
+    Data: {fileID: 2800000, guid: 0bd26baf97cb7440ab95110c82649199, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>98_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\98_0
+    Data: {fileID: 2800000, guid: fb20864d0b08c4a91b070d978dc92d95, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>98_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\98_1
+    Data: {fileID: 2800000, guid: a0bc21ad850d54779902f6ed6314b4c4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>98_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\98_2
+    Data: {fileID: 2800000, guid: 5a72c1896d6dc4f9999cabf3feb03c00, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>98_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\98_3
+    Data: {fileID: 2800000, guid: e8ee47f3870534d48ac99e19ab641ade, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>104_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\104_0
+    Data: {fileID: 2800000, guid: c14b2b798e1814903a43d9c1701c2823, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>104_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\104_1
+    Data: {fileID: 2800000, guid: 4b541a113a9624d03a1a293f882fd791, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>104_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\104_2
+    Data: {fileID: 2800000, guid: aed125694216f473bbddd105fa17a8fd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>104_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\104_3
+    Data: {fileID: 2800000, guid: 3012d6fe0e3324a4c918534c6c8a4d45, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>111_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\111_0
+    Data: {fileID: 2800000, guid: c095a4a5069bf4bd7ac8cc9130581dc6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>111_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\111_1
+    Data: {fileID: 2800000, guid: 788d419dd966d41bc806eba59ce48cb6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>111_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\111_2
+    Data: {fileID: 2800000, guid: 945b341b88a2444de96262b62688645d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>111_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\111_3
+    Data: {fileID: 2800000, guid: 88500042d49404afc83a79598d2b575b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>115_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\115_0
+    Data: {fileID: 2800000, guid: 64b2e60f66d224cad9af80b1fa6c8ddc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>115_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\115_1
+    Data: {fileID: 2800000, guid: e840d2c90e49f4ab193582e7b40bb2f8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>115_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\115_2
+    Data: {fileID: 2800000, guid: adce78f3a74404ac684e7641aee22908, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>115_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\115_3
+    Data: {fileID: 2800000, guid: 28092f9b49722403488b23c6fb979b45, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>124_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\124_0
+    Data: {fileID: 2800000, guid: 09c3a2c9602f64243b82a0796d9da075, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>124_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\124_1
+    Data: {fileID: 2800000, guid: c392e23f56a644e84a9847b388886018, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>124_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\124_2
+    Data: {fileID: 2800000, guid: 277fec3164d4d4daeb72a95a3e1276a9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>124_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\124_3
+    Data: {fileID: 2800000, guid: 6f28904c80cba4011ba1e3264ece69d3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>126_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\126_0
+    Data: {fileID: 2800000, guid: f4a93a77d50da4214857adcc8671e0ca, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>126_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\126_1
+    Data: {fileID: 2800000, guid: 5cad4e20d2ef949a5b366340b8950c10, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>126_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\126_2
+    Data: {fileID: 2800000, guid: 8a3d9c155609a4b90aa75a763a6be942, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>126_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\126_3
+    Data: {fileID: 2800000, guid: 11cf11a59502a47c697206d9fe559809, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>135_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\135_0
+    Data: {fileID: 2800000, guid: 6507ef433a9b74c92967a8e4cde2106d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>135_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\135_1
+    Data: {fileID: 2800000, guid: 6002629f1d54542dcaef2db589dabd52, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>135_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\135_2
+    Data: {fileID: 2800000, guid: d4c9dbc2c44f04606878c3f973489780, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>135_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\135_3
+    Data: {fileID: 2800000, guid: 125012d63009e42c1ad8caa2f784b12d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>139_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\139_0
+    Data: {fileID: 2800000, guid: 2f8a4a8e7f4904b4eac9cfb3b8ce8ccc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>139_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\139_1
+    Data: {fileID: 2800000, guid: b2be0657af2e047a5b0fb4e8ba25e5a1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>139_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\139_2
+    Data: {fileID: 2800000, guid: 25bd6b6ee784941ec93ad8f3dfa31090, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>139_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\139_3
+    Data: {fileID: 2800000, guid: 29fee6dfe271e41dc8c3769afaec70d8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>142_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\142_0
+    Data: {fileID: 2800000, guid: 5776f0b7dcbeb4656ab064b74cc36372, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>142_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\142_1
+    Data: {fileID: 2800000, guid: a75677444bdc9411982faf481967e846, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>142_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\142_2
+    Data: {fileID: 2800000, guid: 26d6ea3de63174df1b68e9a51cf3e1d9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>142_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\142_3
+    Data: {fileID: 2800000, guid: d18e8d81737ca4d9abe413025aa78965, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>Default_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\Default_0
+    Data: {fileID: 2800000, guid: 009cb952ccbbc4ae78f50f2d9e0777e9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>Default_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\Default_1
+    Data: {fileID: 2800000, guid: 7f52a04b3b8d04cd1a9546b12ad1968d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>Default_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\Default_2
+    Data: {fileID: 2800000, guid: c684aaa447d8646b9bf867ea9ee8171e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Hat : <UnityEngine.Texture2D>Default_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Hat\Default_3
+    Data: {fileID: 2800000, guid: 26b397ff33ab040968afffc71a73760d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>5_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\5_0
+    Data: {fileID: 2800000, guid: 423f907aec9824761976e83286d7ac16, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>5_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\5_1
+    Data: {fileID: 2800000, guid: 1811e1aa194ff48e3944425fadc69fbb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>5_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\5_2
+    Data: {fileID: 2800000, guid: 8665f597894b64f0ead1bc745b710643, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>5_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\5_3
+    Data: {fileID: 2800000, guid: 70ace8c4b9e8345a894c5e77c6c027bb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>9_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\9_0
+    Data: {fileID: 2800000, guid: a5a954e14991148d19fba476bd6f7e2e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>9_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\9_1
+    Data: {fileID: 2800000, guid: 01836ddbf3f514553a42178eaf20aa5e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>9_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\9_2
+    Data: {fileID: 2800000, guid: 60dc0c504f5aa47b393cf08436e00d8f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>9_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\9_3
+    Data: {fileID: 2800000, guid: d2b4f40dcf81d4d65965c80aaa6571c8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>13_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\13_0
+    Data: {fileID: 2800000, guid: 48f45b84dedba43cfb2ad7ac45db45f9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>13_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\13_1
+    Data: {fileID: 2800000, guid: 2a1ff03a8c0dc4b88bc1898884f4af95, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>13_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\13_2
+    Data: {fileID: 2800000, guid: d3e8f2bbdb7e54506aa1942157cd4bd9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>13_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\13_3
+    Data: {fileID: 2800000, guid: 3a9d053c6475641b092e15aa236a8176, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>46_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\46_0
+    Data: {fileID: 2800000, guid: 5ceb580b0a61240fcad2d1d14ec6ef51, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>46_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\46_1
+    Data: {fileID: 2800000, guid: b608efe41bed34896a359ead5799dfe9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>46_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\46_2
+    Data: {fileID: 2800000, guid: 42c430d66ab4c42a6a63aae6faf645f2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>46_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\46_3
+    Data: {fileID: 2800000, guid: 10d71d4018afd4b4e986d5df4e1a905a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>55_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\55_0
+    Data: {fileID: 2800000, guid: 28f965a4a3e4346e8ac9289241ac6a81, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>55_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\55_1
+    Data: {fileID: 2800000, guid: 750e82f22449a449eada8ab1cf6cb68e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>55_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\55_2
+    Data: {fileID: 2800000, guid: 41aa8407cdc65463eafac13f5f555c3f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>55_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\55_3
+    Data: {fileID: 2800000, guid: db8fea0a172e24649bd87d3e889634c2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>60_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\60_0
+    Data: {fileID: 2800000, guid: e88b1ccbaf0694725993d2c78008ba0d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>60_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\60_1
+    Data: {fileID: 2800000, guid: cc95ced4c66e1496eb669a71493670d1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>60_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\60_2
+    Data: {fileID: 2800000, guid: 95af8232fcf1d42a9815aa0d7609f8f9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>60_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\60_3
+    Data: {fileID: 2800000, guid: 73acefe595e6a4bfb966f1dd7626a3c9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>62_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\62_0
+    Data: {fileID: 2800000, guid: 8c0daf712f34c4fd8a6ddc6d26b38bad, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>62_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\62_1
+    Data: {fileID: 2800000, guid: 5a6face40457d4910948a62919406e73, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>62_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\62_2
+    Data: {fileID: 2800000, guid: 1a4eb494b7f3248c387c13f4a7dfa96d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>62_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\62_3
+    Data: {fileID: 2800000, guid: 9f10f81a669144906b147e6d80334e02, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>72_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\72_0
+    Data: {fileID: 2800000, guid: 928be9ace35bd41fe9976287d9920355, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>72_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\72_1
+    Data: {fileID: 2800000, guid: e38ce457f7291442b9b1d2d31abb511a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>72_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\72_2
+    Data: {fileID: 2800000, guid: 3f5843336b01241fa962dc19bbe855d6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>72_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\72_3
+    Data: {fileID: 2800000, guid: 7867bd634d0f247afb3859d226e46efc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>96_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\96_0
+    Data: {fileID: 2800000, guid: ea97125c0ebc14ae29faaa68ab89f69b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>96_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\96_1
+    Data: {fileID: 2800000, guid: a4146c3e1a3ea432aa8939eb3fc6f820, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>96_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\96_2
+    Data: {fileID: 2800000, guid: 758e8d614279f4b50be0d6273834a314, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>96_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\96_3
+    Data: {fileID: 2800000, guid: 506d6605f55dc4e26b57ae0f2baa4132, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>101_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\101_0
+    Data: {fileID: 2800000, guid: e91ffbb52e1f5437c9106ad49fe13a65, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>101_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\101_1
+    Data: {fileID: 2800000, guid: 226539978ab174fada4307e6107ed6f8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>101_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\101_2
+    Data: {fileID: 2800000, guid: 3e49e5a257bb0470a82e66d0975caf7b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>101_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\101_3
+    Data: {fileID: 2800000, guid: 1df433e8401964579acf052f5f8bb19c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>109_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\109_0
+    Data: {fileID: 2800000, guid: b607ea536789e4145ad6b5d1b5f32556, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>109_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\109_1
+    Data: {fileID: 2800000, guid: b3c70b3eea9c54ddbae77e97b254dc26, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>109_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\109_2
+    Data: {fileID: 2800000, guid: 006aa526f882441eb91ac6f79a7e515e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>109_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\109_3
+    Data: {fileID: 2800000, guid: 110a55b8db4ad48c793fe43ef35c053e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>116_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\116_0
+    Data: {fileID: 2800000, guid: 1db71ed4c30714388a6050663bd2bbbb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>116_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\116_1
+    Data: {fileID: 2800000, guid: ecc9e6070e4fd4be2bfe3bcf3da904cf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>116_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\116_2
+    Data: {fileID: 2800000, guid: b9d739230662942e48782b02ca5abae5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>116_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\116_3
+    Data: {fileID: 2800000, guid: 3e381f698a54846e7a08703130b22fc1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>127_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\127_0
+    Data: {fileID: 2800000, guid: 7e8477af0f5ac4a8aace253a5d785e10, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>127_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\127_1
+    Data: {fileID: 2800000, guid: 91050964fec4142349670ae410ddd80a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>127_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\127_2
+    Data: {fileID: 2800000, guid: eb96bdd720abc4de9898691e336c68f3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>127_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\127_3
+    Data: {fileID: 2800000, guid: 2187a74c81f5b440a8d048bf336da5fd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>134_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\134_0
+    Data: {fileID: 2800000, guid: 19d1931d652b9430491789ecb6e671f8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>134_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\134_1
+    Data: {fileID: 2800000, guid: d22417f4897994de09cabf183f94f2c3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>134_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\134_2
+    Data: {fileID: 2800000, guid: 90ef3d9a038b14ac99b398a3486a93af, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>134_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\134_3
+    Data: {fileID: 2800000, guid: 5e21f5dd743594586a6d8937e5f7c4d2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>138_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\138_0
+    Data: {fileID: 2800000, guid: 4dfc14a9639a34a0c84074bb76a82733, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>138_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\138_1
+    Data: {fileID: 2800000, guid: 63b14eafd94aa492fa1414d37dc4f37b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>138_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\138_2
+    Data: {fileID: 2800000, guid: a3859d2378b134cc4b1b26b30aa01f9f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>138_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\138_3
+    Data: {fileID: 2800000, guid: ed320189be1114e61acbd1e8102af5f4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>Default_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\Default_0
+    Data: {fileID: 2800000, guid: 042bdfff2b77944de9ea24115f5553cf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>Default_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\Default_1
+    Data: {fileID: 2800000, guid: 219d166125e6c4181a66eaf83ddbcbee, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>Default_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\Default_2
+    Data: {fileID: 2800000, guid: 72eb76ac618c24878af79b963ad41277, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Head : <UnityEngine.Texture2D>Default_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Head\Default_3
+    Data: {fileID: 2800000, guid: d342afeaf9f164db59870e5184758c1f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>2_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\2_0
+    Data: {fileID: 2800000, guid: 504d7884b6a844fb18b2d0d05c7e9fa1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>2_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\2_1
+    Data: {fileID: 2800000, guid: 6dc7a17a4fa0e4bfaa4caba936ab9060, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>2_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\2_2
+    Data: {fileID: 2800000, guid: 0b388e3b59066423f8214711da40f60b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>2_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\2_3
+    Data: {fileID: 2800000, guid: e8b941647771f40048a54e90f517651c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>26_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\26_0
+    Data: {fileID: 2800000, guid: 74382b8f6cab74602b2502cf55c19a41, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>26_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\26_1
+    Data: {fileID: 2800000, guid: 73e30456110c247368e4652061382579, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>26_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\26_2
+    Data: {fileID: 2800000, guid: c8989a5a76f444aae9469897d98f25a3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>26_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\26_3
+    Data: {fileID: 2800000, guid: 4e303c1b13e704ab58375dc0e781a29a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>28_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\28_0
+    Data: {fileID: 2800000, guid: b09f4db7b3c9442679ea1e9bc58d5b66, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>28_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\28_1
+    Data: {fileID: 2800000, guid: 5665a9b40cc43490d8a4f042ff453583, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>28_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\28_2
+    Data: {fileID: 2800000, guid: 28324ffc7286d4fe2a319a9b41f912d6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>28_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\28_3
+    Data: {fileID: 2800000, guid: 0a0314ed22fea47708b0fa5122e981c7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>36_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\36_0
+    Data: {fileID: 2800000, guid: 850202e7d0d13496ea8c433e96a8e07c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>36_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\36_1
+    Data: {fileID: 2800000, guid: 253eeb69fb18f4ce09e28c57bf8d78cb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>36_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\36_2
+    Data: {fileID: 2800000, guid: df80edb13b6ac40ee8171f543cb1078d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>36_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\36_3
+    Data: {fileID: 2800000, guid: 5b8419372ab8f4ffd8e43dd87c2829b7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>37_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\37_0
+    Data: {fileID: 2800000, guid: 5421419a587aa469d84b8c0eabb70b65, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>37_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\37_1
+    Data: {fileID: 2800000, guid: 4c28d9cc5afe94fc4990d70e0af3f665, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>37_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\37_2
+    Data: {fileID: 2800000, guid: 8be8e34eda3e34d1785e8d6738c360e0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>37_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\37_3
+    Data: {fileID: 2800000, guid: 95485572d64d44527a6a119a4ce390b9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>44_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\44_0
+    Data: {fileID: 2800000, guid: f641402cb7df14eaf97f1b726a0ce4d4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>44_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\44_1
+    Data: {fileID: 2800000, guid: f168dc1f93d1342d5abbff6af1166893, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>44_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\44_2
+    Data: {fileID: 2800000, guid: 4bd073644ddb947aba2c75bee03019da, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>44_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\44_3
+    Data: {fileID: 2800000, guid: 3ed5a5d9dc7d448128ff7e84ae8f38a3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>50_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\50_0
+    Data: {fileID: 2800000, guid: 2683d0be8ec104dc9b794025501530ac, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>50_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\50_1
+    Data: {fileID: 2800000, guid: 5aeb029915f544d61adb9996381b4b58, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>50_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\50_2
+    Data: {fileID: 2800000, guid: 382ad09183d7a46daaaa92076edb53fd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>50_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\50_3
+    Data: {fileID: 2800000, guid: 667c1f94f3d6641ffa4638dfc35c07a2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>56_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\56_0
+    Data: {fileID: 2800000, guid: f84c6502fff5e41d891ecae83fa33018, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>56_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\56_1
+    Data: {fileID: 2800000, guid: e8961577afe5e472f9741ee411152f6b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>56_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\56_2
+    Data: {fileID: 2800000, guid: d59c8bc4694eb44ca86a470e81791999, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>56_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\56_3
+    Data: {fileID: 2800000, guid: 197924c0e382f46cc8659d289a44202e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>66_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\66_0
+    Data: {fileID: 2800000, guid: e1074bb631ef542b4b0c2e9b4c3c6a18, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>66_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\66_1
+    Data: {fileID: 2800000, guid: 722f8aa63b74047f7a7a08ff0a5155dd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>66_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\66_2
+    Data: {fileID: 2800000, guid: df59470fc998c4665b8022e5c1e354f0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>66_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\66_3
+    Data: {fileID: 2800000, guid: 51bbc43d210a14ccbaa06219644e8136, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>68_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\68_0
+    Data: {fileID: 2800000, guid: 494a8437b98ef473bb915cee13fb6204, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>68_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\68_1
+    Data: {fileID: 2800000, guid: 2f7bb59ec9d2d4be8855d413988c89f7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>68_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\68_2
+    Data: {fileID: 2800000, guid: 4248f38fff27b43a0a35aac740a3508e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>68_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\68_3
+    Data: {fileID: 2800000, guid: 88bf9a0ac6c2c4c13913ef4ceb941d22, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>74_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\74_0
+    Data: {fileID: 2800000, guid: 84b3530e5adae43039a141190c880dbe, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>74_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\74_1
+    Data: {fileID: 2800000, guid: 9b3c160c4d5094876ba544e2e825723b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>74_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\74_2
+    Data: {fileID: 2800000, guid: 0ed5134400a8649339989c98ab4c2334, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>74_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\74_3
+    Data: {fileID: 2800000, guid: 56e0d92a6af614b6faefb62611f005a9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>87_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\87_0
+    Data: {fileID: 2800000, guid: fbf4e8199289544ef8f713d00f723da2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>87_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\87_1
+    Data: {fileID: 2800000, guid: 0a069f6923d9446a8abdf81efe6a57b2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>87_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\87_2
+    Data: {fileID: 2800000, guid: 3a1d0e1d9e08c483781e3d991dbff234, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>87_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\87_3
+    Data: {fileID: 2800000, guid: 25e215d2f7fd3467fa1d49cc5114f542, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>99_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\99_0
+    Data: {fileID: 2800000, guid: 467d00bfa2d4840189c6f17ad0e8cea0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>99_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\99_1
+    Data: {fileID: 2800000, guid: d489fb02615024ad79db206106a00539, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>99_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\99_2
+    Data: {fileID: 2800000, guid: 95d4869d3440e43d39b9571b9619a109, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>99_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\99_3
+    Data: {fileID: 2800000, guid: 5c045772dd6c648b58c21333ffd0f9cc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>102_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\102_0
+    Data: {fileID: 2800000, guid: 7ab7db25ef2c34e3e96077b788f81b7a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>102_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\102_1
+    Data: {fileID: 2800000, guid: 0f86ce0546cb54111a25110035afd226, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>102_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\102_2
+    Data: {fileID: 2800000, guid: 0516d87ebdacb4e3c82964553bc7fe38, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>102_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\102_3
+    Data: {fileID: 2800000, guid: e285be54d7776490da189704f48187c6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>107_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\107_0
+    Data: {fileID: 2800000, guid: 5a4187034b2904ce9abaa820531c8954, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>107_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\107_1
+    Data: {fileID: 2800000, guid: be497982762374fb9bd909c055ffce18, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>107_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\107_2
+    Data: {fileID: 2800000, guid: a5557607941be4b46bb89d075ffd4339, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>107_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\107_3
+    Data: {fileID: 2800000, guid: b28a63cbdad0e4f7e96893ec9cbfdc2c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>114_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\114_0
+    Data: {fileID: 2800000, guid: d039b9b32e73147548143f28aa39ef80, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>114_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\114_1
+    Data: {fileID: 2800000, guid: 832994212b1a8405d866aad4afddeb97, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>114_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\114_2
+    Data: {fileID: 2800000, guid: 3a49a4717e6274bb0a8b73668feb851c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>114_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\114_3
+    Data: {fileID: 2800000, guid: ab57c864630a743e09c59675216baff8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>125_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\125_0
+    Data: {fileID: 2800000, guid: 871cda6df1ec048c2abd55bf244828e4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>125_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\125_1
+    Data: {fileID: 2800000, guid: 22622917449f5424e80b3b59c2d9a296, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>125_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\125_2
+    Data: {fileID: 2800000, guid: 88fdb45888940453292b6999080949d4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>125_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\125_3
+    Data: {fileID: 2800000, guid: a6e699e75b29248a8966f622b585061c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>128_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\128_0
+    Data: {fileID: 2800000, guid: 83a0ded61f1134be3945593a4462e9dd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>128_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\128_1
+    Data: {fileID: 2800000, guid: 4f44a57ec85004b328d01d5ed59c675c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>128_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\128_2
+    Data: {fileID: 2800000, guid: 53891310885914e50887d2d04e8d0eb6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>128_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\128_3
+    Data: {fileID: 2800000, guid: a5dd5feaa972b437784804ea9e164b56, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>132_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\132_0
+    Data: {fileID: 2800000, guid: 2f46e652d819c4de68aaae53ecbc93f9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>132_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\132_1
+    Data: {fileID: 2800000, guid: 68cd0b91afef84c968a054291d110223, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>132_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\132_2
+    Data: {fileID: 2800000, guid: 2d0595775a94a49ada1e5ebd73ab6979, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>132_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\132_3
+    Data: {fileID: 2800000, guid: 9e265f93e324445cc95eef453841b3a7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>136_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\136_0
+    Data: {fileID: 2800000, guid: bec20dbcf7d4c4a76a0d1ce7ece69d07, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>136_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\136_1
+    Data: {fileID: 2800000, guid: 5c328367c7eb840748a12b5cf247163f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>136_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\136_2
+    Data: {fileID: 2800000, guid: b8b990afe517c40c19ebe16cb4055158, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>136_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\136_3
+    Data: {fileID: 2800000, guid: f75c55a21fad04dcabce2945b2675f3f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>Default_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\Default_0
+    Data: {fileID: 2800000, guid: 24cfc6f18dc87463abb6a0177e16d2fb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>Default_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\Default_1
+    Data: {fileID: 2800000, guid: c55a9e6516d844dd7be077480843eda1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>Default_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\Default_2
+    Data: {fileID: 2800000, guid: 53a0f0be2b7ab4d66981a95592a91c96, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Pants : <UnityEngine.Texture2D>Default_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Pants\Default_3
+    Data: {fileID: 2800000, guid: c7d214fba138e4d84935101e58874250, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>1_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\1_0
+    Data: {fileID: 2800000, guid: 21d21c8cb67814c23aef6983e91e0fab, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>1_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\1_1
+    Data: {fileID: 2800000, guid: bab8835dc79684de0998e2cf788bdc6d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>1_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\1_2
+    Data: {fileID: 2800000, guid: ad0f6d52d2e094ea3ba1a174348dedaa, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>1_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\1_3
+    Data: {fileID: 2800000, guid: 36ee1270e6a534d4cbc7c0b4f9fac3c8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>8_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\8_0
+    Data: {fileID: 2800000, guid: 0ff100ba7741c4e6d8f3657a258ad8d4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>8_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\8_1
+    Data: {fileID: 2800000, guid: 4833f2bf0d3c14bf8b8f0e5da7b89782, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>8_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\8_2
+    Data: {fileID: 2800000, guid: 15c4172023db640dbb4041cfcf257e22, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>8_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\8_3
+    Data: {fileID: 2800000, guid: 4996582a838e64d3089897b75911d56a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>23_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\23_0
+    Data: {fileID: 2800000, guid: 360dabc2865934ed5bd5cec368f2063e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>23_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\23_1
+    Data: {fileID: 2800000, guid: a8bb88f577db24427b33ca7d712c1d1b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>23_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\23_2
+    Data: {fileID: 2800000, guid: c8afba4f5786f47ccb5b38dbc45deeae, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>23_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\23_3
+    Data: {fileID: 2800000, guid: 59fe06ac5e35440e2a318fb95c1a1a98, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>25_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\25_0
+    Data: {fileID: 2800000, guid: f42639af56c82471e9550ddccc982b0f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>25_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\25_1
+    Data: {fileID: 2800000, guid: 76fb50a4f550047f0a293c9e4e697768, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>25_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\25_2
+    Data: {fileID: 2800000, guid: e43fbb824334148d680ff7deea5c5455, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>25_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\25_3
+    Data: {fileID: 2800000, guid: 5f30ce2e2e835457ebe6d06533e3574e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>32_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\32_0
+    Data: {fileID: 2800000, guid: 7fb1cb7f8c47d491d918d90360b1699b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>32_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\32_1
+    Data: {fileID: 2800000, guid: 0ad8e5280cfd74b0ea6f65e419964a3c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>32_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\32_2
+    Data: {fileID: 2800000, guid: d77b89f1c8cb54ef18902fa901ddf26a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>32_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\32_3
+    Data: {fileID: 2800000, guid: 78eec97477f2f4c599a1080acbdafb39, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>34_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\34_0
+    Data: {fileID: 2800000, guid: fd2bec542835645fc9d8c22c418b1a4a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>34_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\34_1
+    Data: {fileID: 2800000, guid: 26d38172691d14daf85f01aeec222d55, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>34_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\34_2
+    Data: {fileID: 2800000, guid: 79360805ddf28435c8f222319ce9d3e4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>34_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\34_3
+    Data: {fileID: 2800000, guid: f3841e425f13244148f3c59ea9db62db, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>35_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\35_0
+    Data: {fileID: 2800000, guid: ac277f8db0755475595ab19c1ad2c8e9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>35_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\35_1
+    Data: {fileID: 2800000, guid: 4bc1d016369f44f1295d5636acee9b59, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>35_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\35_2
+    Data: {fileID: 2800000, guid: dc5a846bb1d1f47c4b1cda0e45496d1e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>35_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\35_3
+    Data: {fileID: 2800000, guid: 7c336a87dc1b24854a829102af50289d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>45_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\45_0
+    Data: {fileID: 2800000, guid: 3e6dbf3869b734f319605e38e2a6251e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>45_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\45_1
+    Data: {fileID: 2800000, guid: 392f1a130ffe74d2dbc1705233106506, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>45_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\45_2
+    Data: {fileID: 2800000, guid: 17fcf1503ed0d400985fc2530d40a9cb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>45_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\45_3
+    Data: {fileID: 2800000, guid: 6d6b26ef1afac46408dbeb4730ff2426, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>51_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\51_0
+    Data: {fileID: 2800000, guid: b87ed8cf402a340b080cdcba0275ae23, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>51_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\51_1
+    Data: {fileID: 2800000, guid: ea1c6985d7147410f946d249e4399d69, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>51_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\51_2
+    Data: {fileID: 2800000, guid: ac2d90aeb13df4072b30b3ac3f76662c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>51_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\51_3
+    Data: {fileID: 2800000, guid: b167b431ec75741e0ae65468d1390462, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>57_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\57_0
+    Data: {fileID: 2800000, guid: 7798c68a8f7ad49ec92743db9e8b5e85, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>57_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\57_1
+    Data: {fileID: 2800000, guid: 36a3cf69ad7894f3985331bbf0e5e4c1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>57_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\57_2
+    Data: {fileID: 2800000, guid: 68436c946fa5241b2a6f64c9f6ddce86, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>57_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\57_3
+    Data: {fileID: 2800000, guid: 6729e4f5a531d4ac6929c6a9e2be0559, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>63_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\63_0
+    Data: {fileID: 2800000, guid: efb61031f04e449648da17bdadc4fc42, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>63_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\63_1
+    Data: {fileID: 2800000, guid: 8e88b899736a44413b7e5bb23cffbd6e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>63_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\63_2
+    Data: {fileID: 2800000, guid: 04f202800bcab4e3ea2d07f7c9a6f75d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>63_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\63_3
+    Data: {fileID: 2800000, guid: f620beb9aac3b465499aa71232916c8c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>69_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\69_0
+    Data: {fileID: 2800000, guid: 568c2e439963c4bc6b64661d903c949c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>69_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\69_1
+    Data: {fileID: 2800000, guid: e5820abefb9604ffda507dc61f2ac046, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>69_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\69_2
+    Data: {fileID: 2800000, guid: db914a37f2eff4615a271d3420bc63ad, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>69_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\69_3
+    Data: {fileID: 2800000, guid: 1bad5cbf64db34063988747aed2040b1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>75_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\75_0
+    Data: {fileID: 2800000, guid: 3f9254cc9a90e49e9b0b176026ae93ab, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>75_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\75_1
+    Data: {fileID: 2800000, guid: 7014c1f784879477cba2f7154a30fb42, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>75_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\75_2
+    Data: {fileID: 2800000, guid: 6355f3606b29a42eea0132e1382448ee, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>75_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\75_3
+    Data: {fileID: 2800000, guid: c3c88e2008b534e2ca9fb28afe017c99, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>88_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\88_0
+    Data: {fileID: 2800000, guid: 329875fc1c9154234878eeabbd7b1567, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>88_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\88_1
+    Data: {fileID: 2800000, guid: 19acdfabb91aa4f60b0e2e31987887f6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>88_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\88_2
+    Data: {fileID: 2800000, guid: 65039903f711e46999acce6f8ea97eb8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>88_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\88_3
+    Data: {fileID: 2800000, guid: 9ba41c701cb66421ea0110ae993e87a4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>94_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\94_0
+    Data: {fileID: 2800000, guid: 5300063b96d324de397474df5ac43c8e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>94_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\94_1
+    Data: {fileID: 2800000, guid: 79b13e915c5e3423b941b42b48d1cfa4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>94_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\94_2
+    Data: {fileID: 2800000, guid: 72cb25848a6954860a1b5a8d51431c60, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>94_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\94_3
+    Data: {fileID: 2800000, guid: e790aae35bbb74b719b224cfe06201ba, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>103_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\103_0
+    Data: {fileID: 2800000, guid: 8f92981874e1e48538c45528c7e4f6da, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>103_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\103_1
+    Data: {fileID: 2800000, guid: f99bbffb2cd7e437f81ac5e6b8a0c5a8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>103_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\103_2
+    Data: {fileID: 2800000, guid: 27319819c6e9b4ab68ded7946fd0fc76, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>103_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\103_3
+    Data: {fileID: 2800000, guid: 3cc9aa94d6f714ff885572359c21fb8e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>108_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\108_0
+    Data: {fileID: 2800000, guid: b1c0c32f58a36414e95675db9a873194, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>108_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\108_1
+    Data: {fileID: 2800000, guid: 07d40d129f7de404b832b5f81831ce30, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>108_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\108_2
+    Data: {fileID: 2800000, guid: a7b6bc780803f49a8a0869603f86e5b4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>108_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\108_3
+    Data: {fileID: 2800000, guid: 7bc6afebb09d04fe094416ff7f369d51, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>117_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\117_0
+    Data: {fileID: 2800000, guid: f2e85c5c7375147cbb456512730db899, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>117_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\117_1
+    Data: {fileID: 2800000, guid: 88a0cb9f55ae642fd9ede297a836c380, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>117_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\117_2
+    Data: {fileID: 2800000, guid: a72a2dfa138e74bea9c9f5fad72f8bf3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>117_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\117_3
+    Data: {fileID: 2800000, guid: 9fcf371db665345a1853ca4c39287e9a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>121_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\121_0
+    Data: {fileID: 2800000, guid: 84c15da630b1e4ef6997ece0d237d331, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>121_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\121_1
+    Data: {fileID: 2800000, guid: 3040f6ea393044b9e95fdf0e5efb9f1f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>121_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\121_2
+    Data: {fileID: 2800000, guid: a78f299478d6747c0a833f5ddfa9af62, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>121_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\121_3
+    Data: {fileID: 2800000, guid: 9c5d4378d7f81444c9b720a74157a0d4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>130_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\130_0
+    Data: {fileID: 2800000, guid: e14d4c13ee4834ec7a62d1329e4d1ec0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>130_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\130_1
+    Data: {fileID: 2800000, guid: 93fef5d6529de4fa183892f02c04a0f3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>130_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\130_2
+    Data: {fileID: 2800000, guid: b2aac101f3cbb4fa5b4b33b37e4184dc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>130_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\130_3
+    Data: {fileID: 2800000, guid: 7da9e9d35e5574f59bf592c301135dee, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>137_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\137_0
+    Data: {fileID: 2800000, guid: f0539992d01154957a47fcd6ca463cdf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>137_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\137_1
+    Data: {fileID: 2800000, guid: 7e91cdb0b4b8a4bf5b93236a8f8eb469, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>137_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\137_2
+    Data: {fileID: 2800000, guid: e5ad2b672fc2f4970aa2a296bdd7fbc4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>137_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\137_3
+    Data: {fileID: 2800000, guid: 88e7c9c48f98249cb8decf2ab506da85, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>Default_0'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\Default_0
+    Data: {fileID: 2800000, guid: 8086cb26de21648bea20f32b8576a163, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>Default_1'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\Default_1
+    Data: {fileID: 2800000, guid: 224cb1a6ff4ba4c20a061f4169dfe355, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>Default_2'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\Default_2
+    Data: {fileID: 2800000, guid: b627f43f0e66b4f5a8506b09944d10f5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shirt : <UnityEngine.Texture2D>Default_3'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shirt\Default_3
+    Data: {fileID: 2800000, guid: 1431591b0607e4fb58345769e0cdc876, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>3_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\3_0_L
+    Data: {fileID: 2800000, guid: 2e1929498af3b467d874e7e410663694, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>3_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\3_0_R
+    Data: {fileID: 2800000, guid: 7cdfa640b4e484010af445facc98b1de, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>3_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\3_1_L
+    Data: {fileID: 2800000, guid: 61f7b100971ad4ccda2df7527c2bc11a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>3_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\3_1_R
+    Data: {fileID: 2800000, guid: cd7bdf494c0864741bfd549dd67fa6c7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>3_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\3_2_L
+    Data: {fileID: 2800000, guid: 897a4b910ebbe466e8b2adef58875f9d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>3_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\3_2_R
+    Data: {fileID: 2800000, guid: 37f39340f6a3c4af89342d06101154f2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>3_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\3_3_L
+    Data: {fileID: 2800000, guid: 852d901ee7e9e4f81ac96bf9b815b202, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>3_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\3_3_R
+    Data: {fileID: 2800000, guid: 1140c3eb0fae248dea238f04793b651f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>7_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\7_0_L
+    Data: {fileID: 2800000, guid: 71dd42236f5d140058fda553815631b0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>7_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\7_0_R
+    Data: {fileID: 2800000, guid: f5249b29d3375498899725e1cc266186, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>7_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\7_1_L
+    Data: {fileID: 2800000, guid: e79a199791999466ba1329d6e88c547e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>7_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\7_1_R
+    Data: {fileID: 2800000, guid: a7a36412b6f144fa2aaafcf5ec7eb042, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>7_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\7_2_L
+    Data: {fileID: 2800000, guid: bcf220a57e30941f6976e47b699d1126, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>7_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\7_2_R
+    Data: {fileID: 2800000, guid: ecb671cebc25242d6b04000906444fa6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>7_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\7_3_L
+    Data: {fileID: 2800000, guid: ef449f9f7e77245e491c62adfa38266c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>7_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\7_3_R
+    Data: {fileID: 2800000, guid: 31112b55ac9ce47b885e06fc90f407f6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>27_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\27_0_L
+    Data: {fileID: 2800000, guid: 0acba0fb0645d4036b1c9a19e3b2b6e4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>27_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\27_0_R
+    Data: {fileID: 2800000, guid: a8c60b61905c14f68890320b229e10e2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>27_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\27_1_L
+    Data: {fileID: 2800000, guid: a05c76316e71844cd8261f7902960aa3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>27_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\27_1_R
+    Data: {fileID: 2800000, guid: a3c62378223e1414b8413b3bf9187a02, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>27_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\27_2_L
+    Data: {fileID: 2800000, guid: 030ecdbbbb8a24f05899bf013ca7d0a3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>27_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\27_2_R
+    Data: {fileID: 2800000, guid: 9619d26f4bdb7435ead6d069736607a0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>27_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\27_3_L
+    Data: {fileID: 2800000, guid: 1bd53e254d4ed441aadf4a6c9f059774, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>27_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\27_3_R
+    Data: {fileID: 2800000, guid: 73210cbeb0f86421893451ec80cda1ef, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>31_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\31_0_L
+    Data: {fileID: 2800000, guid: 3d16aa947665c458ca49cb850a7c8bc0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>31_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\31_0_R
+    Data: {fileID: 2800000, guid: a147bc3c8e038453b9c2e928ebf33963, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>31_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\31_1_L
+    Data: {fileID: 2800000, guid: 0b2612f42219047da8452493ea501481, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>31_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\31_1_R
+    Data: {fileID: 2800000, guid: ee4bc6d5b6bbc4db4a93497466bfdd6e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>31_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\31_2_L
+    Data: {fileID: 2800000, guid: b8e366fa5381c476897d448f533fc2ec, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>31_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\31_2_R
+    Data: {fileID: 2800000, guid: 06e7cb72646b34b138c2674bd2608f33, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>31_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\31_3_L
+    Data: {fileID: 2800000, guid: 7b160583ed18545898f24f6e767964a8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>31_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\31_3_R
+    Data: {fileID: 2800000, guid: 4a44950a416374b0eb30e9e43e9df5be, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>38_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\38_0_L
+    Data: {fileID: 2800000, guid: f4a8f18e4fad64d9daa8eb8536331b4e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>38_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\38_0_R
+    Data: {fileID: 2800000, guid: a3489dda11c60408aa145bd3e6f6d30f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>38_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\38_1_L
+    Data: {fileID: 2800000, guid: befb434d33bf64713a562d559613a3e9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>38_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\38_1_R
+    Data: {fileID: 2800000, guid: 2cfa513e1e1eb4412847d7e49ad8a614, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>38_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\38_2_L
+    Data: {fileID: 2800000, guid: a4faa29ffaf86438b9a29f80f222cea2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>38_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\38_2_R
+    Data: {fileID: 2800000, guid: 2649fa71d019b457db05575da292a524, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>38_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\38_3_L
+    Data: {fileID: 2800000, guid: cf3fb768e5869487694bb5cbe4ba0f24, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>38_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\38_3_R
+    Data: {fileID: 2800000, guid: a0fabfd2b27874ae499989ad173bf08f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>39_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\39_0_L
+    Data: {fileID: 2800000, guid: 93a7b61048cd94f9ca93da865e1723ec, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>39_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\39_0_R
+    Data: {fileID: 2800000, guid: 75347420b1a7445f8856b6955c677086, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>39_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\39_1_L
+    Data: {fileID: 2800000, guid: 8a93bfc9259124392b42b46c0a68f08b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>39_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\39_1_R
+    Data: {fileID: 2800000, guid: ddd9c2c8620f94a63bd13d565ae94b26, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>39_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\39_2_L
+    Data: {fileID: 2800000, guid: bc4687e84e5574c0c9c19b1c831a44e6, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>39_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\39_2_R
+    Data: {fileID: 2800000, guid: 2d1211f3358194f5caece2c686bf9881, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>39_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\39_3_L
+    Data: {fileID: 2800000, guid: 09149190ae2c34268b0ac8b9add6b370, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>39_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\39_3_R
+    Data: {fileID: 2800000, guid: 1142245fa53ea4431bb4ea8d7dadbb41, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>47_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\47_0_L
+    Data: {fileID: 2800000, guid: 534d40c45a003475093c7cf504d898c1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>47_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\47_0_R
+    Data: {fileID: 2800000, guid: 871b36c24be3f483680129dacf0da6e8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>47_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\47_1_L
+    Data: {fileID: 2800000, guid: 7ea704317d13a4f1f8f03d7b31215936, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>47_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\47_1_R
+    Data: {fileID: 2800000, guid: 98f68df1189674c388393316b5cc7139, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>47_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\47_2_L
+    Data: {fileID: 2800000, guid: d14ccc498e091463e8c41c3f71f5e742, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>47_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\47_2_R
+    Data: {fileID: 2800000, guid: 70d40da6099d942af8b2cad786ab495a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>47_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\47_3_L
+    Data: {fileID: 2800000, guid: 3c68d235575fe440db34437773d8c3dd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>47_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\47_3_R
+    Data: {fileID: 2800000, guid: 9d0200b3bae8142a798cce35177f4f33, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>52_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\52_0_L
+    Data: {fileID: 2800000, guid: 94f3c4d06f702451fbe640ac74cee695, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>52_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\52_0_R
+    Data: {fileID: 2800000, guid: 22de748040f634f04a7ac651042224cc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>52_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\52_1_L
+    Data: {fileID: 2800000, guid: 69d1bce3825c84137b87b39ffad1f5d2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>52_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\52_1_R
+    Data: {fileID: 2800000, guid: 707e2c3524f074e0b928de9389307f9d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>52_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\52_2_L
+    Data: {fileID: 2800000, guid: 5420cc9e85ca44273b9494c24d48113d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>52_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\52_2_R
+    Data: {fileID: 2800000, guid: 39541d11a556c49ea9114cd5711b686e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>52_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\52_3_L
+    Data: {fileID: 2800000, guid: 674853e87b65e4654a8e08f1acc7ac7f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>52_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\52_3_R
+    Data: {fileID: 2800000, guid: 3b212e2aaa34547a5b402408ae23fd38, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>59_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\59_0_L
+    Data: {fileID: 2800000, guid: 97856175a041148308de2bf56c69e87d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>59_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\59_0_R
+    Data: {fileID: 2800000, guid: 9b301ff1ac94e4e549b9b9a461022e51, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>59_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\59_1_L
+    Data: {fileID: 2800000, guid: bf60d0c5c5cbf4f1d8ef3a5d208537cb, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>59_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\59_1_R
+    Data: {fileID: 2800000, guid: e667dd7a9f03546279e28e36bb7a87c9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>59_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\59_2_L
+    Data: {fileID: 2800000, guid: 46bdfc1b9e00941e2b74a7d4994089cc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>59_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\59_2_R
+    Data: {fileID: 2800000, guid: c421a7cf2671b4404b2312aa07256651, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>59_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\59_3_L
+    Data: {fileID: 2800000, guid: a0fba83a20ab04984b80f908223f9e74, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>59_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\59_3_R
+    Data: {fileID: 2800000, guid: e232b9102d6444454808ac1962d6a26d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>65_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\65_0_L
+    Data: {fileID: 2800000, guid: 7d2cecbc901bf49768cb5899fd8901de, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>65_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\65_0_R
+    Data: {fileID: 2800000, guid: dddf944f956df45e3b8ce0c53d26a13b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>65_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\65_1_L
+    Data: {fileID: 2800000, guid: edd3f20396cd74916b4ccdc722cc7351, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>65_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\65_1_R
+    Data: {fileID: 2800000, guid: 5c73b2fee1fce42ad95e6387f3501484, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>65_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\65_2_L
+    Data: {fileID: 2800000, guid: 8a9f2b009d12a4f6fa9fb199967b7021, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>65_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\65_2_R
+    Data: {fileID: 2800000, guid: c6a11f48f20024990ab2b336b055152a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>65_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\65_3_L
+    Data: {fileID: 2800000, guid: 37caa30b3223a4a5bba04c3acd600ede, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>65_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\65_3_R
+    Data: {fileID: 2800000, guid: 69eece315e2134fccaa236f1ba4f30ee, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>70_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\70_0_L
+    Data: {fileID: 2800000, guid: 8be50c14ba5c64e4483ba8082caed3b8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>70_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\70_0_R
+    Data: {fileID: 2800000, guid: 38c948becf77a4adca0038d880ada7cf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>70_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\70_1_L
+    Data: {fileID: 2800000, guid: b67c669edb8af4798a828fa0ae7586cd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>70_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\70_1_R
+    Data: {fileID: 2800000, guid: d0c981fabcf334dd0abb12fa17ce0547, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>70_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\70_2_L
+    Data: {fileID: 2800000, guid: f720f3da6976a49b7a2f0b02dd9b7dfe, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>70_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\70_2_R
+    Data: {fileID: 2800000, guid: 525d5e78c93c14a75b29ea866dfef495, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>70_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\70_3_L
+    Data: {fileID: 2800000, guid: 0be75b895c96f4f809a21681e9944e21, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>70_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\70_3_R
+    Data: {fileID: 2800000, guid: 09c8a1ee9ec924521bdb700738de42f3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>76_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\76_0_L
+    Data: {fileID: 2800000, guid: 0453322d4dbaf4f398b926da8a550ac9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>76_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\76_0_R
+    Data: {fileID: 2800000, guid: 1febfa642afe0423fbebfd355266691a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>76_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\76_1_L
+    Data: {fileID: 2800000, guid: bd8082ebb4aa740a0b8fa3ec560a2d96, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>76_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\76_1_R
+    Data: {fileID: 2800000, guid: afe6014b560954608b3e4c4b343f0873, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>76_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\76_2_L
+    Data: {fileID: 2800000, guid: 58732aa9230cc47efbb9faa080a79ec8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>76_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\76_2_R
+    Data: {fileID: 2800000, guid: 6cf960bd1b3d943839d2dddbb315c679, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>76_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\76_3_L
+    Data: {fileID: 2800000, guid: 1deea8de5203c41dd83ab917279af9f4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>76_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\76_3_R
+    Data: {fileID: 2800000, guid: f6726163f05fe42a3b8f5156ac24874e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>97_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\97_0_L
+    Data: {fileID: 2800000, guid: 70d45d7d77ecb499582e56d24bc0deb3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>97_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\97_0_R
+    Data: {fileID: 2800000, guid: de761872e0c9443028403d7e21ac997c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>97_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\97_1_L
+    Data: {fileID: 2800000, guid: fe5ec5279564445868ea4a94c810f398, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>97_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\97_1_R
+    Data: {fileID: 2800000, guid: adbf5f5a382314ea4993c573d506d406, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>97_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\97_2_L
+    Data: {fileID: 2800000, guid: b3a44ab35be7f41e6b736f1cbbc99f91, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>97_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\97_2_R
+    Data: {fileID: 2800000, guid: b8e1634ae8d6441dca1d49f89cae7037, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>97_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\97_3_L
+    Data: {fileID: 2800000, guid: f1f87604e565c4533a79448b4bfacf8b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>97_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\97_3_R
+    Data: {fileID: 2800000, guid: f1a3edd8663db40bb9c4eb0f5b933219, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>106_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\106_0_L
+    Data: {fileID: 2800000, guid: 7b5272352e9b643e09e028b676b45e1d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>106_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\106_0_R
+    Data: {fileID: 2800000, guid: d32d0c35fa98f40b9837b0c0eb2fff73, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>106_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\106_1_L
+    Data: {fileID: 2800000, guid: 658a013c5fb89403385a373125410b61, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>106_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\106_1_R
+    Data: {fileID: 2800000, guid: 9573327d9b5604dacb2b94f8dbcbdff1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>106_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\106_2_L
+    Data: {fileID: 2800000, guid: 4133b0f2f99204a79aff893b705965fd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>106_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\106_2_R
+    Data: {fileID: 2800000, guid: 599ae6c4729b740128d64c9da8342f7f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>106_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\106_3_L
+    Data: {fileID: 2800000, guid: 2bf60cd5ae64742ebb3c7f86196f765f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>106_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\106_3_R
+    Data: {fileID: 2800000, guid: 3074eca948eec411597f3ea040fc3691, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>110_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\110_0_L
+    Data: {fileID: 2800000, guid: 3eb01e85ec15642a68ba69fdf5bba05b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>110_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\110_0_R
+    Data: {fileID: 2800000, guid: 8d6ab2bf8515b4baeaae00c962c4f764, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>110_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\110_1_L
+    Data: {fileID: 2800000, guid: f3bf1ed4498524b7b96efc06e37c4500, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>110_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\110_1_R
+    Data: {fileID: 2800000, guid: 3516384c3d7574779b47a21f7eafbc3d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>110_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\110_2_L
+    Data: {fileID: 2800000, guid: a67cc070232134150b70054877b7ba8b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>110_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\110_2_R
+    Data: {fileID: 2800000, guid: 004064c40016449448e74df904240c8f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>110_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\110_3_L
+    Data: {fileID: 2800000, guid: 7071fee4fa1e648708eccce393250107, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>110_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\110_3_R
+    Data: {fileID: 2800000, guid: 921e220200eb0448bb0559fab2187366, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>118_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\118_0_L
+    Data: {fileID: 2800000, guid: 498515d2f31fe47838fd4b76ee06ede5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>118_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\118_0_R
+    Data: {fileID: 2800000, guid: 0d857068901534cbba2186f61a1271d7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>118_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\118_1_L
+    Data: {fileID: 2800000, guid: 707ebd3443ac64df3961c0473be59f64, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>118_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\118_1_R
+    Data: {fileID: 2800000, guid: 4d4e4f167c69d4b3fab07ad4601e3b61, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>118_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\118_2_L
+    Data: {fileID: 2800000, guid: 5837c1172e86e4e099d04942d9d70fe1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>118_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\118_2_R
+    Data: {fileID: 2800000, guid: 9fe1b646bb624474a970b6badfc19f68, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>118_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\118_3_L
+    Data: {fileID: 2800000, guid: 35f826b4c71c44bb5b0740576f1dfbd1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>118_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\118_3_R
+    Data: {fileID: 2800000, guid: 3fcd9f470061a4eb38f0f1316ea29ec1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>122_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\122_0_L
+    Data: {fileID: 2800000, guid: 26ad81b4147d5404187796e33d7fccaf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>122_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\122_0_R
+    Data: {fileID: 2800000, guid: 2503c4625551f4e2dbb6c9b13840e2f4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>122_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\122_1_L
+    Data: {fileID: 2800000, guid: a2deeec3d118645a9b68be56070ed1b9, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>122_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\122_1_R
+    Data: {fileID: 2800000, guid: 7e058678f051246e4a854799a72e68f4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>122_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\122_2_L
+    Data: {fileID: 2800000, guid: 73d254841b14b4e0699a51d8d4301d7f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>122_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\122_2_R
+    Data: {fileID: 2800000, guid: 7375789dcd7f443aaac2373aefd8c324, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>122_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\122_3_L
+    Data: {fileID: 2800000, guid: ba27eff8e949d4dc8be643c795238792, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>122_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\122_3_R
+    Data: {fileID: 2800000, guid: e68a7c30b7ba04cc18c29b14884fa53c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>131_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\131_0_L
+    Data: {fileID: 2800000, guid: 20a128fa4789245a4b56816068e91c73, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>131_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\131_0_R
+    Data: {fileID: 2800000, guid: bfc83e0633466403b8b87fbe4b934800, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>131_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\131_1_L
+    Data: {fileID: 2800000, guid: f7ce1d193746b4f23a269f51d7fdbfba, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>131_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\131_1_R
+    Data: {fileID: 2800000, guid: 5df7056d96cfa408d90a3b79737b5a84, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>131_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\131_2_L
+    Data: {fileID: 2800000, guid: f406136f929734303a29e065ee2a9c7a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>131_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\131_2_R
+    Data: {fileID: 2800000, guid: e3c21274452ac471c89831a89a07299a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>131_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\131_3_L
+    Data: {fileID: 2800000, guid: 581732034f6df4218b91c9bd716299fd, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>131_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\131_3_R
+    Data: {fileID: 2800000, guid: fd6e3bbbc540243ebbddcd47d8709ddf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>133_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\133_0_L
+    Data: {fileID: 2800000, guid: 67755665db88047e08a778c1cea8f13e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>133_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\133_0_R
+    Data: {fileID: 2800000, guid: 61241ec632362437ea5eacf115917a25, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>133_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\133_1_L
+    Data: {fileID: 2800000, guid: 82d8105dc01b9467da7945773d8fb91a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>133_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\133_1_R
+    Data: {fileID: 2800000, guid: 590d26e38a242481482d902dd4397e29, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>133_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\133_2_L
+    Data: {fileID: 2800000, guid: 95fca4d9b2e3f44d994ac95d05f384b4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>133_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\133_2_R
+    Data: {fileID: 2800000, guid: 796839a8bd19547fda9165d64145c800, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>133_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\133_3_L
+    Data: {fileID: 2800000, guid: 6637ba5ac9c7849aea902fc18709dc2d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>133_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\133_3_R
+    Data: {fileID: 2800000, guid: 734cc8a72c22e4cfd80a633da341cfd5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>140_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\140_0_L
+    Data: {fileID: 2800000, guid: 6d84f8c58920d4db79d0bbb81aada3c4, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>140_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\140_0_R
+    Data: {fileID: 2800000, guid: 40776bca8502341a180c77b53f714b29, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>140_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\140_1_L
+    Data: {fileID: 2800000, guid: 4a828cb407b2740ac8ac1bfb402c058d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>140_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\140_1_R
+    Data: {fileID: 2800000, guid: 8da8464282ace4829b53be43593d632f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>140_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\140_2_L
+    Data: {fileID: 2800000, guid: 4864c966629cb433095bc81e5e0b4e8d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>140_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\140_2_R
+    Data: {fileID: 2800000, guid: 15d7982ef23bc43fdb4fe833456ee545, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>140_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\140_3_L
+    Data: {fileID: 2800000, guid: c13451084c00142a2a7ea6a8f04e0892, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>140_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\140_3_R
+    Data: {fileID: 2800000, guid: 5c825c1440be94207bd9f56c05d3f5b8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>143_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\143_0_L
+    Data: {fileID: 2800000, guid: 91ce5a4f3f9af4275b2b57992f94d0a8, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>143_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\143_0_R
+    Data: {fileID: 2800000, guid: 23baf94a4e2c9438fbb103857c69997f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>143_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\143_1_L
+    Data: {fileID: 2800000, guid: 5fb4280a9acce4c0aa4a633274fafb8e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>143_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\143_1_R
+    Data: {fileID: 2800000, guid: 6b46b8620887c4b5eb8a02a33bde1699, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>143_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\143_2_L
+    Data: {fileID: 2800000, guid: c90110cc40dae4c3abdd664b79771971, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>143_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\143_2_R
+    Data: {fileID: 2800000, guid: c5e2c58e90d9c467bbd50535c8e259ee, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>143_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\143_3_L
+    Data: {fileID: 2800000, guid: 57d4a2ce9493c4ea5bd1a3160c2f3931, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>143_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\143_3_R
+    Data: {fileID: 2800000, guid: 52c4860ed9f0c4e53b21867e8902e051, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>144_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\144_0_L
+    Data: {fileID: 2800000, guid: 1e94c8d696e994cb9b6565e7fa3cfc5e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>144_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\144_0_R
+    Data: {fileID: 2800000, guid: 48726b4cc64d345d099cf30928d92a05, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>144_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\144_1_L
+    Data: {fileID: 2800000, guid: 53caa891b1781466da8d91524c089524, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>144_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\144_1_R
+    Data: {fileID: 2800000, guid: 002282dd334664cf1be468bfdb687ea3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>144_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\144_2_L
+    Data: {fileID: 2800000, guid: 32f649144b2d04a53b6278156493ac4d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>144_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\144_2_R
+    Data: {fileID: 2800000, guid: 0a627487e6e6f4938a1ca8b83cc6630e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>144_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\144_3_L
+    Data: {fileID: 2800000, guid: 5d679e3ce983544a1b593ba5879d9782, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>144_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\144_3_R
+    Data: {fileID: 2800000, guid: 27326745332744016b3f0721e218a2f0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>145_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\145_0_L
+    Data: {fileID: 2800000, guid: f6a076a1f874c45989aa66ad33c70148, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>145_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\145_0_R
+    Data: {fileID: 2800000, guid: 055fa9cae5bdb426b86ddd61c4790ecf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>145_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\145_1_L
+    Data: {fileID: 2800000, guid: a7dbefa47cabc408eba153e03cf2db00, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>145_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\145_1_R
+    Data: {fileID: 2800000, guid: 2a03ebedb096f4ec795ed058fbc701dc, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>145_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\145_2_L
+    Data: {fileID: 2800000, guid: 1384b17d420a44e2e81573172d65bd8d, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>145_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\145_2_R
+    Data: {fileID: 2800000, guid: 556ac1c3164694f9bb2ec1573337887b, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>145_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\145_3_L
+    Data: {fileID: 2800000, guid: 4eb10415deffa4577a1c0a67ec441ab5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>145_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\145_3_R
+    Data: {fileID: 2800000, guid: fe28cc7609e054a2fb620d77822ac1f0, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>146_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\146_0_L
+    Data: {fileID: 2800000, guid: 5f7256b0e1d5e497693aeed3271b3c26, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>146_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\146_0_R
+    Data: {fileID: 2800000, guid: 6bb1abbb2a96e4c908ddb0ac21e7306e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>146_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\146_1_L
+    Data: {fileID: 2800000, guid: 965fae251cd154441ab39f887b7dae6e, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>146_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\146_1_R
+    Data: {fileID: 2800000, guid: 656194dab898146779cf62176a46a831, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>146_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\146_2_L
+    Data: {fileID: 2800000, guid: ab3b219ca44324f409b9d7f0fc133286, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>146_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\146_2_R
+    Data: {fileID: 2800000, guid: 76a0562564b59441687fd072b0c6e7a1, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>146_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\146_3_L
+    Data: {fileID: 2800000, guid: 91c9ced73e8b84009b6cc57fef060f6f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>146_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\146_3_R
+    Data: {fileID: 2800000, guid: b6b9785d84aed4d6fb591b27444af214, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>147_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\147_0_L
+    Data: {fileID: 2800000, guid: f3b79f63328ec425db277b250a69da22, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>147_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\147_0_R
+    Data: {fileID: 2800000, guid: b51c060ecd7ae4972939f9af80d709b3, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>147_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\147_1_L
+    Data: {fileID: 2800000, guid: 40f95f24b2cbf4ea39755a8b3be7651f, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>147_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\147_1_R
+    Data: {fileID: 2800000, guid: cd4a385508d7b4af1a2a1b0e33290ba2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>147_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\147_2_L
+    Data: {fileID: 2800000, guid: d9c51378d3b10401b8e37dc44d871ebf, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>147_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\147_2_R
+    Data: {fileID: 2800000, guid: bff630bdce44c40149126fc84cf86e6a, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>147_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\147_3_L
+    Data: {fileID: 2800000, guid: 7bb86122e295b48ff96c14b39bf2cfc5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>147_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\147_3_R
+    Data: {fileID: 2800000, guid: 14b9e28937df94f30a5dccff36ff4ca2, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>Default_0_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\Default_0_L
+    Data: {fileID: 2800000, guid: d305c7a4a008f413c9830248bb8ae102, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>Default_0_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\Default_0_R
+    Data: {fileID: 2800000, guid: 82dbacd4d209b4c7995996b75d561092, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>Default_1_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\Default_1_L
+    Data: {fileID: 2800000, guid: 0e0cfe721812f417cbf9c8bdd0229604, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>Default_1_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\Default_1_R
+    Data: {fileID: 2800000, guid: c70c0d2da54aa4b9cba2ee187e37a348, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>Default_2_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\Default_2_L
+    Data: {fileID: 2800000, guid: bcf43637d9fe44e79b5f46421eaa4228, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>Default_2_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\Default_2_R
+    Data: {fileID: 2800000, guid: d2abbefbd41f5400c85434434a21fcd7, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>Default_3_L'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\Default_3_L
+    Data: {fileID: 2800000, guid: 732a5682dee014e2d99d0889660bf4c5, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/
+  - Name: 'Shoes : <UnityEngine.Texture2D>Default_3_R'
+    Path: Assets\Modules\Avatar\Bux Parts\1\Shoes\Default_3_R
+    Data: {fileID: 2800000, guid: 4b52a7e64db9142a8821c70d1e97e12c, type: 3}
+    Info: UnityEngine.Texture2D
+    BaseFolder: Assets/Modules/Avatar/Bux Parts/

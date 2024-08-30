@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfdb12e16137e1f43a4c31b9464466e8, type: 3}
+  m_Name: SFXBank
+  m_EditorClassIdentifier: 
+  audios:
+    separator: /
+    rawData:
+    - key: SFX
+      value: {fileID: 8300000, guid: 9b9c1b125f4b9664185eb4c5bfd0fe03, type: 3}
+    - key: SFX/Success
+      value: {fileID: 8300000, guid: 8416bc2285d793542999e96a987cec31, type: 3}
+    - key: SFX/Success/1
+      value: {fileID: 8300000, guid: 8416bc2285d793542999e96a987cec31, type: 3}
+    - key: SFX/Success/2
+      value: {fileID: 8300000, guid: 5b9052b375726714c924a148fb59f722, type: 3}
+    - key: SFX/StepSound
+      value: {fileID: 8300000, guid: 6db5aa0ca41c40a4dbeb037bcf45ef24, type: 3}
+    - key: SFX/QuestOpen
+      value: {fileID: 8300000, guid: 5fa94b77fc64af44b8482010661a315a, type: 3}
+    - key: SFX/QuestComplete
+      value: {fileID: 8300000, guid: ff26442a565bb1b45bee763af3bad427, type: 3}
+    - key: SFX/QuestComplete/1
+      value: {fileID: 8300000, guid: 5d34d871cccd05d49971698b916d9489, type: 3}
+    - key: SFX/Next
+      value: {fileID: 8300000, guid: 97b2de28eafb43740922e516f8104fd8, type: 3}
+    - key: SFX/Wrap
+      value: {fileID: 8300000, guid: a6b9be6892887a149b384a0cd26793fd, type: 3}
+    - key: SFX/ErrorBox
+      value: {fileID: 8300000, guid: f3cb9c2fef3838949a171c24c766a3b3, type: 3}
+    - key: SFX/ErrorBox/1
+      value: {fileID: 8300000, guid: d9d7283f33dd4904ba6cd0d070da0566, type: 3}
+    - key: SFX/ErrorBox/2
+      value: {fileID: 8300000, guid: b39d593fc0f789d4da9477e2e31c4fad, type: 3}
+    - key: SFX/ErrorBox/3
+      value: {fileID: 8300000, guid: f3cb9c2fef3838949a171c24c766a3b3, type: 3}
+    - key: SFX/MessageBox
+      value: {fileID: 8300000, guid: 4b9149f6c94fa60488a48aeaed983a23, type: 3}
+    - key: SFX/MessageBox/1
+      value: {fileID: 8300000, guid: 4b9149f6c94fa60488a48aeaed983a23, type: 3}
+    - key: SFX/MessageBox/2
+      value: {fileID: 8300000, guid: f21c135396119fd409b4456e31c50621, type: 3}
+    - key: SFX/Click
+      value: {fileID: 8300000, guid: 9b9c1b125f4b9664185eb4c5bfd0fe03, type: 3}
+    - key: SFX/Click/1
+      value: {fileID: 8300000, guid: 9e6f28f61854ce347b0d4cc3878d93b5, type: 3}
+    - key: SFX/Click/2
+      value: {fileID: 8300000, guid: 92740ff139a2eb146a69fcdc2eb54d07, type: 3}
+    - key: SFX/Click/3
+      value: {fileID: 8300000, guid: 9b9c1b125f4b9664185eb4c5bfd0fe03, type: 3}
+    - key: SFX/Click/4
+      value: {fileID: 8300000, guid: bfb65bc34d15c654fbc44c049c67c06f, type: 3}
+    - key: SFX/Click/5
+      value: {fileID: 8300000, guid: 9bb3f21a57110854a852845c25bcaa8c, type: 3}
+    - key: SFX/Click/6
+      value: {fileID: 8300000, guid: c3e7577453801de43bdba7fec94f9aac, type: 3}
+    - key: SFX/Click/7
+      value: {fileID: 8300000, guid: bf0f7155f8e38cd49ac44f8e7ee095c2, type: 3}
+    - key: SFX/Click/8
+      value: {fileID: 8300000, guid: 017bdbe190f31f748950d1ac82cd6d37, type: 3}
+    - key: SFX/Click/9
+      value: {fileID: 8300000, guid: 488db580a93cac84995721e67f313164, type: 3}
+    - key: SFX/Click/10
+      value: {fileID: 8300000, guid: ff26442a565bb1b45bee763af3bad427, type: 3}

@@ -1,0 +1,17 @@
+{
+    "name": "com.playbux.mirror.snapshot",
+    "rootNamespace": "com.playbux.mirror.snapshot",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:7025f7c9b33f37b4c817bb5341235e14"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

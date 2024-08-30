@@ -1,0 +1,20 @@
+{
+    "name": "Playbux.Effects.Editor",
+    "rootNamespace": "com.playbux.effects.editor",
+    "references": [
+        "GUID:9c6a2dcbb423b734f905c1a131e5adb8",
+        "GUID:d525ad6bd40672747bde77962f1c401e",
+        "GUID:c668f8744d81ba74884631ea273233c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

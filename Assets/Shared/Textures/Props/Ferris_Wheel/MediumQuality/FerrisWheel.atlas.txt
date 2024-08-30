@@ -1,0 +1,97 @@
+
+FerrisWheel.png
+size: 4096, 4096
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bar
+  rotate: false
+  xy: 860, 2659
+  size: 315, 174
+  orig: 315, 174
+  offset: 0, 0
+  index: -1
+Base
+  rotate: false
+  xy: 2, 2835
+  size: 1907, 982
+  orig: 1907, 982
+  offset: 0, 0
+  index: -1
+Block
+  rotate: false
+  xy: 1911, 2845
+  size: 132, 112
+  orig: 132, 112
+  offset: 0, 0
+  index: -1
+Car_Inside
+  rotate: false
+  xy: 2369, 3245
+  size: 319, 161
+  orig: 319, 161
+  offset: 0, 0
+  index: -1
+Car_Shade
+  rotate: true
+  xy: 3045, 3479
+  size: 338, 433
+  orig: 338, 433
+  offset: 0, 0
+  index: -1
+Car_Stripe
+  rotate: false
+  xy: 3480, 3685
+  size: 337, 132
+  orig: 337, 132
+  offset: 0, 0
+  index: -1
+Center
+  rotate: false
+  xy: 467, 2317
+  size: 391, 516
+  orig: 391, 516
+  offset: 0, 0
+  index: -1
+Core
+  rotate: false
+  xy: 1911, 2959
+  size: 456, 447
+  orig: 456, 447
+  offset: 0, 0
+  index: -1
+Pole
+  rotate: false
+  xy: 2, 1545
+  size: 463, 1288
+  orig: 463, 1288
+  offset: 0, 0
+  index: -1
+Pole2
+  rotate: true
+  xy: 1911, 3408
+  size: 409, 1132
+  orig: 463, 1288
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 467, 2129
+  size: 353, 186
+  orig: 353, 186
+  offset: 0, 0
+  index: -1
+Wheel_Arm
+  rotate: false
+  xy: 2, 480
+  size: 22, 1063
+  orig: 22, 1063
+  offset: 0, 0
+  index: -1
+Wheel_Part
+  rotate: true
+  xy: 26, 872
+  size: 671, 37
+  orig: 671, 37
+  offset: 0, 0
+  index: -1

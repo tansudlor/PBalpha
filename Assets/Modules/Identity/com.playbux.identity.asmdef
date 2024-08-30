@@ -1,0 +1,25 @@
+{
+    "name": "com.playbux.identity",
+    "rootNamespace": "com.playbux.identity",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:5c640717ca72e134ea25eca2d2b65898",
+        "GUID:c7a0c037d583d8646a4876e5916ae8d8",
+        "GUID:afb7e013359a22c4f91a41d93af8f46a",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:226845603b48f22498c20fcf798e9e9f",
+        "GUID:f22db8b8cd7e0224b8cda9b2d16addf4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75f475f32ad7400ab7164aca9ebb3f6f, type: 3}
+  m_Name: ClientActionDatabase
+  m_EditorClassIdentifier: 
+  actionAreas:
+    _serializedList:
+    - Key: 0
+      Value:
+        position: {x: 96.28578, y: -67.92001}
+        actionArea: {fileID: 5306098289085611903, guid: 7a689123e2030b44e8aa25cd0d329f17, type: 3}
+    - Key: 1
+      Value:
+        position: {x: 63.28, y: 4.26}
+        actionArea: {fileID: 5306098289085611903, guid: 8be485a1bc987f7458ef13580617309a, type: 3}
+    - Key: 2
+      Value:
+        position: {x: -75.771, y: 22.121}
+        actionArea: {fileID: 6069670353663807350, guid: 39607e5398e82104b82214e5c6a6f457, type: 3}
+    - Key: 3
+      Value:
+        position: {x: -110.67, y: 57.37}
+        actionArea: {fileID: 2127535714514856700, guid: a3762ebabfa76764fa423f6ef7bff6de, type: 3}
+    - Key: 4
+      Value:
+        position: {x: -61.21, y: 91.88}
+        actionArea: {fileID: 6610590348292500488, guid: e585e8458057a0e428dc23d60f40b200, type: 3}
+    - Key: 5
+      Value:
+        position: {x: -78.28, y: 109.35}
+        actionArea: {fileID: 4131105952226450418, guid: f781e19de9844154a991fd5d33219deb, type: 3}

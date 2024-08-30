@@ -1,0 +1,237 @@
+
+LottoPool_Interior.png
+size: 2048, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ATM
+  rotate: false
+  xy: 355, 59
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+Bar_Back
+  rotate: true
+  xy: 355, 2
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+Big_Screen
+  rotate: false
+  xy: 1260, 145
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+Counter
+  rotate: false
+  xy: 1638, 186
+  size: 120, 68
+  orig: 120, 68
+  offset: 0, 0
+  index: -1
+Counter_Pole
+  rotate: true
+  xy: 1511, 149
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+Counter_Top
+  rotate: false
+  xy: 683, 159
+  size: 148, 95
+  orig: 148, 95
+  offset: 0, 0
+  index: -1
+Data_1
+  rotate: false
+  xy: 337, 111
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+Data_2
+  rotate: false
+  xy: 833, 159
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+Data_3
+  rotate: false
+  xy: 1638, 182
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+Door
+  rotate: false
+  xy: 798, 109
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Door_Arm
+  rotate: false
+  xy: 337, 118
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Floor
+  rotate: false
+  xy: 2, 111
+  size: 306, 143
+  orig: 306, 143
+  offset: 0, 0
+  index: -1
+Gate
+  rotate: false
+  xy: 271, 11
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+Lotto
+  rotate: false
+  xy: 1579, 145
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+LottoPool_Logo
+  rotate: false
+  xy: 1125, 159
+  size: 133, 95
+  orig: 133, 95
+  offset: 0, 0
+  index: -1
+Lotto_Base
+  rotate: true
+  xy: 1386, 155
+  size: 99, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+Lotto_Cover
+  rotate: true
+  xy: 683, 2
+  size: 88, 67
+  orig: 88, 67
+  offset: 0, 0
+  index: -1
+Lotto_Hole
+  rotate: false
+  xy: 483, 107
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Lotto_Pool
+  rotate: true
+  xy: 752, 2
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+Lotto_Top
+  rotate: true
+  xy: 386, 41
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Monitor
+  rotate: true
+  xy: 310, 113
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Partition
+  rotate: false
+  xy: 431, 89
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Pipe
+  rotate: false
+  xy: 401, 65
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+Pole_Back_L
+  rotate: true
+  xy: 1760, 174
+  size: 80, 105
+  orig: 80, 105
+  offset: 0, 0
+  index: -1
+Pole_Back_R
+  rotate: true
+  xy: 1968, 174
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+Pole_Corner
+  rotate: true
+  xy: 833, 164
+  size: 90, 144
+  orig: 90, 144
+  offset: 0, 0
+  index: -1
+Pole_L
+  rotate: true
+  xy: 979, 164
+  size: 90, 144
+  orig: 90, 144
+  offset: 0, 0
+  index: -1
+Roof1
+  rotate: false
+  xy: 2, 13
+  size: 267, 96
+  orig: 267, 96
+  offset: 0, 0
+  index: -1
+Roof2
+  rotate: false
+  xy: 1511, 175
+  size: 125, 79
+  orig: 125, 79
+  offset: 0, 0
+  index: -1
+Screen
+  rotate: false
+  xy: 1867, 167
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Step
+  rotate: false
+  xy: 683, 92
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+Wall
+  rotate: false
+  xy: 512, 90
+  size: 169, 164
+  orig: 169, 164
+  offset: 0, 0
+  index: -1
+Wall_Top
+  rotate: false
+  xy: 310, 135
+  size: 200, 119
+  orig: 200, 119
+  offset: 0, 0
+  index: -1

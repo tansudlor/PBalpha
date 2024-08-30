@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfdb12e16137e1f43a4c31b9464466e8, type: 3}
+  m_Name: BGMBank
+  m_EditorClassIdentifier: 
+  audios:
+    separator: /
+    rawData:
+    - key: BGM
+      value: {fileID: 8300000, guid: 2f9f0041c21cfb84da567594928b9063, type: 3}
+    - key: BGM/Battle1
+      value: {fileID: 8300000, guid: 3e143fe82af7e34429190fa1f7d12598, type: 3}
+    - key: BGM/Battle2
+      value: {fileID: 8300000, guid: 23691856a30d8da4db01bf7c80b70e03, type: 3}
+    - key: BGM/Battle3
+      value: {fileID: 8300000, guid: 9884c99049f882e4782d6106ad317c76, type: 3}
+    - key: BGM/Interior
+      value: {fileID: 8300000, guid: 48b41ac48879a8f4f987d337d5f29479, type: 3}
+    - key: BGM/Login
+      value: {fileID: 8300000, guid: a6b9be6892887a149b384a0cd26793fd, type: 3}

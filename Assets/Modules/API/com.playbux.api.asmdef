@@ -1,0 +1,19 @@
+{
+    "name": "com.playbux.api",
+    "rootNamespace": "com.playbux.api",
+    "references": [
+        "UniTask",
+        "Mirror",
+        "com.playbux.networking.mirror.message",
+        "com.playbux.firebaseservice"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

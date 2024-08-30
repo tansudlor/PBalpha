@@ -1,0 +1,1 @@
+{"ScreenSetting":0,"AudioSettings":{"Mute":false,"AudioLevels":{"master":1.00}},"MyNameDisplaySetting":{"Color":"FFFFFF","IsShow":true},"OtherNameDisplaySetting":{"Color":"FFFFFF","IsShow":true},"BubbleNumberSetting":{"BubbleNum":0},"name":"SettingData","hideFlags":0}

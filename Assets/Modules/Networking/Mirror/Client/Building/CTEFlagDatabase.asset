@@ -1,0 +1,322 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 737981730b094a79aa527e36697e1d19, type: 3}
+  m_Name: CTEFlagDatabase
+  m_EditorClassIdentifier: 
+  flagTextures:
+    _serializedList:
+    - Key: Afghanistan
+      Value: {fileID: 2800000, guid: 0ea578ff6534b0f42828883f66fb739e, type: 3}
+    - Key: Albania
+      Value: {fileID: 2800000, guid: 114374c77c482234bbc40b234c75fbb4, type: 3}
+    - Key: Algeria
+      Value: {fileID: 2800000, guid: 908e90a92bff6654a92e341e816343e6, type: 3}
+    - Key: Angola
+      Value: {fileID: 2800000, guid: 6ad0a449461ce3947a5415f2c4a38b7d, type: 3}
+    - Key: Argentina
+      Value: {fileID: 2800000, guid: 200dd225943495748942107d5a9c2e20, type: 3}
+    - Key: Australia
+      Value: {fileID: 2800000, guid: 2d5c74dd6e5f1f0479785c30dea7ca55, type: 3}
+    - Key: Austria
+      Value: {fileID: 2800000, guid: b7c30a2ed4cf072468187d130cdde34b, type: 3}
+    - Key: Azerbaijan
+      Value: {fileID: 2800000, guid: f6bfb29bd4d0f25418d98645e2d9e581, type: 3}
+    - Key: Bangladesh
+      Value: {fileID: 2800000, guid: 046fec1df59269f47900bef7c142356b, type: 3}
+    - Key: Belarus
+      Value: {fileID: 2800000, guid: 2a1c01b3f296aef41bab392343d31053, type: 3}
+    - Key: Belgium
+      Value: {fileID: 2800000, guid: 04a61dfdb1d695b4ba9f1b833a48f386, type: 3}
+    - Key: Bhutan
+      Value: {fileID: 2800000, guid: ee480b7709553e14a8b36b17c195491b, type: 3}
+    - Key: Bolivia
+      Value: {fileID: 2800000, guid: 1bb1993777118634f8be25e8956a7f79, type: 3}
+    - Key: Bosnia
+      Value: {fileID: 2800000, guid: 12fdd1d504324054bbb03c20258369a7, type: 3}
+    - Key: Botswana
+      Value: {fileID: 2800000, guid: f95e286237ca1c147a4bb88a90e38f2a, type: 3}
+    - Key: Brazil
+      Value: {fileID: 2800000, guid: 4fa9792314e86924cad14b9c40dcf6de, type: 3}
+    - Key: Bulgaria
+      Value: {fileID: 2800000, guid: 8a05e9da908d0e44187272597c1f5f17, type: 3}
+    - Key: Burkina-fasso
+      Value: {fileID: 2800000, guid: 0678d16d3b1ff874e97e795a489c04aa, type: 3}
+    - Key: Cambodia
+      Value: {fileID: 2800000, guid: baa16c90bc521e24f84a2f120b436d98, type: 3}
+    - Key: Cameroon
+      Value: {fileID: 2800000, guid: 0f47c5f66cea82347b58fe6eb7de0b0b, type: 3}
+    - Key: Canada
+      Value: {fileID: 2800000, guid: aa619cd94eda1624d8113eb92560cb84, type: 3}
+    - Key: Central african
+      Value: {fileID: 2800000, guid: 7f542a85c71d3d54089cac9579e10e18, type: 3}
+    - Key: Chad
+      Value: {fileID: 2800000, guid: 1494592bca866df4886a3dcc3985e823, type: 3}
+    - Key: Chile
+      Value: {fileID: 2800000, guid: 85ede689b8531464bbccbeaa5bb626cf, type: 3}
+    - Key: China
+      Value: {fileID: 2800000, guid: 0fcd77123e38f3a44a0d729501dbc122, type: 3}
+    - Key: Colombia
+      Value: {fileID: 2800000, guid: f8a548a2cf050214fb64a3049ef97b89, type: 3}
+    - Key: Congo
+      Value: {fileID: 2800000, guid: 758161950d7ce584789c9c3256294471, type: 3}
+    - Key: Costa rica
+      Value: {fileID: 2800000, guid: 1773ab74efc037e45aa1331ca78e62bd, type: 3}
+    - Key: Cote d_iviore
+      Value: {fileID: 2800000, guid: 402638d531477d7468bc90071edeb271, type: 3}
+    - Key: Croatia
+      Value: {fileID: 2800000, guid: 1991d0e959612214ab334403d323fc4c, type: 3}
+    - Key: Cuba
+      Value: {fileID: 2800000, guid: 2cf77a1326cde5940933ce38e95e4a2a, type: 3}
+    - Key: Cyprus
+      Value: {fileID: 2800000, guid: 9f1c3fa3b713a184bb91b4649020e5f8, type: 3}
+    - Key: Czech
+      Value: {fileID: 2800000, guid: 71bfec627aa218a4fa993e3ab44bc317, type: 3}
+    - Key: Denmark
+      Value: {fileID: 2800000, guid: c2131c0fb78689c448083fa6cd416cd6, type: 3}
+    - Key: Djibouti
+      Value: {fileID: 2800000, guid: 45460ce849b697549bcc913a1b9536f8, type: 3}
+    - Key: Dominican
+      Value: {fileID: 2800000, guid: d6def82e413fd5d4eb8e6a57673e68ed, type: 3}
+    - Key: Dr congo
+      Value: {fileID: 2800000, guid: eb6e1efece1b931438b439244f3f1d65, type: 3}
+    - Key: Ecuador
+      Value: {fileID: 2800000, guid: 9034881ba49353d40ba0b1d7cf7dd972, type: 3}
+    - Key: Egypt
+      Value: {fileID: 2800000, guid: db6c4fd3800d1a14692efa4f12bf7aa8, type: 3}
+    - Key: Equatorial guinea
+      Value: {fileID: 2800000, guid: 33dd90a022f126348ad440efbe182b95, type: 3}
+    - Key: Eritrea
+      Value: {fileID: 2800000, guid: 3289cb561b5620c42a46f2603117c1b5, type: 3}
+    - Key: Estonia
+      Value: {fileID: 2800000, guid: 7d2556aee8005334d8151e8c009794f2, type: 3}
+    - Key: Eswatini
+      Value: {fileID: 2800000, guid: 40e95955e14d4964da596971b589255c, type: 3}
+    - Key: Ethiopia
+      Value: {fileID: 2800000, guid: d52b24eb40ec180438b047aee817c3ab, type: 3}
+    - Key: Fiji
+      Value: {fileID: 2800000, guid: 710632090a6c2d74f8c2a5ef2fd6b7e1, type: 3}
+    - Key: Finland
+      Value: {fileID: 2800000, guid: fb88d7b79b9add945960d3c0be52f53c, type: 3}
+    - Key: France
+      Value: {fileID: 2800000, guid: 7694a03efc495de428869cfe77e67649, type: 3}
+    - Key: French guiana
+      Value: {fileID: 2800000, guid: c6aaf68d8663f3444bcfc288472ab758, type: 3}
+    - Key: Gabon
+      Value: {fileID: 2800000, guid: 33ea88bf15a20c049b37d13c616c2ee0, type: 3}
+    - Key: Georgia
+      Value: {fileID: 2800000, guid: 6757cab819c1d464baef251114371cc2, type: 3}
+    - Key: Germany
+      Value: {fileID: 2800000, guid: b9da1b4e5ff7578498a884b9b35dda2d, type: 3}
+    - Key: Ghana
+      Value: {fileID: 2800000, guid: 2ea65ac1cf46e7c4882f5b75da41e620, type: 3}
+    - Key: Greece
+      Value: {fileID: 2800000, guid: 99dd0df516bfe0743a0b074d8169e003, type: 3}
+    - Key: Greenland
+      Value: {fileID: 2800000, guid: 66ce169c8bc6f444a87bb8285cccf86f, type: 3}
+    - Key: Guatemala
+      Value: {fileID: 2800000, guid: 805b3c051bd56fe4ebc3de1ca125b8f6, type: 3}
+    - Key: Guinea
+      Value: {fileID: 2800000, guid: f628aa30c9b418248b110354bbe3ed8b, type: 3}
+    - Key: Guyana
+      Value: {fileID: 2800000, guid: 5f77d057f7780664dbcc6a0691e463fe, type: 3}
+    - Key: Haiti
+      Value: {fileID: 2800000, guid: 58eebebd98947024682793d9c74bbb56, type: 3}
+    - Key: Honduras
+      Value: {fileID: 2800000, guid: 1c55ea8ee7e4542488bca94d930d92df, type: 3}
+    - Key: Hungary
+      Value: {fileID: 2800000, guid: 32e8c9e926fdc0e4794f9fa8cf34c8b3, type: 3}
+    - Key: Iceland
+      Value: {fileID: 2800000, guid: f97d52ba7e07856458c934f844493ee7, type: 3}
+    - Key: India
+      Value: {fileID: 2800000, guid: 1cdcea04bf7b6dc4a8ae50117641f99a, type: 3}
+    - Key: Indonesia
+      Value: {fileID: 2800000, guid: 34268f9af711aa347a1afdb2f1665be3, type: 3}
+    - Key: Iran
+      Value: {fileID: 2800000, guid: d83522096dc5ca545aeaf02525bab874, type: 3}
+    - Key: Iraq
+      Value: {fileID: 2800000, guid: 0944dca5b50b68046bcc4d7ed65997b6, type: 3}
+    - Key: Ireland
+      Value: {fileID: 2800000, guid: b46ced0bf7981884a899f06d11e2bb45, type: 3}
+    - Key: Israel
+      Value: {fileID: 2800000, guid: 7b036af0b91011147990aed8d0fa33c3, type: 3}
+    - Key: Italy
+      Value: {fileID: 2800000, guid: d659487738c06a9418b3e30326f49baf, type: 3}
+    - Key: Jamaica
+      Value: {fileID: 2800000, guid: e43bbb2e52913d84395dfd9bcffcb6b4, type: 3}
+    - Key: Japan
+      Value: {fileID: 2800000, guid: 39c95f64a627da447a474941249fa815, type: 3}
+    - Key: Jordan
+      Value: {fileID: 2800000, guid: 41a590f2f109ad347b3cbd3d1cfb5455, type: 3}
+    - Key: Kashmir
+      Value: {fileID: 2800000, guid: 021e005e6f757d34999b7f40ad3832b1, type: 3}
+    - Key: Kazakhstan
+      Value: {fileID: 2800000, guid: c8d4706b09de2f0428c758a978d998b4, type: 3}
+    - Key: Kenya
+      Value: {fileID: 2800000, guid: 8526377f8b3fc314f8701ed6dfbf3784, type: 3}
+    - Key: Laos
+      Value: {fileID: 2800000, guid: 4aa90726061dbd648926af2b8930a160, type: 3}
+    - Key: Latvia
+      Value: {fileID: 2800000, guid: 2d471b9ac690ecd459b55042b6b3900f, type: 3}
+    - Key: Lebanon
+      Value: {fileID: 2800000, guid: ed02898075960d041bc2cf4d5b8e6742, type: 3}
+    - Key: Lesotho
+      Value: {fileID: 2800000, guid: fb4279ca08bcff14bb9507d860e77b18, type: 3}
+    - Key: Liberia
+      Value: {fileID: 2800000, guid: 1fdb2152b48339a4184023457dc3d64c, type: 3}
+    - Key: Libya
+      Value: {fileID: 2800000, guid: 23833c90bcb0eb64da955f5956fed0a0, type: 3}
+    - Key: Lithuania
+      Value: {fileID: 2800000, guid: e1b9a05be9a95da46a1bf838aff065af, type: 3}
+    - Key: Luxembourg
+      Value: {fileID: 2800000, guid: 97720ebcbafc66646a0593d070d2640f, type: 3}
+    - Key: Macedonia
+      Value: {fileID: 2800000, guid: ce27f01141687934b80975f512c67560, type: 3}
+    - Key: Madagascar
+      Value: {fileID: 2800000, guid: 46570ae2ed7343346bffe106a5af6deb, type: 3}
+    - Key: Malawi
+      Value: {fileID: 2800000, guid: 388dfc5615b9b404794fbfd8e98d35ba, type: 3}
+    - Key: Malaysia
+      Value: {fileID: 2800000, guid: 37775ce1ecda757488e4c30445921bed, type: 3}
+    - Key: Mali
+      Value: {fileID: 2800000, guid: 809e590116b14be45b70475181789302, type: 3}
+    - Key: Mauritania
+      Value: {fileID: 2800000, guid: 2053640e614fb2c47aadba4b7fdaeccf, type: 3}
+    - Key: Mexico
+      Value: {fileID: 2800000, guid: f33c846ce71c6bb4fa134f510edd53ec, type: 3}
+    - Key: Moldova
+      Value: {fileID: 2800000, guid: e4c6dadf73f19304fbba3317d0c4d511, type: 3}
+    - Key: Mongolia
+      Value: {fileID: 2800000, guid: 6be06f4fa3b3d5d48b6919bb87209280, type: 3}
+    - Key: Montenegro
+      Value: {fileID: 2800000, guid: 4f44a7bbf113518498e240a1395176a6, type: 3}
+    - Key: Morocco
+      Value: {fileID: 2800000, guid: a6a7d139e191a234ca68821db73b321d, type: 3}
+    - Key: Mozambique
+      Value: {fileID: 2800000, guid: d7b2cbc14d8abaa40a633010edc0618e, type: 3}
+    - Key: Myanmar
+      Value: {fileID: 2800000, guid: 7d66acb25f34b214495b8c770f4b47ee, type: 3}
+    - Key: Namibia
+      Value: {fileID: 2800000, guid: baa51f7d1d133854195e4a0df87fbb70, type: 3}
+    - Key: Nepal
+      Value: {fileID: 2800000, guid: bd317dab3f938c64db4fafb09cdd2fcc, type: 3}
+    - Key: Netherlands
+      Value: {fileID: 2800000, guid: 9d74386523d96204b97a4a183c4a5da5, type: 3}
+    - Key: New zealand
+      Value: {fileID: 2800000, guid: 8d1b72a110992564d970779a33c76671, type: 3}
+    - Key: Nicaragua
+      Value: {fileID: 2800000, guid: 83b736b7f5371d24ea2bbfd5aecf37bf, type: 3}
+    - Key: Niger
+      Value: {fileID: 2800000, guid: 7c153563623e0ec42b5c4e14d56f3559, type: 3}
+    - Key: Nigeria
+      Value: {fileID: 2800000, guid: 69ccbde0c09dd324ead30a5eacbd4bef, type: 3}
+    - Key: North korea
+      Value: {fileID: 2800000, guid: 98414de439799ba449ad95ac77a13565, type: 3}
+    - Key: Norway
+      Value: {fileID: 2800000, guid: edd1e7219651ba049a9613de6e38749d, type: 3}
+    - Key: Oman
+      Value: {fileID: 2800000, guid: ef1d6d4d1921bd1408c5a55d43e36ab7, type: 3}
+    - Key: Pakistan
+      Value: {fileID: 2800000, guid: 842fd34b162f8d449a5a2bf3d9fcf2a7, type: 3}
+    - Key: Panama
+      Value: {fileID: 2800000, guid: 55f9e738de94c88458caba9d6ee8c333, type: 3}
+    - Key: Papua new guinea
+      Value: {fileID: 2800000, guid: 71357ad05a68e304687a879d895a108f, type: 3}
+    - Key: Paraguay
+      Value: {fileID: 2800000, guid: fe0f0d9a64136ed4e97260c858ce9194, type: 3}
+    - Key: Peru
+      Value: {fileID: 2800000, guid: f3df60439b579174b9362c0eb4538ef5, type: 3}
+    - Key: Philippines
+      Value: {fileID: 2800000, guid: 93f99d2e1ffba0e459a7d7e80142f3c0, type: 3}
+    - Key: Poland
+      Value: {fileID: 2800000, guid: 01cc824ef6477dd45a5abf8716b7dbdd, type: 3}
+    - Key: Portugal
+      Value: {fileID: 2800000, guid: 9641e2cc82357e54eb3c64548d0f1081, type: 3}
+    - Key: Puerto rico
+      Value: {fileID: 2800000, guid: f35b811807300f44e954f80187bb4b2a, type: 3}
+    - Key: Qatar
+      Value: {fileID: 2800000, guid: a010c1c23de1ce04e8bfdbedb73e08a2, type: 3}
+    - Key: Romania
+      Value: {fileID: 2800000, guid: 5148506d97973a5439d61c93a1bd4f52, type: 3}
+    - Key: Russia
+      Value: {fileID: 2800000, guid: dbdf9dfb5096c29478312e0697830793, type: 3}
+    - Key: Rwanda
+      Value: {fileID: 2800000, guid: d610a29ab78556e44a55b98e50cadcf4, type: 3}
+    - Key: Saudi arabia
+      Value: {fileID: 2800000, guid: ee9a8f2d3e7f6cc45901f88cec2d2074, type: 3}
+    - Key: Senegal
+      Value: {fileID: 2800000, guid: 6e988d0e380e8c542bdfe3f4bb15e4cb, type: 3}
+    - Key: Serbia
+      Value: {fileID: 2800000, guid: 78e89fd1c43225e4db24e811dcff5a83, type: 3}
+    - Key: Singapore
+      Value: {fileID: 2800000, guid: e59ba7141850d7c4cbd9d014d64d5d2e, type: 3}
+    - Key: Slovakia
+      Value: {fileID: 2800000, guid: 8aef1ad94d404144a8cdb8528c354f08, type: 3}
+    - Key: Slovenia
+      Value: {fileID: 2800000, guid: 34d5c1d35c364934787adbb98b312d0d, type: 3}
+    - Key: Somalia
+      Value: {fileID: 2800000, guid: fa7f7112c924aec4fa8519b457bb777d, type: 3}
+    - Key: South africa
+      Value: {fileID: 2800000, guid: 7bdf27c42b355fe44895eb0281c401b0, type: 3}
+    - Key: South korea
+      Value: {fileID: 2800000, guid: ab9f95b28bce01d478c3e7b04ebaaf53, type: 3}
+    - Key: Spain
+      Value: {fileID: 2800000, guid: a5cb895eb9d0e5446a90ab15de7fb368, type: 3}
+    - Key: Sri lanka
+      Value: {fileID: 2800000, guid: 2e12940a8e37e8f4c97dce5700057d81, type: 3}
+    - Key: Sudan
+      Value: {fileID: 2800000, guid: 8c787aee31e685d44ad9c17620245e41, type: 3}
+    - Key: Suriname
+      Value: {fileID: 2800000, guid: c72bf80237b7e4c4eaf791cbf789bbdd, type: 3}
+    - Key: Sweden
+      Value: {fileID: 2800000, guid: d24f9f551d29a5a4fba37815efb0e44a, type: 3}
+    - Key: Switzerland
+      Value: {fileID: 2800000, guid: baffca2e74c2e0647858d06f54a71031, type: 3}
+    - Key: Syria
+      Value: {fileID: 2800000, guid: b6c76fad4332c614c989a00c6856373d, type: 3}
+    - Key: Taiwan
+      Value: {fileID: 2800000, guid: 6da8f9baf1577e243bf7c09b76e77526, type: 3}
+    - Key: Tanzania
+      Value: {fileID: 2800000, guid: f73246420c09025468d4cc7c7f75aac8, type: 3}
+    - Key: Thailand
+      Value: {fileID: 2800000, guid: 3d736113ab8a47a45830127fab12447e, type: 3}
+    - Key: Togo
+      Value: {fileID: 2800000, guid: e1b89c12468782f479b6e86f1fb641f4, type: 3}
+    - Key: Tunisia
+      Value: {fileID: 2800000, guid: e704e800b064a9949afdc782348ec77c, type: 3}
+    - Key: Turkey
+      Value: {fileID: 2800000, guid: 3ae828d7204182144a3f3a32d75b8826, type: 3}
+    - Key: Turkmenistan
+      Value: {fileID: 2800000, guid: b1fe2c21eb785be4ab8a96d7f1909316, type: 3}
+    - Key: Uae
+      Value: {fileID: 2800000, guid: 94639b2a646543242a1537fc750be3c4, type: 3}
+    - Key: Uganda
+      Value: {fileID: 2800000, guid: 32b55fbac966f6c44ab749098de59e34, type: 3}
+    - Key: Ukraine
+      Value: {fileID: 2800000, guid: fa5a7879ed289c840b2a616097709503, type: 3}
+    - Key: United kingdom
+      Value: {fileID: 2800000, guid: 0723761c0a240134d8f770fff3dc6bc3, type: 3}
+    - Key: Usa
+      Value: {fileID: 2800000, guid: 338bfc394a3f2b04484d8a6a9c5152d9, type: 3}
+    - Key: Uzbekistan
+      Value: {fileID: 2800000, guid: 6ef0e6260ecac8e47b83580260117274, type: 3}
+    - Key: Venezuela
+      Value: {fileID: 2800000, guid: 6677bca629d3dc54ab91624b26c177a7, type: 3}
+    - Key: Vietnam
+      Value: {fileID: 2800000, guid: 1a74dea059375f3419cbee70c76be867, type: 3}
+    - Key: Western sahara
+      Value: {fileID: 2800000, guid: 6f03528c6ce4f484486b6c5537518d00, type: 3}
+    - Key: Yemen
+      Value: {fileID: 2800000, guid: 72f8dac5acd2dd94eb28770200b29280, type: 3}
+    - Key: Zambia
+      Value: {fileID: 2800000, guid: f01df53bca385724f86149399dd1941c, type: 3}
+    - Key: Zimbabwe
+      Value: {fileID: 2800000, guid: 1161c8a7b04facc4487c565951aed467, type: 3}

@@ -1,0 +1,16 @@
+{
+    "name": "Playbux.LOD",
+    "rootNamespace": "com.playbux.LOD",
+    "references": [
+        "com.playbux.utilis"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

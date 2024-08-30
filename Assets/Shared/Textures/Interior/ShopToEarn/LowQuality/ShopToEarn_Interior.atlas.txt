@@ -1,0 +1,258 @@
+
+ShopToEarn_Interior.png
+size: 2048, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ATM
+  rotate: true
+  xy: 288, 41
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+Bar_Big
+  rotate: false
+  xy: 124, 2
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+Bar_Small
+  rotate: true
+  xy: 2026, 226
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+Board_Blue
+  rotate: true
+  xy: 1944, 170
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+Btn_Red
+  rotate: false
+  xy: 213, 30
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+Bush
+  rotate: true
+  xy: 586, 79
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Cans
+  rotate: false
+  xy: 435, 42
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Compresser
+  rotate: true
+  xy: 623, 79
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Counter
+  rotate: false
+  xy: 1461, 153
+  size: 144, 101
+  orig: 144, 101
+  offset: 0, 0
+  index: -1
+Counter2
+  rotate: false
+  xy: 2, 10
+  size: 120, 75
+  orig: 120, 75
+  offset: 0, 0
+  index: -1
+Counter2_Top
+  rotate: false
+  xy: 1607, 159
+  size: 148, 95
+  orig: 148, 95
+  offset: 0, 0
+  index: -1
+Counter_Pole
+  rotate: true
+  xy: 1072, 62
+  size: 24, 67
+  orig: 24, 67
+  offset: 0, 0
+  index: -1
+Floor
+  rotate: false
+  xy: 473, 112
+  size: 286, 142
+  orig: 286, 142
+  offset: 0, 0
+  index: -1
+Game
+  rotate: true
+  xy: 1543, 108
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+Gate
+  rotate: true
+  xy: 1757, 172
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+Gate_Fence
+  rotate: false
+  xy: 500, 65
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Jar
+  rotate: false
+  xy: 1609, 108
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Partition
+  rotate: true
+  xy: 364, 40
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+Partition2
+  rotate: true
+  xy: 536, 81
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Partition_Hand
+  rotate: false
+  xy: 1725, 142
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Pole_Center
+  rotate: false
+  xy: 473, 55
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+Pole_L
+  rotate: false
+  xy: 1857, 169
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Pole_Mid
+  rotate: false
+  xy: 1350, 93
+  size: 109, 161
+  orig: 109, 161
+  offset: 0, 0
+  index: -1
+Roof
+  rotate: false
+  xy: 2, 87
+  size: 469, 167
+  orig: 469, 167
+  offset: 0, 0
+  index: -1
+Screen
+  rotate: false
+  xy: 1757, 163
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Table1
+  rotate: false
+  xy: 1461, 94
+  size: 80, 57
+  orig: 80, 57
+  offset: 0, 0
+  index: -1
+Table2
+  rotate: false
+  xy: 213, 34
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+Table3
+  rotate: false
+  xy: 1944, 193
+  size: 80, 61
+  orig: 80, 61
+  offset: 0, 0
+  index: -1
+TopBar
+  rotate: false
+  xy: 1014, 50
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+TopBox
+  rotate: false
+  xy: 124, 22
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+TopRoof
+  rotate: false
+  xy: 1141, 69
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Vending_Blue
+  rotate: true
+  xy: 1609, 126
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+Vending_Purple
+  rotate: true
+  xy: 1667, 126
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+Wall1
+  rotate: false
+  xy: 761, 49
+  size: 251, 205
+  orig: 251, 205
+  offset: 0, 0
+  index: -1
+Wall2
+  rotate: false
+  xy: 1185, 91
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+Wall3
+  rotate: false
+  xy: 1014, 88
+  size: 169, 166
+  orig: 169, 166
+  offset: 0, 0
+  index: -1

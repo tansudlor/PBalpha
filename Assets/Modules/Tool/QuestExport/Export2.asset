@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fcb87262d748a41a96ff482942ff0b, type: 3}
+  m_Name: Export2
+  m_EditorClassIdentifier: 
+  questName: InGame15Min
+  questID: 2
+  position: 115,511
+  nonPlayerCharcater:
+  - title: Mr.Timmer
+    nodeID: 5cd32818-8e3b-4b51-8c3b-ef4ebaac3fed638471462820830671
+    position: 538,517
+    nodeType: com.playbux.tool.NonPlayerCharacter
+    nonPlayerCharacterID: 3
+    startDialogs:
+    - 12c57731-17f5-4d3d-8037-6766c7d98d11638471466503028393
+  startDialogs:
+  - title: '!Mr.Timmer ???'
+    nodeID: 12c57731-17f5-4d3d-8037-6766c7d98d11638471466503028393
+    position: 889,498
+    nodeType: com.playbux.tool.StartDialog
+    acceptFlag: 2_START
+    rejectFlag: 2_END
+    next: 7df09ee1-31cb-451a-a82b-9d926e757ad5638471470716462768
+  dialogs:
+  - title: MTR1,daily_quest
+    nodeID: 7df09ee1-31cb-451a-a82b-9d926e757ad5638471470716462768
+    position: 1305,467
+    nodeType: com.playbux.tool.Dialog
+    message: Are you ready to receive daily rewards?
+    addFlag: 2_START
+    removeFlag: 
+    choices:
+    - message: 
+      next: 1f929e9a-7667-4f55-ad8c-2922a96a36f6638471471436505518
+    endQuest: 0
+  - title: WrongAnswer
+    nodeID: 8cc62dbb-65ea-4bf3-aec2-e6c84031d0d3638471472143254483
+    position: 2214,223
+    nodeType: com.playbux.tool.Dialog
+    message: "Oops, that\u2019s not quite right. You\u2019ll get it next time!."
+    addFlag: 
+    removeFlag: 
+    choices: []
+    endQuest: 0
+  - title: MTR2
+    nodeID: 1f929e9a-7667-4f55-ad8c-2922a96a36f6638471471436505518
+    position: 1702,410
+    nodeType: com.playbux.tool.Dialog
+    message: __question
+    addFlag: 
+    removeFlag: 
+    choices:
+    - message: __choice1
+      next: 
+    - message: __choice2
+      next: 
+    - message: __choice3
+      next: 
+    endQuest: 0
+  - title: beforeEnd
+    nodeID: 76afeaf3-ce4f-45e2-ab8a-794c32f1271b638509681175710004
+    position: 2539,513
+    nodeType: com.playbux.tool.Dialog
+    message: Thank you for your participation.
+    addFlag: 
+    removeFlag: 
+    choices:
+    - message: 
+      next: 9bd34d3f-affd-4f58-a077-7ca7d6a819ce638500872389962016
+    endQuest: 0
+  - title: endQuest
+    nodeID: 9bd34d3f-affd-4f58-a077-7ca7d6a819ce638500872389962016
+    position: 2832,519
+    nodeType: com.playbux.tool.Dialog
+    message: See you again tomorrow.
+    addFlag: 
+    removeFlag: 
+    choices: []
+    endQuest: 0
+  - title: CorrectAnswer
+    nodeID: 63d9c779-a251-4455-ba9b-826a0ebf1279638499829872787033
+    position: 2233,519
+    nodeType: com.playbux.tool.Dialog
+    message: You win 5 Pebbles!
+    addFlag: 2_END
+    removeFlag: 
+    choices:
+    - message: 
+      next: 76afeaf3-ce4f-45e2-ab8a-794c32f1271b638509681175710004
+    endQuest: 1
+  questInformation:
+  - title: Daily Quest
+    nodeID: 
+    position: 344,171
+    nodeType: com.playbux.tool.QuestInformation
+    nextInfo: 
+    progressFlags:
+    - questDescription: Talk to Timmer at Dollar Sign
+      activateFlag: 2_START
+      finishFlag: 2_END
+  allNodeIds:
+  - 5cd32818-8e3b-4b51-8c3b-ef4ebaac3fed638471462820830671
+  - 12c57731-17f5-4d3d-8037-6766c7d98d11638471466503028393
+  - 7df09ee1-31cb-451a-a82b-9d926e757ad5638471470716462768
+  - 8cc62dbb-65ea-4bf3-aec2-e6c84031d0d3638471472143254483
+  - 1f929e9a-7667-4f55-ad8c-2922a96a36f6638471471436505518
+  - 76afeaf3-ce4f-45e2-ab8a-794c32f1271b638509681175710004
+  - 9bd34d3f-affd-4f58-a077-7ca7d6a819ce638500872389962016
+  - 63d9c779-a251-4455-ba9b-826a0ebf1279638499829872787033
+  - 
+  allNodeDatas:
+  - '{"nonPlayerCharacterID":"3","startDialogList":["12c57731-17f5-4d3d-8037-6766c7d98d11638471466503028393"],"position":"538,517","name":"Mr.Timmer","nodeID":"5cd32818-8e3b-4b51-8c3b-ef4ebaac3fed638471462820830671","nodeType":"com.playbux.tool.NonPlayerCharacter"}'
+  - '{"acceptFlag":"2_START","rejectFlag":"2_END","next":"7df09ee1-31cb-451a-a82b-9d926e757ad5638471470716462768","position":"889,498","name":"!Mr.Timmer
+    ???","nodeID":"12c57731-17f5-4d3d-8037-6766c7d98d11638471466503028393","nodeType":"com.playbux.tool.StartDialog"}'
+  - '{"message":"Are you ready to receive daily rewards?","addFlag":"2_START","removeFlag":"","choices":[{"message":"","next":"1f929e9a-7667-4f55-ad8c-2922a96a36f6638471471436505518"}],"endQuest":false,"position":"1305,467","name":"MTR1,daily_quest","nodeID":"7df09ee1-31cb-451a-a82b-9d926e757ad5638471470716462768","nodeType":"com.playbux.tool.Dialog"}'
+  - "{\"message\":\"Oops, that\u2019s not quite right. You\u2019ll get it next time!.\",\"addFlag\":\"\",\"removeFlag\":\"\",\"choices\":[],\"endQuest\":false,\"position\":\"2214,223\",\"name\":\"WrongAnswer\",\"nodeID\":\"8cc62dbb-65ea-4bf3-aec2-e6c84031d0d3638471472143254483\",\"nodeType\":\"com.playbux.tool.Dialog\"}"
+  - '{"message":"__question","addFlag":"","removeFlag":"","choices":[{"message":"__choice1","next":""},{"message":"__choice2","next":null},{"message":"__choice3","next":null}],"endQuest":false,"position":"1702,410","name":"MTR2","nodeID":"1f929e9a-7667-4f55-ad8c-2922a96a36f6638471471436505518","nodeType":"com.playbux.tool.Dialog"}'
+  - '{"message":"Thank you for your participation.","addFlag":"","removeFlag":"","choices":[{"message":"","next":"9bd34d3f-affd-4f58-a077-7ca7d6a819ce638500872389962016"}],"endQuest":false,"position":"2539,513","name":"beforeEnd","nodeID":"76afeaf3-ce4f-45e2-ab8a-794c32f1271b638509681175710004","nodeType":"com.playbux.tool.Dialog"}'
+  - '{"message":"See you again tomorrow.","addFlag":"","removeFlag":"","choices":[],"endQuest":false,"position":"2832,519","name":"endQuest","nodeID":"9bd34d3f-affd-4f58-a077-7ca7d6a819ce638500872389962016","nodeType":"com.playbux.tool.Dialog"}'
+  - '{"message":"You win 5 Pebbles!","addFlag":"2_END","removeFlag":"","choices":[{"message":"","next":"76afeaf3-ce4f-45e2-ab8a-794c32f1271b638509681175710004"}],"endQuest":true,"position":"2233,519","name":"CorrectAnswer","nodeID":"63d9c779-a251-4455-ba9b-826a0ebf1279638499829872787033","nodeType":"com.playbux.tool.Dialog"}'
+  - '{"nextInfo":"","progressFlags":[{"questDescription":"Talk to Timmer at Dollar
+    Sign","activteFlag":"2_START","finishFlag":"2_END"}],"position":"344,171","name":"Daily
+    Quest","nodeID":"","nodeType":"com.playbux.tool.QuestInformation"}'

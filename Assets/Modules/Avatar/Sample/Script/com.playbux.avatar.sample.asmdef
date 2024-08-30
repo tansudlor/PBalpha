@@ -1,0 +1,21 @@
+{
+    "name": "com.playbux.avatar.sample",
+    "rootNamespace": "com.playbux.avatar.sample",
+    "references": [
+        "GUID:6d78600828c19324bacc1673e4ac903a",
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:afb7e013359a22c4f91a41d93af8f46a",
+        "GUID:7025f7c9b33f37b4c817bb5341235e14",
+        "GUID:04b6ef823bef85b418265960446f25b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

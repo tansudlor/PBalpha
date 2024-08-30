@@ -1,0 +1,9 @@
+﻿namespace com.playbux.settings
+{
+    public enum SettingVariable 
+    {
+	{0}
+    }
+
+
+}

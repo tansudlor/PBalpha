@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691c725c0af34e03a16d4444ff106524, type: 3}
+  m_Name: Land1+2Chuck1-14
+  m_EditorClassIdentifier: 
+  width: 5
+  height: 4
+  gridSize: 1024
+  highQualityScale: 1
+  mediumQualityScale: 2
+  lowQualityScale: 4
+  defaultQualityScale: 1
+  textures:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 11400000, guid: 1f0099ba74cacf54e84be7166a997d2f, type: 2}
+    - Key: 2
+      Value: {fileID: 11400000, guid: 46ab918c7b871b54d86614999589d4e3, type: 2}
+    - Key: 3
+      Value: {fileID: 11400000, guid: a44f7362212f9aa49a07e10a3967b75c, type: 2}
+    - Key: 4
+      Value: {fileID: 11400000, guid: 935f64c2eba3bfc4499f70a8dc837882, type: 2}
+    - Key: 5
+      Value: {fileID: 11400000, guid: c971d3415330a7b42905109da1da719b, type: 2}
+    - Key: 6
+      Value: {fileID: 11400000, guid: bd03e4125f4a7e5498dc059a7eb5e21f, type: 2}
+    - Key: 7
+      Value: {fileID: 11400000, guid: 4a69b28f237bf1d4282292d880fca403, type: 2}
+    - Key: 8
+      Value: {fileID: 11400000, guid: 9d8e7c344bce4674b8b2a51747f360e6, type: 2}
+    - Key: 9
+      Value: {fileID: 11400000, guid: 58c410980aec97247b9880b39b021ade, type: 2}
+    - Key: 10
+      Value: {fileID: 11400000, guid: 92c0c264fbe85a24abb37aa77b12a1db, type: 2}
+    - Key: 11
+      Value: {fileID: 11400000, guid: 5028e125946d85743b878d87cf377791, type: 2}
+    - Key: 12
+      Value: {fileID: 11400000, guid: a61df49647d909a498c64970d13e9809, type: 2}
+    - Key: 13
+      Value: {fileID: 11400000, guid: 5903529e900dee044aea7d8f9a9eed36, type: 2}
+    - Key: 14
+      Value: {fileID: 11400000, guid: 756b1384bad23a54488a994a665ed707, type: 2}
+    - Key: 15
+      Value: {fileID: 11400000, guid: 90db2b21f0db9654d8f9ee6000a2028a, type: 2}
+    - Key: 16
+      Value: {fileID: 11400000, guid: d626eb95ac601724cadfe64ffd4f7ff1, type: 2}
+    - Key: 17
+      Value: {fileID: 11400000, guid: 012ab64ca062c924d90c803ce68a469f, type: 2}
+    - Key: 18
+      Value: {fileID: 11400000, guid: 1235ddf32af55c644a315df03154ffe6, type: 2}
+    - Key: 19
+      Value: {fileID: 11400000, guid: e57e1c4bf9945454d956775c17840426, type: 2}
+    - Key: 20
+      Value: {fileID: 11400000, guid: 2bd29247c1f48d148b5fd1471389be9d, type: 2}

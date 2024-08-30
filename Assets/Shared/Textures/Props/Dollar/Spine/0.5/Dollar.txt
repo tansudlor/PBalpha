@@ -1,0 +1,34 @@
+
+Dollar.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Dollar1
+  rotate: false
+  xy: 2, 2
+  size: 332, 498
+  orig: 332, 498
+  offset: 0, 0
+  index: -1
+Dollar2
+  rotate: false
+  xy: 336, 227
+  size: 554, 273
+  orig: 554, 273
+  offset: 0, 0
+  index: -1
+Rec
+  rotate: false
+  xy: 892, 463
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Wink
+  rotate: false
+  xy: 336, 110
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caae6ae202a2a94e982f052307f7a76, type: 3}
+  m_Name: WatchToEarn
+  m_EditorClassIdentifier: 
+  header: {fileID: 21300000, guid: 2c7571c2046a7a84288a31b68a693eef, type: 3}
+  imageContents:
+  - {fileID: 21300000, guid: 98f309429258f3748b2b456ea21d9af6, type: 3}
+  stringContents:
+  - Watch premium content for 15 to 30 minutes and receive free Lottos & BRKs. <link="0"><u>Read
+    more</u></link>
+  imageConfirm: {fileID: 21300000, guid: 78cf3c8a5b30f4642818ea5a72f1a522, type: 3}
+  readMoreUrl: https://playbux.gitbook.io/playbux-whitepaper/features/watch-to-earn-iqiyi-x-playbux
+  confirmUrl: https://www.playbux.co/game?scene=iqiyi

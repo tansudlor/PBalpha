@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2e4c50e94e14a80b764a0752d64a223, type: 3}
+  m_Name: AbilityDatabase
+  m_EditorClassIdentifier: 
+  recastStack:
+  - GLOBAL
+  data:
+    _serializedList:
+    - Key: 16118
+      Value:
+        name: Mad Tight Swing
+        desc: 
+        castTime: 5
+        animationTime: 1
+        abilityType: 1
+        recastTime:
+          time: 0
+          recastStack: 
+        effects: a71a0100
+        potencies: []
+    - Key: 35186
+      Value:
+        name: Mad Wide Swing
+        desc: 
+        castTime: 5
+        animationTime: 1
+        abilityType: 1
+        recastTime:
+          time: 0
+          recastStack: 
+        effects: a71a0100
+        potencies: []
+    - Key: 16
+      Value:
+        name: Blade Edge
+        desc: Deliver an attack dealing {0} damage.
+        castTime: 0
+        animationTime: 1
+        abilityType: 0
+        recastTime:
+          time: 2.5
+          recastStack: GLOBAL
+        effects: 
+        potencies:
+        - type: 0
+          potency: 150
+    - Key: 20
+      Value:
+        name: 'Command: Drone Assult'
+        desc: Send a command to your drone to slam into a target, dealing {0} damage.
+        castTime: 2
+        animationTime: 1
+        abilityType: 1
+        recastTime:
+          time: 2.5
+          recastStack: GLOBAL
+        effects: 
+        potencies:
+        - type: 0
+          potency: 250
+    - Key: 11
+      Value:
+        name: Iron Will
+        desc: Creates a barrier nullifying stun effects for 5 seconds.
+        castTime: 0
+        animationTime: 1
+        abilityType: 2
+        recastTime:
+          time: 60
+          recastStack: IRON_WILL
+        effects: 0b000000
+        potencies: []
+    - Key: 10
+      Value:
+        name: Battalion Burst
+        desc: Increased auto attack damage by {0} on allies  for 20 seconds.
+        castTime: 0
+        animationTime: 1
+        abilityType: 2
+        recastTime:
+          time: 120
+          recastStack: BATTALION_BURST
+        effects: 
+        potencies:
+        - type: 1
+          potency: 10
+    - Key: 12
+      Value:
+        name: Kinetic Barrier
+        desc: Creates a barrier that nullifies all stun effects on allies for 5 seconds.
+        castTime: 0
+        animationTime: 1
+        abilityType: 2
+        recastTime:
+          time: 120
+          recastStack: KINETIC_BARRIER
+        effects: 0c000000
+        potencies: []
+    - Key: 9
+      Value:
+        name: Adrenaline
+        desc: Increased auto attack damage by {0} for 20 seconds.
+        castTime: 0
+        animationTime: 1
+        abilityType: 2
+        recastTime:
+          time: 60
+          recastStack: ADRENALINE
+        effects: 09000000
+        potencies:
+        - type: 1
+          potency: 10
+    - Key: 13
+      Value:
+        name: Heroic Burst
+        desc: Increase your and your allies's attack damage by {0} for 20 seconds.
+        castTime: 0
+        animationTime: 1
+        abilityType: 2
+        recastTime:
+          time: 120
+          recastStack: HEROIC_BURST
+        effects: 0d000000
+        potencies:
+        - type: 1
+          potency: 3

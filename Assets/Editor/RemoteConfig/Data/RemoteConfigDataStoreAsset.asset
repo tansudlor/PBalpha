@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"46c6d427-96b8-41ce-98a9-0ca9ebccf14e\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"game-backend-url\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"https://playbux-game-backend-api.insitemedia.co.th\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"4eb46d17-54ae-4e00-9dd9-e1323997747f\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"game-backend-api-port\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": -1\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"fcb96ff5-8e83-44ae-acc9-a8e7982eb7c0\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"game-backend-api-version\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"v1\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"2b6075e3-9c4e-4f53-8671-edd86da94e8f\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"service-uid\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"cdb8ffff-eea1-43d7-979a-9cb9fdec04ee\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"78f1b03c-935b-4027-aa4a-b7af44e84e35\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"secret-key\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"playbux\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"d71d2ef7-4897-48dd-8b69-a0fcbcb9f42f\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"api-key\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"E16XV5F_RJ41ROR6ivl2T\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"ec32c2da-5672-4e36-88ed-724c442df3c2\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"game-client-version\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"1.0.2.16\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"89416fea-7b3d-48aa-be57-550acbb03f48\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"fake-player-max-time-to-spawn\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 10.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"93a4ce2e-6002-4931-bb1c-00e843493345\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"fake-player-max-amount\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9b1e2631-ff03-4be6-b6b5-ea2b811e1be2\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"fake-player-life-time\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 300\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"46c6d427-96b8-41ce-98a9-0ca9ebccf14e\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"game-backend-url\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"https://playbux-game-backend-api.insitemedia.co.th\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"4eb46d17-54ae-4e00-9dd9-e1323997747f\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"game-backend-api-port\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": -1\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"fcb96ff5-8e83-44ae-acc9-a8e7982eb7c0\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"game-backend-api-version\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"v1\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"2b6075e3-9c4e-4f53-8671-edd86da94e8f\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"service-uid\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"cdb8ffff-eea1-43d7-979a-9cb9fdec04ee\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"78f1b03c-935b-4027-aa4a-b7af44e84e35\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"secret-key\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"playbux\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"d71d2ef7-4897-48dd-8b69-a0fcbcb9f42f\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"api-key\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"E16XV5F_RJ41ROR6ivl2T\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"ec32c2da-5672-4e36-88ed-724c442df3c2\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"game-client-version\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"1.0.2.16\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"89416fea-7b3d-48aa-be57-550acbb03f48\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"fake-player-max-time-to-spawn\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 10.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"93a4ce2e-6002-4931-bb1c-00e843493345\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"fake-player-max-amount\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9b1e2631-ff03-4be6-b6b5-ea2b811e1be2\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"fake-player-life-time\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 300\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"a9c1dc5b-ec0c-4f85-9fac-a4a9e06b3844\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"76cd667f-900f-4bbe-868d-cbbe30ae4dfa\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2023-10-03T04:13:48Z\",\r\n    \"updatedAt\":
+    \"2023-10-03T04:13:48Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"a9c1dc5b-ec0c-4f85-9fac-a4a9e06b3844\",\r\n   
+    \"name\": \"development\",\r\n    \"id\": \"75a4b5bb-0e43-41d1-9be4-22a85ae81411\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2024-04-27T20:49:59Z\",\r\n   
+    \"updatedAt\": \"2024-04-27T20:49:59Z\"\r\n  }\r\n]"

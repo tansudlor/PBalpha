@@ -1,0 +1,104 @@
+
+GameCenter_Export.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 994, 994
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Button
+  rotate: false
+  xy: 2, 216
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+D-Pad
+  rotate: false
+  xy: 604, 785
+  size: 200, 229
+  orig: 200, 229
+  offset: 0, 0
+  index: -1
+Light1
+  rotate: true
+  xy: 310, 595
+  size: 21, 47
+  orig: 21, 49
+  offset: 0, 1
+  index: -1
+Light2
+  rotate: true
+  xy: 495, 647
+  size: 119, 64
+  orig: 119, 64
+  offset: 0, 0
+  index: -1
+Pipe1_Shadow1
+  rotate: false
+  xy: 2, 321
+  size: 180, 106
+  orig: 180, 106
+  offset: 0, 0
+  index: -1
+Pipe1_Shadow2
+  rotate: true
+  xy: 806, 831
+  size: 75, 179
+  orig: 75, 179
+  offset: 0, 0
+  index: -1
+Pipe1_Shadow3
+  rotate: false
+  xy: 2, 768
+  size: 600, 246
+  orig: 600, 246
+  offset: 0, 0
+  index: -1
+Pipe2_Shadow1
+  rotate: true
+  xy: 184, 341
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+Pipe2_Shadow2
+  rotate: false
+  xy: 2, 429
+  size: 247, 149
+  orig: 247, 149
+  offset: 0, 0
+  index: -1
+Pipe2_Shadow3
+  rotate: false
+  xy: 806, 908
+  size: 186, 106
+  orig: 186, 106
+  offset: 0, 0
+  index: -1
+Purple_Tile
+  rotate: true
+  xy: 251, 475
+  size: 103, 52
+  orig: 103, 52
+  offset: 0, 0
+  index: -1
+Scan
+  rotate: false
+  xy: 310, 618
+  size: 183, 148
+  orig: 183, 154
+  offset: 0, 6
+  index: -1
+press_start
+  rotate: false
+  xy: 2, 580
+  size: 306, 186
+  orig: 306, 186
+  offset: 0, 0
+  index: -1

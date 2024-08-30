@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e150ff9fc0799429dc5dbc116c67f8, type: 3}
+  m_Name: AvatarSampleSet
+  m_EditorClassIdentifier: 
+  slotData:
+  - "{\n            \"hat\": \"135\",\n            \"head\": \"134\",\n           
+    \"face\": null,\n            \"shirt\": \"23\",\n            \"pants\": \"128\",\n           
+    \"back\": null,\n            \"shoes\": \"133\"\n}"
+  - "{\n            \"hat\": \"24\",\n            \"head\": \"55\",\n           
+    \"face\": \"78\",\n            \"shirt\": \"75\",\n            \"pants\": \"66\",\n           
+    \"back\": \"123\",\n            \"shoes\": \"122\"\n}"
+  - "{\n    \"hat\": \"2_PBU\",\n    \"head\": \"55_PBN\",\n    \"face\": null,\n   
+    \"shirt\": \"57_PBN\",\n    \"pants\": \"44_PBN\",\n    \"back\": \"67_PBN\",\n   
+    \"shoes\": \"131_PBN\"\n}"
+  - "{\n    \"hat\": \"115_PBN\",\n    \"head\": \"116_PBN\",\n    \"face\": null,\n   
+    \"shirt\": \"117_PBN\",\n    \"pants\": \"114\",\n    \"back\": \"113_PBN\",\n   
+    \"shoes\": \"118_PBN\"\n}"
+  - "{\n    \"hat\": \"126\",\n    \"head\": \"127\",\n    \"face\": null,\n    \"shirt\":
+    \"130_PBN\",\n    \"pants\": \"128\",\n    \"back\": \"95\",\n    \"shoes\":
+    \"131_PBN\"\n}"
+  - "{\n    \"hat\": \"98_PBN\",\n    \"head\": \"96\",\n    \"face\": null,\n   
+    \"shirt\": \"94\",\n    \"pants\": \"99_PBN\",\n    \"back\": \"95\",\n    \"shoes\":
+    \"97_PBN\"\n}"

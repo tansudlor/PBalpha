@@ -1,0 +1,113 @@
+{
+    "flagVersion": 1,
+    "allFlags": [
+        {
+            "flag": "N1",
+            "reward": ""
+        },
+        {
+            "flag": "N2",
+            "reward": ""
+        },
+        {
+            "flag": "N3",
+            "reward": ""
+        },
+        {
+            "flag": "N4",
+            "reward": ""
+        },
+        {
+            "flag": "N5",
+            "reward": ""
+        },
+        {
+            "flag": "N6",
+            "reward": ""
+        },
+        {
+            "flag": "N7",
+            "reward": ""
+        },
+        {
+            "flag": "STARTER",
+            "reward": ""
+        },
+        {
+            "flag": "1_START",
+            "reward": ""
+        },
+        {
+            "flag": "1_1_REWARD",
+            "reward": "10 BRK,1 LOTTO"
+        },
+        {
+            "flag": "1_1_END",
+            "reward": ""
+        },
+        {
+            "flag": "1_2_FIRST",
+            "reward": ""
+        },
+        {
+            "flag": "1_2_REWARD",
+            "reward": "10 BRK"
+        },
+        {
+            "flag": "1_2_END",
+            "reward": ""
+        },
+        {
+            "flag": "1_3_REWARD",
+            "reward": "10 BRK"
+        },
+        {
+            "flag": "1_3_END",
+            "reward": ""
+        },
+        {
+            "flag": "1_4_GIVEBRK",
+            "reward": ""
+        },
+        {
+            "flag": "1_4_END",
+            "reward": ""
+        },
+        {
+            "flag": "1_5_FIRST",
+            "reward": ""
+        },
+        {
+            "flag": "1_5_END",
+            "reward": ""
+        },
+        {
+            "flag": "1_6_FIRST",
+            "reward": ""
+        },
+        {
+            "flag": "1_6_REWARD",
+            "reward": "10 BRK,1 LOTTO"
+        },
+        {
+            "flag": "1_6_END",
+            "reward": ""
+        },
+        {
+            "flag": "1_END",
+            "reward": ""
+        },
+        {
+            "flag": "2_START",
+            "reward": ""
+        },
+        {
+            "flag": "2_REWARD",
+            "reward": "5 PEBBLE"
+        },
+        {
+            "flag": "2_END",
+            "reward": ""
+        }
+    ]
+}

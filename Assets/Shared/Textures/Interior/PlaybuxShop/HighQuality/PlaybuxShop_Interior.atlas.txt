@@ -1,0 +1,153 @@
+
+PlaybuxShop_Interior.png
+size: 4096, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Board
+  rotate: true
+  xy: 2858, 1146
+  size: 150, 372
+  orig: 152, 374
+  offset: 1, 1
+  index: -1
+Counter
+  rotate: true
+  xy: 574, 566
+  size: 576, 402
+  orig: 578, 404
+  offset: 1, 1
+  index: -1
+Floor_1
+  rotate: false
+  xy: 2318, 1454
+  size: 979, 572
+  orig: 1797, 900
+  offset: 816, 327
+  index: -1
+Floor_2
+  rotate: true
+  xy: 2, 2
+  size: 1140, 570
+  orig: 1797, 900
+  offset: 492, 165
+  index: -1
+Floor_3
+  rotate: false
+  xy: 1012, 1454
+  size: 1304, 572
+  orig: 1797, 900
+  offset: 2, 1
+  index: -1
+Gate
+  rotate: true
+  xy: 2465, 1125
+  size: 327, 391
+  orig: 329, 393
+  offset: 1, 1
+  index: -1
+Mornitor
+  rotate: true
+  xy: 862, 366
+  size: 198, 130
+  orig: 202, 132
+  offset: 2, 1
+  index: -1
+Partition
+  rotate: false
+  xy: 1323, 916
+  size: 198, 173
+  orig: 200, 175
+  offset: 1, 1
+  index: -1
+Pipe
+  rotate: true
+  xy: 3973, 1894
+  size: 132, 107
+  orig: 134, 111
+  offset: 1, 2
+  index: -1
+Pipe_S
+  rotate: false
+  xy: 862, 273
+  size: 108, 91
+  orig: 111, 93
+  offset: 2, 1
+  index: -1
+Playbux_Standy
+  rotate: false
+  xy: 978, 817
+  size: 191, 272
+  orig: 193, 274
+  offset: 1, 1
+  index: -1
+Pole_Back
+  rotate: true
+  xy: 1602, 1157
+  size: 295, 442
+  orig: 297, 444
+  offset: 1, 1
+  index: -1
+Pole_Corner
+  rotate: false
+  xy: 574, 6
+  size: 286, 558
+  orig: 288, 560
+  offset: 1, 1
+  index: -1
+Pole_Geo
+  rotate: true
+  xy: 2858, 1298
+  size: 154, 383
+  orig: 157, 385
+  offset: 1, 1
+  index: -1
+Pole_Round
+  rotate: true
+  xy: 2046, 1136
+  size: 316, 417
+  orig: 320, 419
+  offset: 2, 1
+  index: -1
+Rail
+  rotate: false
+  xy: 994, 388
+  size: 132, 177
+  orig: 134, 179
+  offset: 1, 1
+  index: -1
+Top
+  rotate: false
+  xy: 1012, 1091
+  size: 588, 361
+  orig: 592, 363
+  offset: 2, 1
+  index: -1
+Vending_Blue
+  rotate: false
+  xy: 1171, 839
+  size: 150, 250
+  orig: 154, 252
+  offset: 2, 1
+  index: -1
+Vending_Orange
+  rotate: false
+  xy: 978, 567
+  size: 152, 248
+  orig: 154, 250
+  offset: 1, 1
+  index: -1
+Wall_L
+  rotate: false
+  xy: 2, 1144
+  size: 1008, 882
+  orig: 1010, 884
+  offset: 1, 1
+  index: -1
+Wall_R
+  rotate: false
+  xy: 3299, 1373
+  size: 672, 653
+  orig: 674, 655
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2dbf83c617defa4687d36506bb1c3c5, type: 3}
+  m_Name: NPCDataBase
+  m_EditorClassIdentifier: 
+  allNPCs:
+  - npcId: 1
+    npcName: Edward
+    npcPosition: {x: -4, y: -48, z: 0}
+    startDialog: Welcome to Playbux Alpha! The largest web 3 entertainment platform.
+      Let's enjoy.
+    conditionDialog: []
+    prefab: {fileID: 2680079481292406145, guid: ccc5dea9b30c544ab8913bd606e05085, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: N1
+    showQuestAvilable: S1
+    dialogData: {fileID: 0}
+  - npcId: 2
+    npcName: Jeremy
+    npcPosition: {x: 106, y: -83, z: 0}
+    startDialog: You can win NFTs and up to 10,000 USDT in the Claw Machine.
+    conditionDialog: []
+    prefab: {fileID: 7443041550074817007, guid: 97abf321de6214dc1b63a9af89b4599d, type: 3}
+    sprite: {fileID: 21300000, guid: d2b7ac33c8dc8394dbcee2acb80292a7, type: 3}
+    hideFlag: N2
+    showQuestAvilable: S2
+    dialogData: {fileID: 0}
+  - npcId: 3
+    npcName: Mr.Timmer
+    npcPosition: {x: -27.5, y: 78, z: 0}
+    startDialog: In-game for 15 minutes daily, then complete quest for rewards.
+    conditionDialog:
+    - 2_END=Tomorrow, you can engage in daily quests to earn rewards once more.
+    prefab: {fileID: 8581867142062796400, guid: 751cb0c559b28438bb99073b467d9624, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: N3
+    showQuestAvilable: S3
+    dialogData: {fileID: 0}
+  - npcId: 4
+    npcName: Mr. Curious
+    npcPosition: {x: 67, y: -45, z: 0}
+    startDialog: Hi, I'm Curious. Quiz Time starts soon. Each question remains active
+      for 30 seconds. Respond by standing on the colored circle of your answer choice.
+      Get ready!
+    conditionDialog: []
+    prefab: {fileID: 2680079481292406145, guid: ccc5dea9b30c544ab8913bd606e05085, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: N4
+    showQuestAvilable: S4
+    dialogData: {fileID: 0}
+  - npcId: 5
+    npcName: Sven
+    npcPosition: {x: 52, y: -27, z: 0}
+    startDialog: You can purchase special packages, such as pebbles, bricks, and
+      lotto tickets, from the Playbux Shop to use in games.
+    conditionDialog: []
+    prefab: {fileID: 8581867142062796400, guid: 751cb0c559b28438bb99073b467d9624, type: 3}
+    sprite: {fileID: 21300000, guid: 60020f867caff594490313e139f91dbb, type: 3}
+    hideFlag: N5
+    showQuestAvilable: S5
+    dialogData: {fileID: 0}
+  - npcId: 6
+    npcName: Edward
+    npcPosition: {x: 87.5, y: -24.7, z: 0}
+    startDialog: Shop worldwide on Shop to Earn's platform and earning cashback credits
+      swappable for Deposit PBUX.
+    conditionDialog: []
+    prefab: {fileID: 2680079481292406145, guid: ccc5dea9b30c544ab8913bd606e05085, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: N6
+    showQuestAvilable: S6
+    dialogData: {fileID: 0}
+  - npcId: 7
+    npcName: Edward
+    npcPosition: {x: 56.5, y: -22.5, z: 0}
+    startDialog: A chance to win USDT, exclusive NFTs, and tokens in the Lotto Pool.
+      Total prize $8,500-$50,000 per month.
+    conditionDialog: []
+    prefab: {fileID: 4054759623105207002, guid: 5b2d98387348f412593f60828ca57adf, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: N7
+    showQuestAvilable: S7
+    dialogData: {fileID: 0}
+  - npcId: 8
+    npcName: Edward
+    npcPosition: {x: 404, y: 100, z: 0}
+    startDialog: Welcome to Stamp to earn
+    conditionDialog: []
+    prefab: {fileID: 4054759623105207002, guid: 5b2d98387348f412593f60828ca57adf, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: 
+    showQuestAvilable: 
+    dialogData: {fileID: 11400000, guid: f046e4624bd23024885cec92e4accd9f, type: 2}
+  - npcId: 9
+    npcName: Edward
+    npcPosition: {x: 334.6, y: -13.2, z: 0}
+    startDialog: Welcome to Vapor
+    conditionDialog: []
+    prefab: {fileID: 4054759623105207002, guid: 5b2d98387348f412593f60828ca57adf, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: 
+    showQuestAvilable: 
+    dialogData: {fileID: 11400000, guid: af226dc2e63a31b42ae38566e2ad41dc, type: 2}
+  - npcId: 10
+    npcName: Edward
+    npcPosition: {x: 317, y: 140, z: 0}
+    startDialog: Welcome to Lotto
+    conditionDialog: []
+    prefab: {fileID: 2680079481292406145, guid: ccc5dea9b30c544ab8913bd606e05085, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: 
+    showQuestAvilable: 
+    dialogData: {fileID: 11400000, guid: 6a3183310cf8f794cb440ce57283e25d, type: 2}
+  - npcId: 11
+    npcName: Edward
+    npcPosition: {x: 250, y: 38, z: 0}
+    startDialog: Welcome to PlaybuxShop
+    conditionDialog: []
+    prefab: {fileID: 2680079481292406145, guid: ccc5dea9b30c544ab8913bd606e05085, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: 
+    showQuestAvilable: 
+    dialogData: {fileID: 11400000, guid: 87210d3e67c55bd4da3fb01e00f67847, type: 2}
+  - npcId: 12
+    npcName: Edward
+    npcPosition: {x: 215, y: 202, z: 0}
+    startDialog: Welcome to PlaybuxShop
+    conditionDialog: []
+    prefab: {fileID: 2680079481292406145, guid: ccc5dea9b30c544ab8913bd606e05085, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: 
+    showQuestAvilable: 
+    dialogData: {fileID: 11400000, guid: 321aeefa22c48d646807f902e2e135da, type: 2}
+  - npcId: 13
+    npcName: Edward
+    npcPosition: {x: -7.5, y: 41, z: 0}
+    startDialog: Welcome to PlaybuxShop
+    conditionDialog: []
+    prefab: {fileID: 4054759623105207002, guid: 5b2d98387348f412593f60828ca57adf, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: 
+    showQuestAvilable: 
+    dialogData: {fileID: 11400000, guid: 9a6db4fb136d7594997c0595c4a748ef, type: 2}
+  - npcId: 14
+    npcName: Edward
+    npcPosition: {x: 1.5, y: -2.7, z: 0}
+    startDialog: Welcome to Conquere
+    conditionDialog: []
+    prefab: {fileID: 4054759623105207002, guid: 5b2d98387348f412593f60828ca57adf, type: 3}
+    sprite: {fileID: 21300000, guid: 2bae721e953ae7143aef4f478c576004, type: 3}
+    hideFlag: 
+    showQuestAvilable: 
+    dialogData: {fileID: 11400000, guid: d6228d2c8a8c60143a70de95da20f46e, type: 2}

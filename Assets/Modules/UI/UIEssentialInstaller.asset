@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b8307397fa44b4ba1a922f2e1048c4, type: 3}
+  m_Name: UIEssentialInstaller
+  m_EditorClassIdentifier: 
+  uiCanvas: {fileID: 3447624360425047754, guid: 3a8f2b0dae6ec1842a7e563cb355f0c8, type: 3}
+  teleportCutoutContext: {fileID: 8296587544591035165, guid: b77e963add5059f429971435ee97a330, type: 3}

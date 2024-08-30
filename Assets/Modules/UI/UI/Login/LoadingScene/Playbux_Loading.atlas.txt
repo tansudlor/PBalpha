@@ -1,0 +1,97 @@
+
+Playbux_Loading.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+A
+  rotate: false
+  xy: 1091, 224
+  size: 293, 286
+  orig: 295, 288
+  offset: 1, 1
+  index: -1
+B
+  rotate: false
+  xy: 802, 146
+  size: 287, 364
+  orig: 289, 366
+  offset: 1, 1
+  index: -1
+Blue
+  rotate: false
+  xy: 867, 2
+  size: 142, 142
+  orig: 144, 144
+  offset: 1, 1
+  index: -1
+Green
+  rotate: false
+  xy: 1011, 2
+  size: 142, 142
+  orig: 144, 144
+  offset: 1, 1
+  index: -1
+L
+  rotate: true
+  xy: 506, 40
+  size: 83, 359
+  orig: 85, 361
+  offset: 1, 1
+  index: -1
+P
+  rotate: true
+  xy: 1386, 261
+  size: 249, 324
+  orig: 251, 326
+  offset: 1, 1
+  index: -1
+Pink
+  rotate: false
+  xy: 1155, 80
+  size: 142, 142
+  orig: 144, 144
+  offset: 1, 1
+  index: -1
+Rec
+  rotate: false
+  xy: 2, 7
+  size: 502, 503
+  orig: 504, 505
+  offset: 1, 1
+  index: -1
+Rectangle 1
+  rotate: false
+  xy: 1155, 7
+  size: 71, 71
+  orig: 73, 73
+  offset: 1, 1
+  index: -1
+U
+  rotate: true
+  xy: 1712, 248
+  size: 262, 281
+  orig: 264, 283
+  offset: 1, 1
+  index: -1
+White
+  rotate: false
+  xy: 1443, 165
+  size: 94, 94
+  orig: 96, 96
+  offset: 1, 1
+  index: -1
+Y
+  rotate: false
+  xy: 506, 125
+  size: 294, 385
+  orig: 296, 387
+  offset: 1, 1
+  index: -1
+Yellow
+  rotate: false
+  xy: 1299, 80
+  size: 142, 142
+  orig: 144, 144
+  offset: 1, 1
+  index: -1

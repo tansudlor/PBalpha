@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fcb87262d748a41a96ff482942ff0b, type: 3}
+  m_Name: Export3
+  m_EditorClassIdentifier: 
+  questName: New Comer
+  questID: 3
+  position: 18.4,182.4
+  nonPlayerCharcater:
+  - title: John
+    nodeID: 77a80c01-2454-4634-b60c-4797245936d0638391856316488218
+    position: 366.4,84.8
+    nonPlayerCharacterID: 1
+    startDialogs:
+    - d1d4e4f0-fb46-4e6a-a1ee-e40c8d2a192c638391857003236738
+    - 4adc5ac3-8d63-40aa-a90b-be0478e5ce92638391868017909967
+  - title: Sarah
+    nodeID: 14cb0abb-5472-43af-b11a-b4de4faa5797638391856451284478
+    position: 352.8,245.6
+    nonPlayerCharacterID: 2
+    startDialogs:
+    - 658ec577-2e5a-4c10-9fae-cb5061cba6c1638391857062088501
+    - 73bda593-d49a-4cd9-a6e6-d3ee78b8de1f638391870428149219
+    - 8873ccbb-b337-4d42-8279-e16e5aa01638638392741295192523
+  startDialogs:
+  - title: JohnDialog
+    nodeID: d1d4e4f0-fb46-4e6a-a1ee-e40c8d2a192c638391857003236738
+    position: 712,-203.2
+    acceptFlag: 
+    rejectFlag: 1-HELLO```1-END
+    next: 18795832-f15c-4871-b2c8-780d471e118b638391863182536177
+  - title: John Idle
+    nodeID: 4adc5ac3-8d63-40aa-a90b-be0478e5ce92638391868017909967
+    position: 717.6,56
+    acceptFlag: 1-HELLO
+    rejectFlag: 
+    next: c7e256f1-534a-4be6-b2db-beeb5d3d596d638391869363801037
+  - title: Sarah Dialog
+    nodeID: 73bda593-d49a-4cd9-a6e6-d3ee78b8de1f638391870428149219
+    position: 721.6,393.6
+    acceptFlag: 1-HELLO
+    rejectFlag: 1-END
+    next: b960f1a7-b587-490b-a6ee-b7810526882e638391869860299634
+  - title: Sarah Idle
+    nodeID: 658ec577-2e5a-4c10-9fae-cb5061cba6c1638391857062088501
+    position: 719.2,226.4
+    acceptFlag: 1-END
+    rejectFlag: 
+    next: 7200246a-6bfe-426f-b9fc-d50a60e434a1638391871813805735
+  - title: Start Node
+    nodeID: 8873ccbb-b337-4d42-8279-e16e5aa01638638392741295192523
+    position: 715.2,542.4
+    acceptFlag: 
+    rejectFlag: 
+    next: 
+  dialogs:
+  - title: John Hello to Player
+    nodeID: 18795832-f15c-4871-b2c8-780d471e118b638391863182536177
+    position: 1155.2,-329.6
+    message: Hello new Bux
+    addFlag: 
+    removeFlag: 
+    choices:
+    - message: Hello John
+      next: 78dfaa44-868d-4971-9e59-6c9da6607a80638391863717182033
+    - message: Who are you
+      next: 
+    endQuest: 0
+  - title: John ask Player
+    nodeID: 78dfaa44-868d-4971-9e59-6c9da6607a80638391863717182033
+    position: 1534.4,-519.2
+    message: How tf  u know my name
+    addFlag: 
+    removeFlag: 
+    choices:
+    - message: I create you
+      next: 
+    - message: im your father
+      next: 
+    endQuest: 0
+  - title: John scream
+    nodeID: d3b52267-0a71-4df6-8c94-310ade0523f8638391865270861934
+    position: 1941.6,-515.2
+    message: Noooooooo
+    addFlag: 
+    removeFlag: 
+    choices: []
+    endQuest: 0
+  - title: John introduce
+    nodeID: b15b1188-bb78-4dd6-a96e-eaf204e992b8638391866529869880
+    position: 1534.4,-224
+    message: Im John   Ask Sarah about me
+    addFlag: 1-HELLO
+    removeFlag: 
+    choices: []
+    endQuest: 0
+  - title: John Sleep
+    nodeID: c7e256f1-534a-4be6-b2db-beeb5d3d596d638391869363801037
+    position: 1150.4,-32
+    message: Zzzzzzzzz
+    addFlag: 
+    removeFlag: 
+    choices: []
+    endQuest: 0
+  - title: Sarah Sleep
+    nodeID: 7200246a-6bfe-426f-b9fc-d50a60e434a1638391871813805735
+    position: 1145.6,208.8
+    message: Zzzzzz
+    addFlag: 
+    removeFlag: 
+    choices: []
+    endQuest: 0
+  - title: Sarah Hello
+    nodeID: b960f1a7-b587-490b-a6ee-b7810526882e638391869860299634
+    position: 1144,456.8
+    message: Hello Player
+    addFlag: 
+    removeFlag: 
+    choices:
+    - message: I want to ask you about John
+      next: 
+    endQuest: 0
+  - title: Sarah ninta John
+    nodeID: 7df9b26e-fb1e-4df4-a537-923eec29b87a638391872003998721
+    position: 1563.2,455.2
+    message: He xxxxxxxxxxx
+    addFlag: 1-END
+    removeFlag: 1-HELLO
+    choices: []
+    endQuest: 1
+  allNodeIds:
+  - 77a80c01-2454-4634-b60c-4797245936d0638391856316488218
+  - 14cb0abb-5472-43af-b11a-b4de4faa5797638391856451284478
+  - d1d4e4f0-fb46-4e6a-a1ee-e40c8d2a192c638391857003236738
+  - 4adc5ac3-8d63-40aa-a90b-be0478e5ce92638391868017909967
+  - 73bda593-d49a-4cd9-a6e6-d3ee78b8de1f638391870428149219
+  - 658ec577-2e5a-4c10-9fae-cb5061cba6c1638391857062088501
+  - 8873ccbb-b337-4d42-8279-e16e5aa01638638392741295192523
+  - 18795832-f15c-4871-b2c8-780d471e118b638391863182536177
+  - 78dfaa44-868d-4971-9e59-6c9da6607a80638391863717182033
+  - d3b52267-0a71-4df6-8c94-310ade0523f8638391865270861934
+  - b15b1188-bb78-4dd6-a96e-eaf204e992b8638391866529869880
+  - c7e256f1-534a-4be6-b2db-beeb5d3d596d638391869363801037
+  - 7200246a-6bfe-426f-b9fc-d50a60e434a1638391871813805735
+  - b960f1a7-b587-490b-a6ee-b7810526882e638391869860299634
+  - 7df9b26e-fb1e-4df4-a537-923eec29b87a638391872003998721
+  allNodeDatas:
+  - '{"NonPlayerCharacterID":"1","StartDialogList":["d1d4e4f0-fb46-4e6a-a1ee-e40c8d2a192c638391857003236738","4adc5ac3-8d63-40aa-a90b-be0478e5ce92638391868017909967"],"Position":"366.4,84.8","Name":"John","NodeID":"77a80c01-2454-4634-b60c-4797245936d0638391856316488218"}'
+  - '{"NonPlayerCharacterID":"2","StartDialogList":["658ec577-2e5a-4c10-9fae-cb5061cba6c1638391857062088501","73bda593-d49a-4cd9-a6e6-d3ee78b8de1f638391870428149219","8873ccbb-b337-4d42-8279-e16e5aa01638638392741295192523"],"Position":"352.8,245.6","Name":"Sarah","NodeID":"14cb0abb-5472-43af-b11a-b4de4faa5797638391856451284478"}'
+  - '{"AcceptFlag":"","RejectFlag":"1-HELLO```1-END","Next":"18795832-f15c-4871-b2c8-780d471e118b638391863182536177","Position":"712,-203.2","Name":"JohnDialog","NodeID":"d1d4e4f0-fb46-4e6a-a1ee-e40c8d2a192c638391857003236738"}'
+  - '{"AcceptFlag":"1-HELLO","RejectFlag":"","Next":"c7e256f1-534a-4be6-b2db-beeb5d3d596d638391869363801037","Position":"717.6,56","Name":"John
+    Idle","NodeID":"4adc5ac3-8d63-40aa-a90b-be0478e5ce92638391868017909967"}'
+  - '{"AcceptFlag":"1-HELLO","RejectFlag":"1-END","Next":"b960f1a7-b587-490b-a6ee-b7810526882e638391869860299634","Position":"721.6,393.6","Name":"Sarah
+    Dialog","NodeID":"73bda593-d49a-4cd9-a6e6-d3ee78b8de1f638391870428149219"}'
+  - '{"AcceptFlag":"1-END","RejectFlag":"","Next":"7200246a-6bfe-426f-b9fc-d50a60e434a1638391871813805735","Position":"719.2,226.4","Name":"Sarah
+    Idle","NodeID":"658ec577-2e5a-4c10-9fae-cb5061cba6c1638391857062088501"}'
+  - '{"AcceptFlag":"","RejectFlag":"","Next":"","Position":"715.2,542.4","Name":"Start
+    Node","NodeID":"8873ccbb-b337-4d42-8279-e16e5aa01638638392741295192523"}'
+  - '{"Message":"Hello new Bux","AddFlag":"","RemoveFlag":"","Choices":[{"Message":"Hello
+    John","Next":"78dfaa44-868d-4971-9e59-6c9da6607a80638391863717182033"},{"Message":"Who
+    are you","Next":null}],"EndQuest":false,"Position":"1155.2,-329.6","Name":"John
+    Hello to Player","NodeID":"18795832-f15c-4871-b2c8-780d471e118b638391863182536177"}'
+  - '{"Message":"How tf  u know my name","AddFlag":"","RemoveFlag":"","Choices":[{"Message":"I
+    create you","Next":null},{"Message":"im your father","Next":null}],"EndQuest":false,"Position":"1534.4,-519.2","Name":"John
+    ask Player","NodeID":"78dfaa44-868d-4971-9e59-6c9da6607a80638391863717182033"}'
+  - '{"Message":"Noooooooo","AddFlag":"","RemoveFlag":"","Choices":[],"EndQuest":false,"Position":"1941.6,-515.2","Name":"John
+    scream","NodeID":"d3b52267-0a71-4df6-8c94-310ade0523f8638391865270861934"}'
+  - '{"Message":"Im John   Ask Sarah about me","AddFlag":"1-HELLO","RemoveFlag":"","Choices":[],"EndQuest":false,"Position":"1534.4,-224","Name":"John
+    introduce","NodeID":"b15b1188-bb78-4dd6-a96e-eaf204e992b8638391866529869880"}'
+  - '{"Message":"Zzzzzzzzz","AddFlag":"","RemoveFlag":"","Choices":[],"EndQuest":false,"Position":"1150.4,-32","Name":"John
+    Sleep","NodeID":"c7e256f1-534a-4be6-b2db-beeb5d3d596d638391869363801037"}'
+  - '{"Message":"Zzzzzz","AddFlag":"","RemoveFlag":"","Choices":[],"EndQuest":false,"Position":"1145.6,208.8","Name":"Sarah
+    Sleep","NodeID":"7200246a-6bfe-426f-b9fc-d50a60e434a1638391871813805735"}'
+  - '{"Message":"Hello Player","AddFlag":"","RemoveFlag":"","Choices":[{"Message":"I
+    want to ask you about John","Next":null}],"EndQuest":false,"Position":"1144,456.8","Name":"Sarah
+    Hello","NodeID":"b960f1a7-b587-490b-a6ee-b7810526882e638391869860299634"}'
+  - '{"Message":"He xxxxxxxxxxx","AddFlag":"1-END","RemoveFlag":"1-HELLO","Choices":[],"EndQuest":true,"Position":"1563.2,455.2","Name":"Sarah
+    ninta John","NodeID":"7df9b26e-fb1e-4df4-a537-923eec29b87a638391872003998721"}'

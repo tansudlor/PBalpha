@@ -1,0 +1,844 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1801f1a00682482e95610e6174adb7be, type: 3}
+  m_Name: MapPropDatabase
+  m_EditorClassIdentifier: 
+  props:
+    _serializedList:
+    - Key: MainLand
+      Value:
+        data:
+        - name: ShipH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 15.36, y: -88.52}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShipV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -21.25, y: -80.57}
+          offsetPostion: {x: 0, y: 0}
+        - name: FootingFull_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -8.01, y: -78.7}
+          offsetPostion: {x: 0, y: 0}
+        - name: FootingFull_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -20.63, y: -66.37}
+          offsetPostion: {x: 0, y: 0}
+        - name: FootingHalfBot_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -28.07, y: -59.23}
+          offsetPostion: {x: 0, y: 0}
+        - name: FootingHalfBot_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -33.34, y: -54.31}
+          offsetPostion: {x: 0, y: 0}
+        - name: FootingHalfBot_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -42.05, y: -45.31}
+          offsetPostion: {x: 0, y: 0}
+        - name: FootingHalfTop_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 10.75, y: -78.36}
+          offsetPostion: {x: 0, y: 0}
+        - name: FootingHalfTop_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 19.07, y: -70.33}
+          offsetPostion: {x: 0, y: 0}
+        - name: Welcome_BoardV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -7.97, y: -44.05}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lighting_Pole_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 0.74, y: -49.91}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lighting_Pole_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 7.93, y: -56.97}
+          offsetPostion: {x: 0, y: 0}
+        - name: BarrierV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 3.92, y: -52.25}
+          offsetPostion: {x: 0, y: 0}
+        - name: FenceV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 27.77, y: -75.51}
+          offsetPostion: {x: 0, y: 0}
+        - name: BenchV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 36.23, y: -84.37}
+          offsetPostion: {x: 0, y: 0}
+        - name: BenchV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 40.49, y: -88.73}
+          offsetPostion: {x: 0, y: 0}
+        - name: BasketballHoopV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 64.76, y: -95.87}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lighthouse
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 45.94, y: -120.62}
+          offsetPostion: {x: 0, y: 0}
+        - name: StoneV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 59.62, y: -122.29}
+          offsetPostion: {x: 0, y: 0}
+        - name: StoneV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 121.1, y: -104.22}
+          offsetPostion: {x: 0, y: 0}
+        - name: Rubber_Ring
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 64.1, y: -121.96}
+          offsetPostion: {x: 0, y: 0}
+        - name: SurfboardsH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 66.53, y: -119.31}
+          offsetPostion: {x: 0, y: 0}
+        - name: RailH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 64.17, y: -109.74}
+          offsetPostion: {x: 0, y: 0}
+        - name: RailH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 68.59, y: -105.29}
+          offsetPostion: {x: 0, y: 0}
+        - name: BicylesH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 56.63, y: -115.01}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 79.92, y: -133.83}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 108.3, y: -104.95}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 113.44, y: -100.22}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 118.47, y: -95.49}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lighting_Pole_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 67.2, y: -76.65}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 64.65, y: -73.48}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 62.01, y: -70.81}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lighting_Pole_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 59.71, y: -69.1}
+          offsetPostion: {x: 0, y: 0}
+        - name: BlueVendingMachine_Without_Discount
+          flip: 0
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: 55.12, y: -64.62}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 52.09, y: -60.86}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 49.28, y: -58.15}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 46.5, y: -55.37}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 43.72, y: -52.54}
+          offsetPostion: {x: 0, y: 0}
+        - name: FenceH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 32.86, y: -60.82}
+          offsetPostion: {x: 0, y: 0}
+        - name: PlantH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 57.05, y: -35.04}
+          offsetPostion: {x: 0, y: 0}
+        - name: PlantH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 77.21, y: -57.19}
+          offsetPostion: {x: 0, y: 0}
+        - name: Bear
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 1.93, y: -55.23}
+          offsetPostion: {x: 0, y: 0}
+        - name: Standy_OpenH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 44.51, y: -34.96}
+          offsetPostion: {x: 0, y: 0}
+        - name: BlueVendingMachine
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 53.04, y: -23.99}
+          offsetPostion: {x: 0, y: 0}
+        - name: PostBox
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 57.53, y: -19.48}
+          offsetPostion: {x: 0, y: 0}
+        - name: FenceV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 41.33, y: 15.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: StandyGreenH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 40.37, y: 24.92}
+          offsetPostion: {x: 0, y: 0}
+        - name: StandyGreenV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 88.71, y: 18.5}
+          offsetPostion: {x: 0, y: 0}
+        - name: BenchH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 107.62, y: -36.24}
+          offsetPostion: {x: 0, y: 0}
+        - name: BenchH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 111.95, y: -32.04}
+          offsetPostion: {x: 0, y: 0}
+        - name: BoxSign
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: 118.19, y: -26.21}
+          offsetPostion: {x: 0, y: 0}
+        - name: BoxStackSign-Tomato
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: 120.26, y: -24.2}
+          offsetPostion: {x: 0, y: 0}
+        - name: BoxStackSign-Tomato
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: 122.25, y: -22.13}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 141.94, y: -37.06}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 139.13, y: -34.49}
+          offsetPostion: {x: 0, y: 0}
+        - name: YachtV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 31.95, y: -123.82}
+          offsetPostion: {x: 0, y: 0}
+        - name: CloudV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 43, y: 66}
+          offsetPostion: {x: 0, y: 0}
+        - name: CloudV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 115.7, y: 59.2}
+          offsetPostion: {x: 0, y: 0}
+        - name: BoatH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -38, y: -6.1}
+          offsetPostion: {x: 0, y: 0}
+        - name: Billboard
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 35.76, y: 63.48}
+          offsetPostion: {x: 0, y: 0}
+        - name: FenceH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 43.45, y: 59.96}
+          offsetPostion: {x: 0, y: 0}
+        - name: FenceH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 26.46, y: 43.1}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 46.57, y: 66.4}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 43.57, y: 69.52}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 34.37, y: 78.36}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 31.369999, y: 81.479996}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 28.66, y: 84.19}
+          offsetPostion: {x: 0, y: 0}
+        - name: Fence_White_2_BlocksV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 2.68, y: 35.04}
+          offsetPostion: {x: 0, y: 0}
+        - name: Fence_White_1.75_BlocksH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -15.62, y: 31.31}
+          offsetPostion: {x: 0, y: 0}
+        - name: Bush
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -23, y: 23.43}
+          offsetPostion: {x: 0, y: 0}
+        - name: Bush
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -24.11, y: 22.25}
+          offsetPostion: {x: 0, y: 0}
+        - name: Bush
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -25.26, y: 21.14}
+          offsetPostion: {x: 0, y: 0}
+        - name: Bush
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -26.41, y: 20.029999}
+          offsetPostion: {x: 0, y: 0}
+        - name: Fence_White_1_H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -29.23, y: 14.76}
+          offsetPostion: {x: 0, y: 0}
+        - name: Fence_White_1.75_BlocksH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -13.92, y: 4.15}
+          offsetPostion: {x: 0, y: 0}
+        - name: WTE_SignH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -11.81, y: 31.81}
+          offsetPostion: {x: 0, y: 0}
+        - name: Bench2H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -19.17, y: 24.17}
+          offsetPostion: {x: 0, y: 0}
+        - name: Bench2H
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -16.31, y: 26.97}
+          offsetPostion: {x: 0, y: 0}
+        - name: MysteryBox
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -26.65, y: 8.4}
+          offsetPostion: {x: 0, y: 0}
+        - name: MysteryBox
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -23.69, y: 11.45}
+          offsetPostion: {x: 0, y: 0}
+        - name: MysteryBox
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -20.6, y: 14.58}
+          offsetPostion: {x: 0, y: 0}
+        - name: MysteryBox
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -17.640001, y: 17.630001}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree2
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -8.01, y: 11.91}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree2
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -4.76, y: 12.6}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree2
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: 2.72, y: 21.36}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree2
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -0.18, y: 20.38}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree2
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -0.82, y: 18.51}
+          offsetPostion: {x: 0, y: 0}
+        - name: Tree
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -2.3, y: 15.51}
+          offsetPostion: {x: 0, y: 0}
+        - name: Tree
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: 1.46, y: 19.67}
+          offsetPostion: {x: 0, y: 0}
+        - name: Fence_White_2_BlocksH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -44.55, y: -0.14}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -38.88, y: 7.25}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -45.59, y: 0.97}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -51.77, y: -5.98}
+          offsetPostion: {x: 0, y: 0}
+        - name: Billboard
+          flip: 0
+          scale: {x: 0.6, y: 0.6, z: 0.6}
+          position: {x: -34.96, y: 35.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: DollarSign
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -33.23, y: 83.95}
+          offsetPostion: {x: 0, y: 0}
+        - name: CapsulePlatformBlue
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -15.4, y: 93.83}
+          offsetPostion: {x: 0, y: 0}
+        - name: CapsulePlatformBlue
+          flip: 1
+          scale: {x: -1, y: 1, z: 1}
+          position: {x: -10.55, y: 98.64}
+          offsetPostion: {x: 0, y: 0}
+        - name: BestDeal_Board
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -20.8, y: 129.31}
+          offsetPostion: {x: 0, y: 0}
+        - name: CarH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -98.67, y: 37.77}
+          offsetPostion: {x: 0, y: 0}
+        - name: SushiSwapCapsulePlatformBlue
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -102.04, y: 51.03}
+          offsetPostion: {x: 0, y: 0}
+        - name: Fence_White_1.75_BlocksH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -87.61, y: 61.05}
+          offsetPostion: {x: 0, y: 0}
+        - name: SushiSwapRoof
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -94.71, y: 65.56}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -122.05, y: 60.83}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -117.33001, y: 65.86}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -112.79001, y: 70.4}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 6.2399945, y: 145.84001}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 3.2399945, y: 148.96}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 0.2599942, y: 151.76001}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -2.740006, y: 154.88}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -7.5900064, y: 159.37001}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -10.590006, y: 162.49}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -13.300005, y: 165.2}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -16.130005, y: 167.31}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -20, y: 172}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -23, y: 175.12}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -25.71, y: 177.82999}
+          offsetPostion: {x: 0, y: 0}
+        - name: PineTree1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -28.539999, y: 179.93999}
+          offsetPostion: {x: 0, y: 0}
+        - name: Fence_White_2_BlocksV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -3.04, y: 145.35}
+          offsetPostion: {x: 0, y: 0}
+        - name: Fence_White_2_BlocksV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -19.47, y: 161.06}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -92.67, y: -8.09}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -99.38, y: -14.370001}
+          offsetPostion: {x: 0, y: 0}
+        - name: PalmTree
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -105.6, y: -20.53}
+          offsetPostion: {x: 0, y: 0}
+        - name: BoatH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -107.11, y: 22.22}
+          offsetPostion: {x: 0, y: 0}
+        - name: YachtV
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -82.74, y: -22.97}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShipH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -100.7, y: 10.37}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShipH
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -129.87, y: 37.55}
+          offsetPostion: {x: 0, y: 0}
+        - name: Balloon
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 35.1, y: 117.3}
+          offsetPostion: {x: 0, y: 0}
+        - name: StampCounter
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 398.29, y: 96.85}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnATM
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnBoardBlue
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnBush
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnCounter1
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnCounter2
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnGateFence
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnPartition
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnPartition2
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnPoleL
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnPoleMid
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnTable1
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnTable2
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnTable3
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnVendingMachine
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: ShopToEarnVendingMachine2
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 215, y: 205}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lotto_ATM
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 295.9, y: 130.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lotto_Counter
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 295.9, y: 130.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lotto_PoleCorner
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 295.9, y: 130.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lotto_Step
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 295.9, y: 130.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lotto_Door
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 295.9, y: 130.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: Lotto_Ball
+          flip: 0
+          scale: {x: 2.5, y: 2.5, z: 2.5}
+          position: {x: 295.9, y: 130.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: CTECounter
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -1.15, y: -9.84}
+          offsetPostion: {x: 0, y: 0}
+        - name: CTEFence
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -6.82, y: -11.64}
+          offsetPostion: {x: 0, y: 0}
+        - name: CTEProp
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: -2.97, y: -19.5}
+          offsetPostion: {x: 0, y: 0}
+        - name: FerrisWheel
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 126.21, y: -3.59}
+          offsetPostion: {x: 0, y: 0}
+        - name: VapourCounter1
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 342.3, y: -5.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: VapourCounter2
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 342.3, y: -5.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: VapourCounter3
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 342.3, y: -5.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: VapourMachine
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 342.3, y: -5.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: VapourPole
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 342.3, y: -5.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: PBCounter
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 233.3, y: 34.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: PBPartition
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 233.3, y: 34.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: PBPartition
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 239.29, y: 28.83}
+          offsetPostion: {x: 0, y: 0}
+        - name: PBRail
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 233.3, y: 34.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: PBStandy
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 233.3, y: 34.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: PBVendingBlue
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 233.3, y: 34.8}
+          offsetPostion: {x: 0, y: 0}
+        - name: PBVendingOrange
+          flip: 0
+          scale: {x: 1, y: 1, z: 1}
+          position: {x: 233.3, y: 34.8}
+          offsetPostion: {x: 0, y: 0}

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d352fa51e940fb46b71d928f7b2051f, type: 3}
+  m_Name: ZoneDatabase
+  m_EditorClassIdentifier: 
+  zones:
+    _serializedList:
+    - Key:
+        name: Stamp_Interior
+        position: {x: 400, y: 100}
+      Value:
+        prefab: {fileID: 8819604897480384666, guid: 139dc91b2c981364087e7518d9fec87a, type: 3}
+        collider: {fileID: 5908465687251648413, guid: ae158bb31669efc44b5d19fcb6f66cad, type: 3}
+    - Key:
+        name: ShopToEarn_Interior
+        position: {x: 215, y: 205}
+      Value:
+        prefab: {fileID: 637952927684159192, guid: ce260ecab3d698845b8c00ea5f805807, type: 3}
+        collider: {fileID: 6288666150108993061, guid: d32dea13dfda81c43856734b29934983, type: 3}
+    - Key:
+        name: Lotto_Interrior
+        position: {x: 295.9, y: 130.8}
+      Value:
+        prefab: {fileID: 3882161176328215366, guid: 090489f97d883ec4e8ce0f20afd6f16a, type: 3}
+        collider: {fileID: 255967658155451168, guid: f011929884169f74d96191f195949f51, type: 3}
+    - Key:
+        name: Vapour_Interior
+        position: {x: 342.3, y: -5.8}
+      Value:
+        prefab: {fileID: 5920601051075147451, guid: 97073a34a79217442909f24e04d2c887, type: 3}
+        collider: {fileID: 1624054513671477684, guid: 2a143d23d56dad14083442bda9e6d3f1, type: 3}
+    - Key:
+        name: PlaybuxShop_Interior
+        position: {x: 233.3, y: 34.8}
+      Value:
+        prefab: {fileID: 5112257924964818314, guid: 527554bcd2bbc6b448d9eb87cf1a1307, type: 3}
+        collider: {fileID: 7856540519909894580, guid: 98581b87464a3ac4eae5c89cba8b9a1d, type: 3}
+  dataPath: {fileID: 102900000, guid: dae687e5d22a66042ad518c358f7aef9, type: 3}

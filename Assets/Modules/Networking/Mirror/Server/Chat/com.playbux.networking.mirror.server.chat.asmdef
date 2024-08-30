@@ -1,0 +1,21 @@
+{
+    "name": "com.playbux.networking.mirror.server.chat",
+    "rootNamespace": "com.playbux.networking.mirror.server.chat",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:d18ca3c2c28a0b346ac1ac78d0064f0d",
+        "GUID:d5e11dce8396ece42ae5aea3113f285c",
+        "GUID:5c640717ca72e134ea25eca2d2b65898",
+        "GUID:904ddcd8ad7476d49b6278ff41d0f348"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

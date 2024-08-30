@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c591adc869422ab0033718377f370e, type: 3}
+  m_Name: PlaybuxShop-33
+  m_EditorClassIdentifier: 
+  highQuality: {fileID: 2800000, guid: e6222e1d7de8a454bbc6c62709b237cb, type: 3}
+  mediumQuality: {fileID: 2800000, guid: 268cadea282a245428d23c0b55201856, type: 3}
+  lowQuality: {fileID: 2800000, guid: 9eca108f48e2bde48aa1ca8f73131d76, type: 3}
+  defaultQuality: {fileID: 0}

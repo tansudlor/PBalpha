@@ -1,0 +1,16 @@
+{
+    "name": "com.playbux.schedulessetting",
+    "rootNamespace": "com.playbux.schedulessetting",
+    "references": [
+        "GUID:01f8f652555a65141b6cf4a26c596a2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

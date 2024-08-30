@@ -1,0 +1,300 @@
+
+Stamp_Interior.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Btn_Red
+  rotate: true
+  xy: 1068, 1097
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+Capsule
+  rotate: false
+  xy: 1097, 209
+  size: 171, 112
+  orig: 173, 114
+  offset: 1, 1
+  index: -1
+Corner_1-1
+  rotate: true
+  xy: 657, 1097
+  size: 164, 409
+  orig: 166, 411
+  offset: 1, 1
+  index: -1
+Corner_1-2
+  rotate: false
+  xy: 1040, 1304
+  size: 138, 361
+  orig: 140, 363
+  offset: 1, 1
+  index: -1
+Corner_2
+  rotate: false
+  xy: 330, 75
+  size: 208, 431
+  orig: 210, 433
+  offset: 1, 1
+  index: -1
+Corner_3
+  rotate: false
+  xy: 2, 2
+  size: 220, 110
+  orig: 222, 112
+  offset: 1, 1
+  index: -1
+Counter_1
+  rotate: false
+  xy: 657, 1263
+  size: 381, 402
+  orig: 383, 404
+  offset: 1, 1
+  index: -1
+Counter_2
+  rotate: true
+  xy: 949, 28
+  size: 195, 136
+  orig: 197, 139
+  offset: 1, 1
+  index: -1
+Counter_3
+  rotate: false
+  xy: 1087, 28
+  size: 143, 94
+  orig: 145, 96
+  offset: 1, 1
+  index: -1
+Door
+  rotate: true
+  xy: 961, 651
+  size: 113, 190
+  orig: 115, 192
+  offset: 1, 1
+  index: -1
+Door_Arm
+  rotate: false
+  xy: 1973, 1880
+  size: 61, 58
+  orig: 63, 60
+  offset: 1, 1
+  index: -1
+Floor1
+  rotate: false
+  xy: 540, 437
+  size: 408, 205
+  orig: 410, 207
+  offset: 1, 1
+  index: -1
+Floor2
+  rotate: true
+  xy: 964, 766
+  size: 329, 164
+  orig: 331, 166
+  offset: 1, 1
+  index: -1
+Floor_Corner
+  rotate: true
+  xy: 1609, 1306
+  size: 408, 123
+  orig: 411, 125
+  offset: 1, 1
+  index: -1
+Gate
+  rotate: false
+  xy: 2, 114
+  size: 326, 392
+  orig: 328, 394
+  offset: 1, 1
+  index: -1
+Lighting
+  rotate: false
+  xy: 1183, 1113
+  size: 69, 68
+  orig: 72, 75
+  offset: 2, 0
+  index: -1
+Pole
+  rotate: false
+  xy: 950, 225
+  size: 145, 417
+  orig: 147, 419
+  offset: 1, 1
+  index: -1
+Roof
+  rotate: false
+  xy: 2, 1667
+  size: 1145, 374
+  orig: 1147, 376
+  offset: 1, 1
+  index: -1
+Screen
+  rotate: true
+  xy: 1040, 1282
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Slope1
+  rotate: false
+  xy: 1645, 1775
+  size: 326, 266
+  orig: 328, 268
+  offset: 1, 1
+  index: -1
+Slope2
+  rotate: false
+  xy: 1183, 1183
+  size: 163, 184
+  orig: 165, 186
+  offset: 1, 1
+  index: -1
+Slope3
+  rotate: true
+  xy: 1734, 1324
+  size: 164, 185
+  orig: 166, 187
+  offset: 1, 1
+  index: -1
+Slope4
+  rotate: true
+  xy: 1097, 323
+  size: 326, 165
+  orig: 329, 168
+  offset: 2, 1
+  index: -1
+Stamp_Logo
+  rotate: false
+  xy: 224, 12
+  size: 90, 100
+  orig: 92, 102
+  offset: 1, 1
+  index: -1
+Stamp_Shadow
+  rotate: false
+  xy: 1087, 124
+  size: 183, 83
+  orig: 183, 83
+  offset: 0, 0
+  index: -1
+Stamp_Sign
+  rotate: false
+  xy: 2, 789
+  size: 508, 309
+  orig: 510, 311
+  offset: 1, 1
+  index: -1
+Stamp_Text
+  rotate: true
+  xy: 1068, 1105
+  size: 197, 113
+  orig: 199, 115
+  offset: 1, 1
+  index: -1
+Stamper
+  rotate: false
+  xy: 1180, 1369
+  size: 218, 345
+  orig: 220, 347
+  offset: 1, 1
+  index: -1
+Tile
+  rotate: true
+  xy: 454, 695
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+Tile2
+  rotate: false
+  xy: 1645, 1731
+  size: 84, 42
+  orig: 86, 44
+  offset: 1, 1
+  index: -1
+Top_Box
+  rotate: true
+  xy: 1400, 1358
+  size: 356, 207
+  orig: 358, 209
+  offset: 1, 1
+  index: -1
+Top_Pole
+  rotate: true
+  xy: 1973, 1940
+  size: 101, 67
+  orig: 103, 69
+  offset: 1, 1
+  index: -1
+Vending_Blue
+  rotate: true
+  xy: 1348, 1234
+  size: 122, 222
+  orig: 122, 222
+  offset: 0, 0
+  index: -1
+Wall
+  rotate: true
+  xy: 1149, 1716
+  size: 325, 494
+  orig: 327, 495
+  offset: 1, 0
+  index: -1
+Wall2-1
+  rotate: false
+  xy: 2, 1100
+  size: 653, 565
+  orig: 655, 567
+  offset: 1, 1
+  index: -1
+Wall2-2
+  rotate: false
+  xy: 1130, 782
+  size: 165, 321
+  orig: 167, 324
+  offset: 1, 1
+  index: -1
+Wall2-3
+  rotate: false
+  xy: 2, 508
+  size: 450, 279
+  orig: 452, 281
+  offset: 1, 1
+  index: -1
+Wall2-4
+  rotate: false
+  xy: 540, 24
+  size: 407, 204
+  orig: 411, 206
+  offset: 2, 1
+  index: -1
+Wall2-5
+  rotate: false
+  xy: 540, 230
+  size: 408, 205
+  orig: 410, 207
+  offset: 1, 1
+  index: -1
+Wall2-6
+  rotate: false
+  xy: 512, 870
+  size: 450, 225
+  orig: 452, 227
+  offset: 1, 1
+  index: -1
+Wall2-7
+  rotate: false
+  xy: 512, 644
+  size: 447, 224
+  orig: 450, 226
+  offset: 1, 1
+  index: -1
+Window
+  rotate: false
+  xy: 1734, 1490
+  size: 237, 283
+  orig: 239, 285
+  offset: 1, 1
+  index: -1

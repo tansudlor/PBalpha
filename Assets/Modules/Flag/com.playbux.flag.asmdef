@@ -1,0 +1,21 @@
+{
+    "name": "com.playbux.flag",
+    "rootNamespace": "com.playbux.flag",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:f22db8b8cd7e0224b8cda9b2d16addf4",
+        "GUID:904ddcd8ad7476d49b6278ff41d0f348",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:c7a0c037d583d8646a4876e5916ae8d8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

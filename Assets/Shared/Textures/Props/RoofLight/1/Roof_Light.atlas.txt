@@ -1,0 +1,27 @@
+
+Roof_Light.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Roof_Light
+  rotate: false
+  xy: 855, 197
+  size: 426, 290
+  orig: 436, 300
+  offset: 5, 5
+  index: -1
+Scan
+  rotate: false
+  xy: 1283, 191
+  size: 365, 296
+  orig: 366, 308
+  offset: 0, 12
+  index: -1
+Top_Light
+  rotate: false
+  xy: 2, 2
+  size: 851, 485
+  orig: 869, 499
+  offset: 9, 7
+  index: -1

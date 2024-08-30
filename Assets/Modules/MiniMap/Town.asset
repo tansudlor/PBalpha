@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ab0ff244f4dab498472852677cb46c, type: 3}
+  m_Name: Town
+  m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: 3b7671b206eb965419af732d65631ec9, type: 3}
+  worldPoint:
+  - {x: -33.9534, y: 83.6373}
+  - {x: 67.1907, y: -45.02531}
+  mapPoint:
+  - {x: 0.617843, y: 0.6932217}
+  - {x: 0.303656, y: 0.3055124}
+  icons:
+  - name: player
+    displayName: player
+    group: 8
+    icon: {fileID: 21300000, guid: 2fd4ad98faef21548b9fe68b742ebade, type: 3}
+    position: {x: -37.72, y: -54.573143, z: 0}
+    custom: 0
+  - name: pinpoint
+    displayName: pinpoint
+    group: 0
+    icon: {fileID: 21300000, guid: 678ebe077a649484ab03a9f8b2ec462c, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    custom: 0
+  - name: Stamp
+    displayName: Stamp
+    group: 1
+    icon: {fileID: 21300000, guid: e762ee6e903dc3247a878e3a53f74ea3, type: 3}
+    position: {x: 20.53937, y: -48.01323, z: 0}
+    custom: 0
+  - name: Iqiyi
+    displayName: Iqiyi
+    group: 1
+    icon: {fileID: 21300000, guid: 1754f437ab1af0948a19b5bd2c9e1183, type: 3}
+    position: {x: 62.72, y: 4.258, z: 0}
+    custom: 0
+  - name: Playbux Shop
+    displayName: Playbux Shop
+    group: 1
+    icon: {fileID: 21300000, guid: c416b151fa8c86b458edf76e9f50ac6a, type: 3}
+    position: {x: 36, y: -33, z: 0}
+    custom: 0
+  - name: Game Center
+    displayName: Game Center
+    group: 1
+    icon: {fileID: 21300000, guid: 84ef27162530d524689f508196ae2577, type: 3}
+    position: {x: 114.5, y: -64.5, z: 0}
+    custom: 0
+  - name: Port
+    displayName: Port
+    group: 1
+    icon: {fileID: 21300000, guid: c9a23bdd226933d45aadc3f5e3eecde4, type: 3}
+    position: {x: -23, y: -39.8, z: 0}
+    custom: 0
+  - name: ShopToEarn
+    displayName: ShopToEarn
+    group: 1
+    icon: {fileID: 21300000, guid: ba5dfd0c39804f34fb4355683f72dd01, type: 3}
+    position: {x: 95, y: -23, z: 0}
+    custom: 0
+  - name: WalkToEarn
+    displayName: WalkToEarn
+    group: 1
+    icon: {fileID: 21300000, guid: 02437504369de0e43bc15d9b04acfb33, type: 3}
+    position: {x: -12.9, y: 19.7, z: 0}
+    custom: 0
+  - name: Visa
+    displayName: Visa
+    group: 1
+    icon: {fileID: 21300000, guid: 2df8efe75af7a564bb1d40aece562f0d, type: 3}
+    position: {x: -61.9, y: 26.4, z: 0}
+    custom: 0
+  - name: Vapor
+    displayName: Vapor
+    group: 1
+    icon: {fileID: 21300000, guid: 65387fc84c35d314cb4b90f45fb443a5, type: 3}
+    position: {x: 8, y: 61, z: 0}
+    custom: 0
+  - name: RedBuliding
+    displayName: RedBuliding
+    group: 1
+    icon: {fileID: 21300000, guid: 33c15bd97eb0c4e45bc4c2129609b71c, type: 3}
+    position: {x: -11.94, y: 140, z: 0}
+    custom: 0
+  - name: Lotto
+    displayName: Lotto
+    group: 1
+    icon: {fileID: 21300000, guid: 24c136977cf4a0744a66396a31e2f2ff, type: 3}
+    position: {x: -41, y: 118, z: 0}
+    custom: 0
+  - name: 1inch
+    displayName: Linch
+    group: 1
+    icon: {fileID: 21300000, guid: 71570d4dd0251b84bbe81372c538c3ae, type: 3}
+    position: {x: -70, y: 88, z: 0}
+    custom: 0
+  - name: SushiSwap
+    displayName: SushiSwap
+    group: 1
+    icon: {fileID: 21300000, guid: ec25113da505edd4695342d5475b7bde, type: 3}
+    position: {x: -98, y: 56.5, z: 0}
+    custom: 0

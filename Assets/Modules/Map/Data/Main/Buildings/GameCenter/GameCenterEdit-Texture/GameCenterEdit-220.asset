@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c591adc869422ab0033718377f370e, type: 3}
+  m_Name: GameCenterEdit-220
+  m_EditorClassIdentifier: 
+  highQuality: {fileID: 2800000, guid: 68ffe5bb8f231294fa763bcab0a9f47a, type: 3}
+  mediumQuality: {fileID: 2800000, guid: ece5092949d962d4884a826f92f47fc0, type: 3}
+  lowQuality: {fileID: 2800000, guid: 1f23938af46d57149af90799b4166898, type: 3}
+  defaultQuality: {fileID: 0}

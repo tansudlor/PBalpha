@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77403c1d0bc84d4d9a953c5b00eb0a8b, type: 3}
+  m_Name: ScheduledFATEDatabase
+  m_EditorClassIdentifier: 
+  fileInfo:
+    name: FATE_Alpha
+    path: C:/Users/setth/AppData/LocalLow/Mankind Media Pte_ Ltd/Playbux - Alpha
+    extension: .fsched
+  scheduledFate:
+    _serializedList:
+    - Key:
+        mapKey: test
+        timeKey: 633000000000
+        dayOfWeek: 5
+      Value:
+      - data:
+          id: 239
+          name: Bux Psychosis I
+          desc: Strange energy is appearing at the town center. Something is about
+            to happen.
+        position: {x: 14.93, y: -2.43}
+    - Key:
+        mapKey: test
+        timeKey: 659400000000
+        dayOfWeek: 5
+      Value:
+      - data:
+          id: 239
+          name: Bux Psychosis I
+          desc: Strange energy is appearing at the town center. Something is about
+            to happen.
+        position: {x: 14.93, y: -2.43}

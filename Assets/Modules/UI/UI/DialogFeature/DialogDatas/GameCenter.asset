@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caae6ae202a2a94e982f052307f7a76, type: 3}
+  m_Name: GameCenter
+  m_EditorClassIdentifier: 
+  header: {fileID: 21300000, guid: b879eb0658424d64ba33d0e2f3533ad1, type: 3}
+  imageContents:
+  - {fileID: 21300000, guid: de669c641935ee248babc944e3acb53e, type: 3}
+  stringContents:
+  - Engage with the Claw Machine to acquire USDTs, NFTs and more. <link="0"><u>Read
+    more</u></link>
+  imageConfirm: {fileID: 21300000, guid: c67c81f02f6cb854486101b7dc6d2d16, type: 3}
+  readMoreUrl: https://playbux.gitbook.io/playbux-whitepaper/features/play-to-earn-game-center
+  confirmUrl: https://www.playbux.co/game?scene=GameCenter

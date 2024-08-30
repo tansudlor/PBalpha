@@ -1,0 +1,104 @@
+
+GameCenter_Export.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 1978, 1978
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Button
+  rotate: false
+  xy: 2, 432
+  size: 144, 204
+  orig: 144, 206
+  offset: 0, 1
+  index: -1
+D-Pad
+  rotate: false
+  xy: 1203, 1561
+  size: 400, 457
+  orig: 400, 457
+  offset: 0, 0
+  index: -1
+Light1
+  rotate: true
+  xy: 616, 1185
+  size: 41, 93
+  orig: 41, 98
+  offset: 0, 2
+  index: -1
+Light2
+  rotate: true
+  xy: 983, 1287
+  size: 237, 127
+  orig: 237, 127
+  offset: 0, 0
+  index: -1
+Pipe1_Shadow1
+  rotate: false
+  xy: 2, 638
+  size: 359, 212
+  orig: 359, 212
+  offset: 0, 0
+  index: -1
+Pipe1_Shadow2
+  rotate: true
+  xy: 1605, 1655
+  size: 149, 357
+  orig: 149, 357
+  offset: 0, 0
+  index: -1
+Pipe1_Shadow3
+  rotate: false
+  xy: 2, 1526
+  size: 1199, 492
+  orig: 1199, 492
+  offset: 0, 0
+  index: -1
+Pipe2_Shadow1
+  rotate: true
+  xy: 363, 679
+  size: 171, 102
+  orig: 171, 102
+  offset: 0, 0
+  index: -1
+Pipe2_Shadow2
+  rotate: false
+  xy: 2, 852
+  size: 494, 298
+  orig: 494, 298
+  offset: 0, 0
+  index: -1
+Pipe2_Shadow3
+  rotate: false
+  xy: 1605, 1806
+  size: 371, 212
+  orig: 371, 212
+  offset: 0, 0
+  index: -1
+Purple_Tile
+  rotate: true
+  xy: 498, 944
+  size: 206, 103
+  orig: 206, 103
+  offset: 0, 0
+  index: -1
+Scan
+  rotate: false
+  xy: 616, 1228
+  size: 365, 296
+  orig: 366, 308
+  offset: 0, 12
+  index: -1
+press_start
+  rotate: false
+  xy: 2, 1152
+  size: 612, 372
+  orig: 612, 372
+  offset: 0, 0
+  index: -1

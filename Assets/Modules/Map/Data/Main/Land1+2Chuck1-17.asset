@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 691c725c0af34e03a16d4444ff106524, type: 3}
+  m_Name: Land1+2Chuck1-17
+  m_EditorClassIdentifier: 
+  width: 5
+  height: 4
+  gridSize: 1024
+  highQualityScale: 1
+  mediumQualityScale: 2
+  lowQualityScale: 4
+  defaultQualityScale: 1
+  textures:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 11400000, guid: 11fedbc03b3331645bec3a1fd2dacad4, type: 2}
+    - Key: 2
+      Value: {fileID: 11400000, guid: 35bb1601df07518438f4012a6a781917, type: 2}
+    - Key: 3
+      Value: {fileID: 11400000, guid: 212f0f178f3098d4aa4ec54d38c0df83, type: 2}
+    - Key: 4
+      Value: {fileID: 11400000, guid: f10e315c5a787a541b2f6fa1c4e0b8f8, type: 2}
+    - Key: 5
+      Value: {fileID: 11400000, guid: 861f04f63e43a8542b538862cf0f61dc, type: 2}
+    - Key: 6
+      Value: {fileID: 11400000, guid: 7f983ab4bea0b8441a76ffe8b4b240d8, type: 2}
+    - Key: 7
+      Value: {fileID: 11400000, guid: 436f2ac6bbcee984e91fe884988dd6ab, type: 2}
+    - Key: 8
+      Value: {fileID: 11400000, guid: 7a9122d4029118a41a83f2ebfb640cf5, type: 2}
+    - Key: 9
+      Value: {fileID: 11400000, guid: 3029aed85da2a0e4f9793e5f30c76713, type: 2}
+    - Key: 10
+      Value: {fileID: 11400000, guid: ab4b4d3b64c6f9c4b9e9f7cab132affc, type: 2}
+    - Key: 14
+      Value: {fileID: 11400000, guid: 9767bdb28bf17f840841e41231556d0b, type: 2}
+    - Key: 15
+      Value: {fileID: 11400000, guid: 5e5340b8ea210cc40b8f09363b2a30fa, type: 2}
+    - Key: 20
+      Value: {fileID: 11400000, guid: ff0aa729998508e498a4cec00ab5f3b7, type: 2}

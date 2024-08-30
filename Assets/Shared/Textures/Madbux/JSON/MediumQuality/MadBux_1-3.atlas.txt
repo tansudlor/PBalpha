@@ -1,0 +1,230 @@
+
+MadBux_1-3.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 1159, 999
+  size: 23, 512
+  orig: 23, 512
+  offset: 0, 0
+  index: -1
+Arm1
+  rotate: true
+  xy: 1159, 975
+  size: 22, 511
+  orig: 22, 511
+  offset: 0, 0
+  index: -1
+Arm2
+  rotate: true
+  xy: 1159, 951
+  size: 22, 511
+  orig: 22, 511
+  offset: 0, 0
+  index: -1
+Arm_1_Blur
+  rotate: true
+  xy: 2, 32
+  size: 172, 338
+  orig: 173, 338
+  offset: 1, 0
+  index: -1
+Body_0
+  rotate: false
+  xy: 2, 206
+  size: 418, 407
+  orig: 418, 407
+  offset: 0, 0
+  index: -1
+Body_0_Blur
+  rotate: false
+  xy: 2, 615
+  size: 443, 407
+  orig: 443, 407
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: false
+  xy: 867, 669
+  size: 290, 353
+  orig: 418, 407
+  offset: 64, 27
+  index: -1
+Body_2
+  rotate: false
+  xy: 447, 615
+  size: 418, 407
+  orig: 418, 407
+  offset: 0, 0
+  index: -1
+Body_Front_Blur
+  rotate: false
+  xy: 422, 263
+  size: 312, 350
+  orig: 312, 350
+  offset: 0, 0
+  index: -1
+Eyes_Blank
+  rotate: false
+  xy: 2, 23
+  size: 199, 7
+  orig: 199, 7
+  offset: 0, 0
+  index: -1
+Eyes_Die
+  rotate: false
+  xy: 867, 612
+  size: 193, 55
+  orig: 193, 55
+  offset: 0, 0
+  index: -1
+Eyes_Fire
+  rotate: false
+  xy: 1159, 702
+  size: 208, 78
+  orig: 250, 87
+  offset: 21, 9
+  index: -1
+Eyes_Front_Close
+  rotate: false
+  xy: 1672, 942
+  size: 193, 32
+  orig: 193, 32
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 1673, 976
+  size: 198, 46
+  orig: 198, 46
+  offset: 0, 0
+  index: -1
+Eyes_Hurt
+  rotate: false
+  xy: 837, 568
+  size: 193, 42
+  orig: 193, 42
+  offset: 0, 0
+  index: -1
+Eyes_Round1
+  rotate: false
+  xy: 837, 524
+  size: 186, 42
+  orig: 186, 42
+  offset: 0, 0
+  index: -1
+Eyes_Round2
+  rotate: false
+  xy: 422, 206
+  size: 199, 55
+  orig: 199, 55
+  offset: 0, 0
+  index: -1
+Eyes_Tired
+  rotate: false
+  xy: 1159, 668
+  size: 200, 32
+  orig: 200, 32
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 459, 112
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+Hand1
+  rotate: true
+  xy: 459, 2
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+Hole
+  rotate: false
+  xy: 1062, 624
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 623, 206
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 837, 465
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 736, 264
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 572, 148
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1369, 722
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 1449, 789
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+Leg_Front
+  rotate: false
+  xy: 342, 64
+  size: 115, 140
+  orig: 115, 140
+  offset: 0, 0
+  index: -1
+Mouth_Back
+  rotate: false
+  xy: 1159, 782
+  size: 288, 66
+  orig: 288, 99
+  offset: 0, 0
+  index: -1
+Mouth_Front
+  rotate: true
+  xy: 736, 325
+  size: 288, 99
+  orig: 288, 99
+  offset: 0, 0
+  index: -1
+Mouth_Side
+  rotate: false
+  xy: 1159, 850
+  size: 288, 99
+  orig: 288, 99
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 1873, 992
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1

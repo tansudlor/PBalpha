@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70b5103274f83049a5f9363b3bb8d03, type: 3}
+  m_Name: GameUIInstaller
+  m_EditorClassIdentifier: 
+  PlayerUIMenuPrefab: {fileID: 3466125004465244563, guid: 65e39156eae6be843ace855e4f2adc35, type: 3}
+  SettingUIPrefab: {fileID: 6383297377577287670, guid: 66d3e4784281fa34b9ff6e844f46dfaf, type: 3}
+  ChangeNamePrefab: {fileID: 8099297812267317642, guid: a868741613cd8ad4ea1c66621f60ba19, type: 3}
+  LoginPrefab: {fileID: 8099297812267317642, guid: 6004e720d63c3d74aa203ee811fd6b4a, type: 3}
+  LoginFromWebPrefab: {fileID: 203743589614166705, guid: c74b721547dbc704b89037c2d4652315, type: 3}
+  DialogPrefab: {fileID: 8764639745840044852, guid: 103e455772b0de141b5e17609af07ffb, type: 3}
+  BannerPrefab: {fileID: 6362899078669427625, guid: d97f59730533c8b42add506477df935b, type: 3}
+  JoinEventPrefab: {fileID: 6946072205912834748, guid: 9c1cede70d481984a91de2e6362813c7, type: 3}
+  HowToPlayQuizGamePrefab: {fileID: 3616542545437596455, guid: f85e66fdfc86e7d489fd7ce313acf3c4, type: 3}
+  EntranceBulidingPrefab: {fileID: 6324182159065549849, guid: 46d39e7abb5d99849baed05a175037f5, type: 3}
+  OpenAnimPrefab: {fileID: 7175724148204079453, guid: 1c9db4969638cc245851369faabaff0f, type: 3}
+  FeatureDialogPrefab: {fileID: 5176583945534843694, guid: 6c09cda027ba9c645af57b6de282142a, type: 3}
+  NotificationDialogPrefab: {fileID: 8081863311409127004, guid: 8e1772caf8cbdde4bb649c8a695bd275, type: 3}
+  KickToWinPrefab: {fileID: 5662420970320980334, guid: dca77f3463ad8364a9693f5defc3e4ca, type: 3}

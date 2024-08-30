@@ -1,0 +1,14 @@
+{
+    "name": "Playbux.Utilis.Serialization",
+    "rootNamespace": "com.playbux.utilis.serialization",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

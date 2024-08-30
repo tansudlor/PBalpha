@@ -1,0 +1,20 @@
+
+1inch_Screen.png
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1inch_Txt
+  rotate: false
+  xy: 2, 2
+  size: 282, 226
+  orig: 282, 228
+  offset: 0, 1
+  index: -1
+Screen
+  rotate: false
+  xy: 286, 166
+  size: 36, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1

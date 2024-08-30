@@ -1,0 +1,20 @@
+
+VaporFund.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Light_Block
+  rotate: true
+  xy: 2, 2
+  size: 52, 92
+  orig: 54, 94
+  offset: 1, 1
+  index: -1
+SpotLight
+  rotate: true
+  xy: 2, 56
+  size: 159, 528
+  orig: 429, 735
+  offset: 126, 90
+  index: -1

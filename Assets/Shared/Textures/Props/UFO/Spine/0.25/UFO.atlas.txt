@@ -1,0 +1,97 @@
+
+UFO.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Beam
+  rotate: false
+  xy: 2, 46
+  size: 124, 464
+  orig: 124, 464
+  offset: 0, 0
+  index: -1
+Beam1
+  rotate: false
+  xy: 431, 195
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+Beam2
+  rotate: false
+  xy: 381, 137
+  size: 9, 56
+  orig: 9, 56
+  offset: 0, 0
+  index: -1
+Beam3
+  rotate: true
+  xy: 46, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+Disc1
+  rotate: false
+  xy: 128, 195
+  size: 301, 142
+  orig: 301, 142
+  offset: 0, 0
+  index: -1
+Disc2
+  rotate: false
+  xy: 128, 339
+  size: 354, 171
+  orig: 354, 171
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 488, 483
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 484, 344
+  size: 166, 2
+  orig: 166, 2
+  offset: 0, 0
+  index: -1
+Redball
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Reflect_L
+  rotate: false
+  xy: 46, 8
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Reflect_R
+  rotate: false
+  xy: 431, 225
+  size: 33, 112
+  orig: 33, 112
+  offset: 0, 0
+  index: -1
+UFO_Bot
+  rotate: true
+  xy: 340, 29
+  size: 164, 39
+  orig: 210, 109
+  offset: 23, 0
+  index: -1
+UFO_Top
+  rotate: false
+  xy: 128, 29
+  size: 210, 164
+  orig: 210, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,589 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25f6f25e82234b199d02dc12703fb78b, type: 3}
+  m_Name: PropDatabase
+  m_EditorClassIdentifier: 
+  props:
+    _serializedList:
+    - Key: Balloon
+      Value:
+        propObject: {fileID: 4640552128487421464, guid: faa51662f39a3224d8302cb765ae8e88, type: 3}
+        propCollider: []
+    - Key: BestDeal_Board
+      Value:
+        propObject: {fileID: 5821719354880546257, guid: 0e865b46e66b0d242868ba2e045edba3, type: 3}
+        propCollider:
+        - {fileID: 6281932025746487056, guid: 3d768be7ad1880344a0d04eb8d5c00e1, type: 3}
+    - Key: Billboard
+      Value:
+        propObject: {fileID: 5458483723116305016, guid: f3e956d74b3c9c648b2a6302f60f1e4a, type: 3}
+        propCollider:
+        - {fileID: 8312785519475321085, guid: e6fb68beb88466e4d9dc8f61adaf40f1, type: 3}
+    - Key: BlueVendingMachine
+      Value:
+        propObject: {fileID: 3338504508775629808, guid: c2261fb478736994c911f18e119d9b65, type: 3}
+        propCollider:
+        - {fileID: 8552474293708213802, guid: fbecfb5ab610afd43b9b18b7e9f62e48, type: 3}
+    - Key: BlueVendingMachine_Without_Discount
+      Value:
+        propObject: {fileID: 8978978080746897829, guid: 8f4751d00b0cae047a232ec05ddc74f0, type: 3}
+        propCollider:
+        - {fileID: 3343421987057001921, guid: b08543b9b838b8a4a97f5da3f2b73827, type: 3}
+    - Key: BoxSign
+      Value:
+        propObject: {fileID: 8778253378528711074, guid: 173baf3da61bdf047a1274db1682a06d, type: 3}
+        propCollider:
+        - {fileID: 5624085385988115947, guid: c5a780617a8a98649bba5155e35dfddf, type: 3}
+    - Key: BoxStackSign-Tomato
+      Value:
+        propObject: {fileID: 4364551584699081867, guid: d6928cc2c9a97ef4aba72da898cdc041, type: 3}
+        propCollider:
+        - {fileID: 108180910207804123, guid: 4b29464eaee9f8a45817bea2e5f0a92c, type: 3}
+    - Key: Bush
+      Value:
+        propObject: {fileID: 7774530941125443418, guid: 788f26e4343a206429dd1af658ef2861, type: 3}
+        propCollider:
+        - {fileID: 5148373939900403225, guid: 5c468cc3d0a75984e81ab0d3bf0317c4, type: 3}
+    - Key: CapsulePlatformBlue
+      Value:
+        propObject: {fileID: 4795863718216132844, guid: b03f2db2489dea24ebe0cb5d7a006c51, type: 3}
+        propCollider:
+        - {fileID: 1657116126415917141, guid: 00ab23577cf667e43b087bf5fd5b00fb, type: 3}
+    - Key: CarV
+      Value:
+        propObject: {fileID: 7035272825791464535, guid: 9a7a1762304fe904a95805ba0f56464f, type: 3}
+        propCollider:
+        - {fileID: 5118857087773989823, guid: e1eefc6a5cf58ab4fa6d45832970472d, type: 3}
+    - Key: CarH
+      Value:
+        propObject: {fileID: 605345780069842925, guid: 5ed27db9408d95b4890650843f2b4418, type: 3}
+        propCollider:
+        - {fileID: 1630014414565000490, guid: 22ac3dcc65728e94297a01780ad7b6d8, type: 3}
+    - Key: CargoShipH
+      Value:
+        propObject: {fileID: 5303547723975253955, guid: 2c5b2f9c5301d8b4e90185cfd0edf734, type: 3}
+        propCollider:
+        - {fileID: 2218298936947535752, guid: 83060ef23cc2a4949b01487b45d2f70c, type: 3}
+    - Key: CargoShipV
+      Value:
+        propObject: {fileID: 8444685515293691626, guid: 29ff0ef217429cd4797f8aa592e411e0, type: 3}
+        propCollider:
+        - {fileID: 3432687371073745666, guid: 81fbba86059b877458ee12d3c1a05db9, type: 3}
+    - Key: Christmas_Tree
+      Value:
+        propObject: {fileID: 254102312846628226, guid: 537a2fe4bce0d654a8ffd0888936f42f, type: 3}
+        propCollider:
+        - {fileID: 1004451565432155709, guid: 7c98d78d107b59d4f8ee36bda043c41b, type: 3}
+    - Key: ContainerH
+      Value:
+        propObject: {fileID: 6382214265260066306, guid: a16976a5d3d15fd46b56db7bd395b340, type: 3}
+        propCollider:
+        - {fileID: 565103236841215726, guid: 2e1769ec1ce59794190add379d780575, type: 3}
+    - Key: ContainerV
+      Value:
+        propObject: {fileID: 5279756797557226346, guid: ceda81996cf366c42a6727604f73a286, type: 3}
+        propCollider:
+        - {fileID: 2122918836801678783, guid: 7b537b62fd52c854cb6331e21cfdfa2f, type: 3}
+    - Key: FenceH
+      Value:
+        propObject: {fileID: 6819045199917282107, guid: 546f5cd8a2c8a364b8253d5dc14440fb, type: 3}
+        propCollider:
+        - {fileID: 1073178380702528338, guid: 7663695c41f4e8e4b9e2247c28fc9bea, type: 3}
+    - Key: FenceV
+      Value:
+        propObject: {fileID: 5114525490201686959, guid: c9756405ffa2d264495199fcc89fd318, type: 3}
+        propCollider:
+        - {fileID: 1167388211460443553, guid: 292ffcddf0e35b84dba35eabbc7654b2, type: 3}
+    - Key: Fence_WhiteH
+      Value:
+        propObject: {fileID: 6918638087847319424, guid: fba4706f44b27ae4db38c1e5fb17d0b7, type: 3}
+        propCollider:
+        - {fileID: 4005861925480761278, guid: 31462ed88cb7dde489e77659148fbd8f, type: 3}
+    - Key: Fence_WhiteV
+      Value:
+        propObject: {fileID: 1451611099862363730, guid: da44f09c4d0cf2a48aeb825f5e858a0d, type: 3}
+        propCollider:
+        - {fileID: 2404830639303341507, guid: f7dc0f1f280c1e7449f6c7db5db540bc, type: 3}
+    - Key: Fence_White_1.75_BlocksV
+      Value:
+        propObject: {fileID: 8292643963145335676, guid: 39b01a655123b3f4784083d3c7107a5c, type: 3}
+        propCollider:
+        - {fileID: 7805346996760738896, guid: e3d28563241b4c247bdaa01d48c08d66, type: 3}
+    - Key: Fence_White_1.75_BlocksH
+      Value:
+        propObject: {fileID: 3209864170565253209, guid: 605315f80aad0ac499057d5bee98b346, type: 3}
+        propCollider:
+        - {fileID: 5596430696505535470, guid: 791e4c9df4e85de46aa7aec36a1a31b1, type: 3}
+    - Key: Fence_White_2_BlocksV
+      Value:
+        propObject: {fileID: 4778544779066469245, guid: 2b1ae560afe9af04bbedaae0e006ea76, type: 3}
+        propCollider:
+        - {fileID: 3817699239404381811, guid: bcd737dd2be874d47a677f254e233d59, type: 3}
+    - Key: Fence_White_2_BlocksH
+      Value:
+        propObject: {fileID: 1524450742088326576, guid: 3e9fcde72177c7b45aef20f63b1b2458, type: 3}
+        propCollider:
+        - {fileID: 8284142439619282028, guid: f524e79290dd94541bea260a9946c362, type: 3}
+    - Key: Fence_White_1_V
+      Value:
+        propObject: {fileID: 2720510291194851382, guid: 9c047d6ad0c426e43ba98b639c40c9d2, type: 3}
+        propCollider:
+        - {fileID: 8028055304863676480, guid: 2f4c51d4c4e3274489604744c6557e11, type: 3}
+    - Key: Fence_White_1_H
+      Value:
+        propObject: {fileID: 3258306728408666004, guid: 732b0bef00b831f47a1d2172fb434074, type: 3}
+        propCollider:
+        - {fileID: 6325938394081788264, guid: a74601898dcbea24184eba03e940e947, type: 3}
+    - Key: FootingFull_V
+      Value:
+        propObject: {fileID: 7295395177675821369, guid: 322b1909f7a60c3449e2c5f10b82212e, type: 3}
+        propCollider:
+        - {fileID: 9018835388861423422, guid: b83ad715f8cfe974bb303e6ade4975b5, type: 3}
+    - Key: FootingFull_H
+      Value:
+        propObject: {fileID: 3107226368554874155, guid: 5c6478ee60164874895a92beed68cf29, type: 3}
+        propCollider:
+        - {fileID: 4691314138204824006, guid: 935577815081ac242ac6a13e4132a2d6, type: 3}
+    - Key: FootingHalfBot_V
+      Value:
+        propObject: {fileID: 8613177308796702173, guid: 8819602156befa1409c5843b6b3d4add, type: 3}
+        propCollider: []
+    - Key: FootingHalfBot_H
+      Value:
+        propObject: {fileID: 6132076710326420036, guid: b468a82f828afac429ac15947b666286, type: 3}
+        propCollider: []
+    - Key: FootingHalfTop_H
+      Value:
+        propObject: {fileID: 3211815338729754955, guid: 8c2051996201b60468eec05bb33a8d15, type: 3}
+        propCollider:
+        - {fileID: 12610991856431342, guid: dd4d09aebed17c0438988cb41f5704ce, type: 3}
+    - Key: FootingHalfTop_V
+      Value:
+        propObject: {fileID: 6035425494084904658, guid: c7306069a76e4704db3fd702ccaa9ad8, type: 3}
+        propCollider:
+        - {fileID: 6918501345832070177, guid: 5106ce2f7a459ff4f9c4abcb849e51d2, type: 3}
+    - Key: Lighthouse
+      Value:
+        propObject: {fileID: 8128802490453654541, guid: ba2c7d3e793e5654782da225245853fc, type: 3}
+        propCollider:
+        - {fileID: 4831998274450919619, guid: 5f2ba8221f94a544184f659a828120a9, type: 3}
+    - Key: Lighting_Pole_V
+      Value:
+        propObject: {fileID: 5340496776780246677, guid: c0cfaaf841ae21a4b8c1efb66e8f0f3f, type: 3}
+        propCollider:
+        - {fileID: 8502874165673822492, guid: 9490490f2f6fd8449a131a03e9c869ba, type: 3}
+    - Key: Lighting_Pole_H
+      Value:
+        propObject: {fileID: 4508322324882780650, guid: 9b1323ce347c18a448ae016db4b4de58, type: 3}
+        propCollider:
+        - {fileID: 96368804832722923, guid: 268c42f9612a2df4c839a0855adebd1b, type: 3}
+    - Key: MysteryBox
+      Value:
+        propObject: {fileID: 4965854293551267264, guid: 87f2c35d920c79e4ca23d86f75bbdb8c, type: 3}
+        propCollider:
+        - {fileID: 7875750165202717312, guid: b8daacc2efc7864429cb6a29b3b7986c, type: 3}
+    - Key: PalmTree
+      Value:
+        propObject: {fileID: 942668008480551879, guid: e6d772f1682e2744aadb89ae4c865b5b, type: 3}
+        propCollider:
+        - {fileID: 1300964564132172859, guid: 1e075727faf256243acf12abe44b5829, type: 3}
+    - Key: Percent_Tag
+      Value:
+        propObject: {fileID: 5512795995532163627, guid: 4615f0088022bf94b8798e034500848c, type: 3}
+        propCollider: []
+    - Key: PineTree1
+      Value:
+        propObject: {fileID: 5461253199583694200, guid: 36807eea9706604488a330033b19c3c6, type: 3}
+        propCollider:
+        - {fileID: 2270680907386971637, guid: afafb6a0616a0f243aaa3eeec646bfd0, type: 3}
+    - Key: PineTree2
+      Value:
+        propObject: {fileID: 3402246037863014557, guid: 0341cd21d1359224291b41c33e87dd02, type: 3}
+        propCollider:
+        - {fileID: 6619957962251299217, guid: 22e98bd2530a36243aa00e4419a028ff, type: 3}
+    - Key: PlantV
+      Value:
+        propObject: {fileID: 97572213282582562, guid: 73d8ee1be72ef8846964c20d9e9a4bba, type: 3}
+        propCollider:
+        - {fileID: 402200987142101417, guid: ca9ae478394c1b344a90521d1db121a0, type: 3}
+    - Key: PlantH
+      Value:
+        propObject: {fileID: 7905431127235436117, guid: 090ea17e1aca8fe46b09d69a341d425b, type: 3}
+        propCollider:
+        - {fileID: 2543008204303453988, guid: 0b51f4a42a1e15843847eb838779efbe, type: 3}
+    - Key: PostBox
+      Value:
+        propObject: {fileID: 4300193825485366977, guid: 6020999ea31be2847889ea84b2bd042d, type: 3}
+        propCollider:
+        - {fileID: 4837002339355774836, guid: 99bb4b96e67b2c542b23e42daf52636e, type: 3}
+    - Key: PurpleVendingMachineH
+      Value:
+        propObject: {fileID: 2996982911705826288, guid: 4dbc5c77239ab254694bbd33deb161b2, type: 3}
+        propCollider:
+        - {fileID: 1990811667734114146, guid: 6ccccf94807be994784a0af307c2097d, type: 3}
+    - Key: RailV
+      Value:
+        propObject: {fileID: 807253746355752219, guid: d5c81d969407d5345b9f501199422ab9, type: 3}
+        propCollider:
+        - {fileID: 5940819538961342684, guid: 3c6d736b44845a64a927b435e4cd2ef4, type: 3}
+    - Key: RailH
+      Value:
+        propObject: {fileID: 7742647697093137985, guid: afab7451bad64274187d9fd235b9efc7, type: 3}
+        propCollider:
+        - {fileID: 6539399267294106066, guid: 22c586c83de952a448905972c0b61a0b, type: 3}
+    - Key: Rubber_Ring
+      Value:
+        propObject: {fileID: 2652938300187215114, guid: 38c8d203a41e9d147b74058073f103e2, type: 3}
+        propCollider:
+        - {fileID: 7837543986598547917, guid: 96f6ffda52b9a2548801960dfbb5fd89, type: 3}
+    - Key: ShipV
+      Value:
+        propObject: {fileID: 7234850965967195110, guid: 2ab6ae0c022392a4f94e3cc44d81328d, type: 3}
+        propCollider:
+        - {fileID: 165232846054013914, guid: 4addcf0771c446a43b28e562b16719bd, type: 3}
+    - Key: ShipH
+      Value:
+        propObject: {fileID: 6407572689086717165, guid: 1912651f67ceb694e92b5e293aadcf5c, type: 3}
+        propCollider:
+        - {fileID: 8784639828227441400, guid: 5efb04150467a264cb0fdb71b3132a62, type: 3}
+    - Key: Standy_OpenH
+      Value:
+        propObject: {fileID: 2326624185920041937, guid: 0e5f654555e4b424281a2600386c51f9, type: 3}
+        propCollider:
+        - {fileID: 8677368232446469133, guid: eb5bbd06566aa44429d711dc18b6f60e, type: 3}
+    - Key: StandyGreenH
+      Value:
+        propObject: {fileID: 7914504072823128245, guid: 03369ed4b1fadc44bbfc6cb3f7adb6d2, type: 3}
+        propCollider:
+        - {fileID: 5338511414731825321, guid: c0b973bae2f904b4aa57c85b5411e0c1, type: 3}
+    - Key: StandyGreenV
+      Value:
+        propObject: {fileID: 8519464276626615773, guid: ad9e45d7352719e498eeb74ca525cbf8, type: 3}
+        propCollider:
+        - {fileID: 7770916505710770416, guid: 502d42f4ed96d7d4fb46cd3724771cd1, type: 3}
+    - Key: StoneH
+      Value:
+        propObject: {fileID: 5430443983369383341, guid: bf655f0ba7cf25f46ae1d3fb23ee2a13, type: 3}
+        propCollider:
+        - {fileID: 280454963523215393, guid: 10903bba6d68b1b4aa6fde49f5846d8e, type: 3}
+    - Key: StoneV
+      Value:
+        propObject: {fileID: 4272742311856702052, guid: 951d2623d8845514f9ad00e84ede18ca, type: 3}
+        propCollider:
+        - {fileID: 3150136043167019443, guid: 7567626f8aa8c8c4a85a40967b10ce89, type: 3}
+    - Key: SurfboardsV
+      Value:
+        propObject: {fileID: 3386131576126383210, guid: cb5af66ed6a189046ae54ca543c8a4b9, type: 3}
+        propCollider:
+        - {fileID: 1227286770368630938, guid: 6d501afc18a550d43b15eaea77093d8b, type: 3}
+    - Key: SurfboardsH
+      Value:
+        propObject: {fileID: 2967693692886943986, guid: 4023aec8ef114d143a55983014e3799e, type: 3}
+        propCollider:
+        - {fileID: 3055273511605887278, guid: 9f53eb475fd854b4f912e750ffc33372, type: 3}
+    - Key: SushiSwapCapsulePlatformBlue
+      Value:
+        propObject: {fileID: 2876396764561658111, guid: bbfd76ccb2baa2a4cbbaa9e8eb7bf559, type: 3}
+        propCollider:
+        - {fileID: 4987439450769032517, guid: 1352019234a5e19438b976c998b7181b, type: 3}
+    - Key: SushiSwapRoof
+      Value:
+        propObject: {fileID: 704992215190153761, guid: c2753cb0ca636c94c87d33eb2a9e540d, type: 3}
+        propCollider: []
+    - Key: Tree
+      Value:
+        propObject: {fileID: 5824767538340936080, guid: bac6e6e07e84fe240a9190687a9c3428, type: 3}
+        propCollider:
+        - {fileID: 3274956015520807651, guid: a35c4af5929950b4e85b29b21d7e9c77, type: 3}
+    - Key: Welcome_BoardV
+      Value:
+        propObject: {fileID: 9197361986026689619, guid: a0e95e825de7e024e8358489d36a36e0, type: 3}
+        propCollider:
+        - {fileID: 8142498277724282903, guid: 2aec7ee867c06984ab804ba730fb61e0, type: 3}
+    - Key: WTE_SignH
+      Value:
+        propObject: {fileID: 3150350587566728816, guid: 07b2df9eb02c9ee4ba13fc60453f0626, type: 3}
+        propCollider:
+        - {fileID: 922872239546500729, guid: cf137154c57dc744ebbf89a7cb033cf7, type: 3}
+    - Key: YachtV
+      Value:
+        propObject: {fileID: 8354280173115638952, guid: a39eacc0a0603c14d83c9122092daf41, type: 3}
+        propCollider:
+        - {fileID: 9221054449425944172, guid: 8786431e5856cf74f8892b6aeb926055, type: 3}
+    - Key: BarrierV
+      Value:
+        propObject: {fileID: 6177457934345944729, guid: 6509d66518686c844be774e81dfdb5de, type: 3}
+        propCollider:
+        - {fileID: 7357876748417323859, guid: f4b8a2c1f05ca0e46a8f3d3e03481feb, type: 3}
+    - Key: BarrierH
+      Value:
+        propObject: {fileID: 3512375106026078689, guid: 9402109a93f1b4e4e9cea3365f448e29, type: 3}
+        propCollider:
+        - {fileID: 7787953015061809070, guid: 9f9daf9d3265dda4b800fedb9ec03bae, type: 3}
+    - Key: BasketballHoopH
+      Value:
+        propObject: {fileID: 2147582936520044376, guid: 9c9ba352e15b4814bb8e2e44d2cab1f8, type: 3}
+        propCollider:
+        - {fileID: 2657035903676225372, guid: 46ae0f5bad30d9040b6569da39251b3b, type: 3}
+    - Key: BasketballHoopV
+      Value:
+        propObject: {fileID: 5551680287690297005, guid: 59e25b8bbf5884c4a914326b1f71e25c, type: 3}
+        propCollider:
+        - {fileID: 1057798770500974989, guid: 237b9b34cdee1ec40aeaabed3cd4e7cb, type: 3}
+    - Key: BenchV
+      Value:
+        propObject: {fileID: 3628407594636655387, guid: 7bf3aa5a90bd1c249bd9acc54bf93c00, type: 3}
+        propCollider:
+        - {fileID: 1624771537969708328, guid: e4c9bb09871e1d04b837b7867f7fa9e9, type: 3}
+    - Key: BenchH
+      Value:
+        propObject: {fileID: 3514411408058652579, guid: 75a34672b34f0b8428dcadf0634f3c4d, type: 3}
+        propCollider:
+        - {fileID: 4295496280678688895, guid: 83a299c85e0aa9b41bff5b1ec46c5317, type: 3}
+    - Key: BicylesV
+      Value:
+        propObject: {fileID: 6620727994220341915, guid: b18a9dffcc4b6e743816f97a1f414b51, type: 3}
+        propCollider:
+        - {fileID: 5338420924292897768, guid: 789ec012ae286ab48939ee2fd26577a8, type: 3}
+    - Key: BicylesH
+      Value:
+        propObject: {fileID: 6295407480230999862, guid: 56de79de84567224b8f7ffb5318d1380, type: 3}
+        propCollider:
+        - {fileID: 7374025574275636899, guid: 795fc00e18f4fde48a079321aee4331b, type: 3}
+    - Key: Whale
+      Value:
+        propObject: {fileID: 3922272083497586927, guid: 2524292833e52dc41a4fae70c5dc6d98, type: 3}
+        propCollider: []
+    - Key: CloudH
+      Value:
+        propObject: {fileID: 9217689179652321412, guid: 767b4639e18620749af545db2148f8c5, type: 3}
+        propCollider: []
+    - Key: CloudV
+      Value:
+        propObject: {fileID: 2882989442309626312, guid: 42c52c3ae3a866346a4839a50b8d1282, type: 3}
+        propCollider: []
+    - Key: BoatV
+      Value:
+        propObject: {fileID: 1281704503689761891, guid: 08714c52bc8b8b94683b14673a33ec51, type: 3}
+        propCollider:
+        - {fileID: 8318370698056979489, guid: 8cd33b160d681f042bdfbcff32d99c35, type: 3}
+    - Key: BoatH
+      Value:
+        propObject: {fileID: 479282122081660934, guid: 9d22454bf743ab5468b4cc11ec89744d, type: 3}
+        propCollider:
+        - {fileID: 3216310999542619776, guid: 068622533daac8d448c0844ae4c23c58, type: 3}
+    - Key: Bench2V
+      Value:
+        propObject: {fileID: 5909879577790856229, guid: 561caca31bafccd4ca1b6821cbb8a1fd, type: 3}
+        propCollider:
+        - {fileID: 6269859934801454519, guid: c8c81916b04624f43ad16fd6a3e7c5dd, type: 3}
+    - Key: Bench2H
+      Value:
+        propObject: {fileID: 4920682552423564244, guid: 709dbeb68189eed40affe760b8adda2f, type: 3}
+        propCollider:
+        - {fileID: 6545762072698070688, guid: f9a31b459325e9c4196d0c1aa2de12e6, type: 3}
+    - Key: DollarSign
+      Value:
+        propObject: {fileID: 8378471558661867518, guid: b3247a0a93de33f429010422edcfcafd, type: 3}
+        propCollider:
+        - {fileID: 4384927235827498562, guid: f140a4db207eda74ab34aa411a3247a6, type: 3}
+    - Key: StampCounter
+      Value:
+        propObject: {fileID: 2586520754231518364, guid: 708bb1432dfcbb740b718b4de5197129, type: 3}
+        propCollider:
+        - {fileID: 1454820652710956251, guid: c65d27f16e82d1d49ac393be8187d435, type: 3}
+    - Key: ShopToEarnATM
+      Value:
+        propObject: {fileID: 4081697604350323933, guid: d1b23ed5045b704429d16f0afa794989, type: 3}
+        propCollider:
+        - {fileID: 2050479880312019248, guid: 830bcd52f2ed16c489416c508a12ea7f, type: 3}
+    - Key: ShopToEarnBoardBlue
+      Value:
+        propObject: {fileID: 6036799806591511886, guid: 948d190cb35ffb64593d00f1a0fbef2f, type: 3}
+        propCollider:
+        - {fileID: 6580659604929056166, guid: 05005de9245156b41a4faba8fec5d7ec, type: 3}
+    - Key: ShopToEarnBush
+      Value:
+        propObject: {fileID: 6804679253962465431, guid: c554a3c9e4c4af1409d80e600c7a7b27, type: 3}
+        propCollider:
+        - {fileID: 7300978784166893267, guid: f3f7ed3365fc97742b7a4d23dd57fed4, type: 3}
+    - Key: ShopToEarnCounter1
+      Value:
+        propObject: {fileID: 5300441386037583034, guid: 07359419fd1934d4cb2a9295b6664faf, type: 3}
+        propCollider:
+        - {fileID: 6447827524701510838, guid: 9c72e18a0880f2041a93db9f96c17bda, type: 3}
+    - Key: ShopToEarnCounter2
+      Value:
+        propObject: {fileID: 4783305798322364104, guid: f3a0c44fe57921b4c949b5f903bcb94d, type: 3}
+        propCollider:
+        - {fileID: 5303965118024732396, guid: 130770c07f18fb746a1093a4c204747f, type: 3}
+    - Key: ShopToEarnGateFence
+      Value:
+        propObject: {fileID: 5253829792793830634, guid: c44fefc68a277f040ae23cde07bcdd1d, type: 3}
+        propCollider:
+        - {fileID: 5760555790528888311, guid: 1febb6855109e3148927e90cd425e564, type: 3}
+    - Key: ShopToEarnPartition2
+      Value:
+        propObject: {fileID: 3184510771658676351, guid: f4613bc4cf4cbaf469b135f4fc82e56e, type: 3}
+        propCollider:
+        - {fileID: 8424879675451837057, guid: a2211a75069eb6243abc4fc8cf5af48b, type: 3}
+    - Key: ShopToEarnPartition
+      Value:
+        propObject: {fileID: 6878291193123309138, guid: 91e36921c4e4e0949a2baa33fa3a392b, type: 3}
+        propCollider:
+        - {fileID: 1183465044694992284, guid: 0e323ad198e86574f998aac40a57ca09, type: 3}
+    - Key: ShopToEarnPoleMid
+      Value:
+        propObject: {fileID: 9039967247599145691, guid: 4067e9b80555f7c44a9ff0e3a796c11d, type: 3}
+        propCollider:
+        - {fileID: 5536740738593922159, guid: f2108ce0f2603d6499a96467150e7d12, type: 3}
+    - Key: ShopToEarnPoleL
+      Value:
+        propObject: {fileID: 2794678058379533106, guid: a4046ea717af9a841bbd9ce09b6bb599, type: 3}
+        propCollider:
+        - {fileID: 1334109785095073159, guid: 16896c23484e734428cdb7187f6bc498, type: 3}
+    - Key: ShopToEarnTable1
+      Value:
+        propObject: {fileID: 9039587148362549399, guid: 9432301963e4de948b2c576686cb0480, type: 3}
+        propCollider:
+        - {fileID: 8704163759710060357, guid: 15c0d498b3b8c3e44a4ec1cb0a898b7f, type: 3}
+    - Key: ShopToEarnTable2
+      Value:
+        propObject: {fileID: 1068799824209213287, guid: d11c6cc893b3fe3408f71396a6ceee23, type: 3}
+        propCollider:
+        - {fileID: 8988363430425582879, guid: e7e2c3f82430ca54cb272f6fece1206c, type: 3}
+    - Key: ShopToEarnTable3
+      Value:
+        propObject: {fileID: 8525433031006771823, guid: 48c7e9d62e52c654794bc66c44223bb4, type: 3}
+        propCollider:
+        - {fileID: 5493042598992373970, guid: 1841b95bd6e56a545b42c3ef2b8344fc, type: 3}
+    - Key: ShopToEarnVendingMachine2
+      Value:
+        propObject: {fileID: 598081714915377660, guid: c35bfaf4bf42e634ba06343e7cf7c23c, type: 3}
+        propCollider:
+        - {fileID: 7218022204746719323, guid: d6551ccb30d45ba478f92e254779ed6d, type: 3}
+    - Key: ShopToEarnVendingMachine
+      Value:
+        propObject: {fileID: 8798609468021201717, guid: 09367be02e94b7f4d99f325c5f5ba06a, type: 3}
+        propCollider:
+        - {fileID: 4128817106576469378, guid: 2b266a2e7bdff0c43a70a9b5fd6bf864, type: 3}
+    - Key: Lotto_ATM
+      Value:
+        propObject: {fileID: 3631029585325333562, guid: dc537e20a54ea2841803a356f2e78cf5, type: 3}
+        propCollider:
+        - {fileID: 7334009727265831471, guid: 5208288a06b8cad4a86d743302da34b8, type: 3}
+    - Key: Lotto_Counter
+      Value:
+        propObject: {fileID: 2580783214588493650, guid: 6240d52a99a671341b08cd8fc237da04, type: 3}
+        propCollider:
+        - {fileID: 2747233771634049078, guid: baed32c4b24e65b429086d20b4a4d731, type: 3}
+    - Key: Lotto_PoleCorner
+      Value:
+        propObject: {fileID: 6267499616689730458, guid: 70119f33bf9f50e468dd040ccd4afb94, type: 3}
+        propCollider:
+        - {fileID: 4180839920101788042, guid: b0ef25e280e8b1f4a896813839163e79, type: 3}
+    - Key: Lotto_Step
+      Value:
+        propObject: {fileID: 393706361776546510, guid: 8206c76a049a432459eb3284a81e5d6a, type: 3}
+        propCollider:
+        - {fileID: 6554845595578212989, guid: 332013bc077f57045b9efea70091317b, type: 3}
+    - Key: Lotto_Door
+      Value:
+        propObject: {fileID: 4841458941628007645, guid: f92b9e9e8530f574b869ed481c0fdbc6, type: 3}
+        propCollider:
+        - {fileID: 8393980231513694856, guid: 395f9d9a81aac8b469f81bac925df7c8, type: 3}
+    - Key: Lotto_Ball
+      Value:
+        propObject: {fileID: 4976075151977458448, guid: 9afb469bd55e76e418c9482aced74c6d, type: 3}
+        propCollider:
+        - {fileID: 3437978053825745195, guid: a9d6a81ee28cd404986e6ebce8c74682, type: 3}
+    - Key: Bear
+      Value:
+        propObject: {fileID: 7483647246432532906, guid: e1c6c6b70dc16154e903527d9a33382a, type: 3}
+        propCollider:
+        - {fileID: 3911406374658397679, guid: ab25b41cb545de4499487f654070c390, type: 3}
+    - Key: CTECounter
+      Value:
+        propObject: {fileID: 404447129360202448, guid: 759ee877f67655546890b7b3b192e024, type: 3}
+        propCollider:
+        - {fileID: 7105853934987873440, guid: ddbb713691ad98f4ab50a110db992212, type: 3}
+    - Key: CTEProp
+      Value:
+        propObject: {fileID: 2124913239057691774, guid: 1ec7421ce6f7a2543b50ef27154c26ca, type: 3}
+        propCollider:
+        - {fileID: 3310558531740128036, guid: 786f0a396930208419117ae0d1a099ba, type: 3}
+    - Key: CTEFence
+      Value:
+        propObject: {fileID: 6803951637198222560, guid: 3c001428df84b854586d7ebffdf1964a, type: 3}
+        propCollider:
+        - {fileID: 6647891671628258885, guid: e65c43595be0bd44897c2316eb707122, type: 3}
+    - Key: FerrisWheel
+      Value:
+        propObject: {fileID: 6246780105368434874, guid: 715681231bfd8374b9941b22e2760b2d, type: 3}
+        propCollider:
+        - {fileID: 7024971740481505558, guid: e2bb793800ddc104083db638ad2d3117, type: 3}
+    - Key: VapourCounter1
+      Value:
+        propObject: {fileID: 4137823508929894947, guid: 11ead0c6ce9c1e7428fcf90e4bdc05c5, type: 3}
+        propCollider:
+        - {fileID: 6274358121151299060, guid: 6c9999f1194814048b8d8ddb0ba12917, type: 3}
+    - Key: VapourCounter2
+      Value:
+        propObject: {fileID: 4223312825535259019, guid: 61777f80e8e55ec4bbff67d118ca38e0, type: 3}
+        propCollider:
+        - {fileID: 8209509477901122392, guid: ed117051a372482499a80cd6f3571469, type: 3}
+    - Key: VapourCounter3
+      Value:
+        propObject: {fileID: 2570177333324472401, guid: 2fb418b2975d9f34c939228e2ba49c6d, type: 3}
+        propCollider:
+        - {fileID: 672072016641776108, guid: 8bb1609fa8b69534d977a0d8683e7ede, type: 3}
+    - Key: VapourMachine
+      Value:
+        propObject: {fileID: 5625414663712847513, guid: f362bea6e735c5147a9a8b75f347662e, type: 3}
+        propCollider:
+        - {fileID: 5681933606816344120, guid: cd11437984799474d91d2df9a16f26b8, type: 3}
+    - Key: VapourPole
+      Value:
+        propObject: {fileID: 6065811845026369480, guid: 87aaab00f0298f54fb405eeb88908b1a, type: 3}
+        propCollider:
+        - {fileID: 7124132585099961257, guid: e3d70ac66d7e554459aaa92b15395925, type: 3}
+    - Key: PBCounter
+      Value:
+        propObject: {fileID: 2831096974003328241, guid: b5b6284e69988f04ead4842c49158e6b, type: 3}
+        propCollider:
+        - {fileID: 6388126204564374571, guid: 6a85443732b6d544eb399c1005297f62, type: 3}
+    - Key: PBPartition
+      Value:
+        propObject: {fileID: 4141633580995324139, guid: bb68493e88ec4724cb0fcc9ed825dafd, type: 3}
+        propCollider:
+        - {fileID: 4940982178545736462, guid: 165bc48ab2c5af840ad3e5d24b076e55, type: 3}
+    - Key: PBRail
+      Value:
+        propObject: {fileID: 1488651855906389430, guid: ab402fe697905f24e8095dccf689ee2e, type: 3}
+        propCollider:
+        - {fileID: 1491320166540434831, guid: 6c354c569bf4073439c87ff8a1a90ab8, type: 3}
+    - Key: PBVendingBlue
+      Value:
+        propObject: {fileID: 8768110597305689156, guid: fa177060ac02440478d34b239273a37a, type: 3}
+        propCollider:
+        - {fileID: 1986775228332667854, guid: 2866b29da0d72bd43b114c70514055a7, type: 3}
+    - Key: PBVendingOrange
+      Value:
+        propObject: {fileID: 9169251161236447330, guid: e32706959190a6c42ac5c4842f9f146f, type: 3}
+        propCollider:
+        - {fileID: 8815641958068885589, guid: 3274396f2a26e3b43a5bb7b816f88e02, type: 3}
+    - Key: PBStandy
+      Value:
+        propObject: {fileID: 7034753183852114658, guid: 0ea15fb119786444faf1924217e3cae4, type: 3}
+        propCollider:
+        - {fileID: 4485175247286077107, guid: 2e07d6fb92f076e4c90fe0750b0a7d26, type: 3}
+  dataFolder: {fileID: 102900000, guid: f293a05a6bc5f1844b184f5a0e018293, type: 3}

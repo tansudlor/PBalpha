@@ -1,0 +1,14 @@
+{
+    "name": "com.playbux.utilis.math",
+    "rootNamespace": " com.playbux.utilis.math",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,181 @@
+
+VaporFund_Interior.png
+size: 4096, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Backdrop
+  rotate: false
+  xy: 2185, 1285
+  size: 112, 163
+  orig: 114, 166
+  offset: 1, 1
+  index: -1
+Counter
+  rotate: false
+  xy: 805, 776
+  size: 335, 241
+  orig: 337, 243
+  offset: 1, 1
+  index: -1
+Counter_Pole
+  rotate: true
+  xy: 1142, 889
+  size: 155, 336
+  orig: 157, 338
+  offset: 1, 1
+  index: -1
+Counter_Roof
+  rotate: false
+  xy: 2, 534
+  size: 592, 254
+  orig: 594, 258
+  offset: 1, 2
+  index: -1
+Curve_Board
+  rotate: false
+  xy: 2, 1450
+  size: 2301, 569
+  orig: 2303, 571
+  offset: 1, 1
+  index: -1
+Gate
+  rotate: false
+  xy: 3739, 1629
+  size: 318, 390
+  orig: 320, 392
+  offset: 1, 1
+  index: -1
+Monitor
+  rotate: true
+  xy: 596, 566
+  size: 222, 145
+  orig: 224, 147
+  offset: 1, 1
+  index: -1
+Pipe
+  rotate: false
+  xy: 471, 6
+  size: 78, 71
+  orig: 80, 73
+  offset: 1, 1
+  index: -1
+Pole
+  rotate: true
+  xy: 2, 2
+  size: 75, 467
+  orig: 77, 470
+  offset: 1, 1
+  index: -1
+Pole_Back
+  rotate: true
+  xy: 3160, 1474
+  size: 93, 148
+  orig: 97, 150
+  offset: 2, 1
+  index: -1
+Pole_Corner_Left
+  rotate: true
+  xy: 1686, 1004
+  size: 136, 454
+  orig: 138, 456
+  offset: 1, 1
+  index: -1
+Pole_Corner_Right
+  rotate: true
+  xy: 3162, 1569
+  size: 159, 558
+  orig: 161, 560
+  offset: 1, 1
+  index: -1
+Pole_L
+  rotate: true
+  xy: 1686, 1142
+  size: 306, 497
+  orig: 308, 501
+  offset: 1, 2
+  index: -1
+Pole_Left
+  rotate: true
+  xy: 2842, 1463
+  size: 121, 316
+  orig: 123, 318
+  offset: 1, 1
+  index: -1
+Rectangle 1
+  rotate: false
+  xy: 2842, 1390
+  size: 71, 71
+  orig: 73, 73
+  offset: 1, 1
+  index: -1
+Roof_Top
+  rotate: false
+  xy: 2, 1019
+  size: 1122, 429
+  orig: 1124, 431
+  offset: 1, 1
+  index: -1
+Sidebar
+  rotate: false
+  xy: 1126, 1046
+  size: 558, 402
+  orig: 560, 404
+  offset: 1, 1
+  index: -1
+Steps
+  rotate: false
+  xy: 2305, 1586
+  size: 855, 433
+  orig: 857, 435
+  offset: 1, 1
+  index: -1
+Top_Part
+  rotate: false
+  xy: 3162, 1730
+  size: 575, 289
+  orig: 577, 291
+  offset: 1, 1
+  index: -1
+Top_Strips
+  rotate: false
+  xy: 2, 290
+  size: 560, 242
+  orig: 562, 244
+  offset: 1, 1
+  index: -1
+Tri_Roof_1
+  rotate: false
+  xy: 2305, 1377
+  size: 535, 207
+  orig: 537, 209
+  offset: 1, 1
+  index: -1
+Tri_Roof_2
+  rotate: false
+  xy: 2, 79
+  size: 590, 209
+  orig: 592, 211
+  offset: 1, 1
+  index: -1
+VaporFund
+  rotate: false
+  xy: 2, 790
+  size: 801, 227
+  orig: 803, 229
+  offset: 1, 1
+  index: -1
+Vending
+  rotate: true
+  xy: 1142, 759
+  size: 128, 236
+  orig: 132, 238
+  offset: 2, 1
+  index: -1
+Windows
+  rotate: false
+  xy: 1480, 905
+  size: 175, 139
+  orig: 178, 141
+  offset: 1, 1
+  index: -1

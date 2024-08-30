@@ -1,0 +1,83 @@
+
+Ball.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Ball0001
+  rotate: false
+  xy: 2, 741
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Ball0002
+  rotate: false
+  xy: 2, 496
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Ball0003
+  rotate: false
+  xy: 248, 741
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Ball0004
+  rotate: false
+  xy: 2, 251
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Ball0005
+  rotate: false
+  xy: 248, 496
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Ball0006
+  rotate: false
+  xy: 494, 741
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Ball0007
+  rotate: false
+  xy: 2, 6
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Ball0008
+  rotate: false
+  xy: 248, 251
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Ball0009
+  rotate: false
+  xy: 494, 496
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Ball0010
+  rotate: false
+  xy: 740, 741
+  size: 244, 243
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+Shadow
+  rotate: false
+  xy: 248, 123
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1

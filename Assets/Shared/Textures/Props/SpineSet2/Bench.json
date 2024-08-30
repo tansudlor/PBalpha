@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"e16oLK/aZaI","spine":"4.1.24","x":-226,"y":-119,"width":452,"height":345,"images":"../../Shop to Earn/Spine/Props/images/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"Bench","bone":"root","attachment":"Bench"}],"skins":[{"name":"default","attachments":{"Bench":{"Bench":{"y":53.5,"width":452,"height":345}}}}],"animations":{"Idle_00":{}}}

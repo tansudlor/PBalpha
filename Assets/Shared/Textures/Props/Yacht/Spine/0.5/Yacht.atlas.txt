@@ -1,0 +1,13 @@
+
+Yacht.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Sailwing
+  rotate: true
+  xy: 2, 2
+  size: 418, 669
+  orig: 418, 669
+  offset: 0, 0
+  index: -1

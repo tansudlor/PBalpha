@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 158c5661ebe744698fc43bd4689cd01c, type: 3}
+  m_Name: ColliderDatabase
+  m_EditorClassIdentifier: 
+  mapColliders:
+    _serializedList:
+    - Key: MainLand
+      Value:
+        _serializedList:
+        - Key: {x: 111.8, y: -68.5}
+          Value: {fileID: 5401438894426267830, guid: 5fd0988a68bf7e240a69bea1a8befdfc, type: 3}
+        - Key: {x: 35.59, y: -23.320002}
+          Value: {fileID: 372217595916339917, guid: 905346c7df132224c952c461e66ba06f, type: 3}
+        - Key: {x: 15.34, y: -43.670002}
+          Value: {fileID: 2955869311018965266, guid: ec470502b082cb144aa987014d69fe04, type: 3}
+        - Key: {x: -25, y: -36.8}
+          Value: {fileID: 2850680342188253481, guid: 0ef990c1796d77e44b81252e77b31ca5, type: 3}
+        - Key: {x: 97.03, y: -17.17}
+          Value: {fileID: 4512213727837563167, guid: 362c08dea8d81bc4ebf65a147e2afe50, type: 3}
+        - Key: {x: 62.34, y: 16.599998}
+          Value: {fileID: 7123800110502364591, guid: d2e7f33430ef6dc48a08b0bf5ef322ee, type: 3}
+        - Key: {x: 86.8, y: -114.84}
+          Value: {fileID: 1776648736016913713, guid: 4452a6a41b0a2eb4a950f4b95a65ce91, type: 3}
+        - Key: {x: 83.93, y: 25.920002}
+          Value: {fileID: 5843310076478075778, guid: f03fa0d837f57d240aede529839bdec7, type: 3}
+        - Key: {x: -8.619999, y: -81.01}
+          Value: {fileID: 8497135745776270286, guid: 3f2bb17fc6bafd04ea8d7f3bdce1d72c, type: 3}
+        - Key: {x: -105.5, y: 0.5}
+          Value: {fileID: 8945287376788319693, guid: 53073b09dbdc3bb4797632c111ea989b, type: 3}
+        - Key: {x: 31.13, y: 18.169998}
+          Value: {fileID: 7050051493769837857, guid: 45f12f82d6a2e00459826cfdee6ea8d4, type: 3}
+        - Key: {x: -61.3, y: 27.2}
+          Value: {fileID: 1666023053436159158, guid: 63061e167abfd964b9647527fdbcd163, type: 3}
+        - Key: {x: -16.3, y: 19}
+          Value: {fileID: 2837499231173554488, guid: c893336efa853544a8cb5c71ebb7d242, type: 3}
+        - Key: {x: 18.7, y: 65.9}
+          Value: {fileID: 6923251084706590894, guid: 01b26994187c3674daa516309462bdd2, type: 3}
+        - Key: {x: 5.4, y: 87.9}
+          Value: {fileID: 6270976987331206861, guid: 044a6dd09449f2d4dbf587f234ca6f7b, type: 3}
+        - Key: {x: -48.1, y: 132.4}
+          Value: {fileID: 5720615117370875736, guid: da6ecb2b270ece04b86cc41ddbbe6ffd, type: 3}
+        - Key: {x: -22.7, y: 146.7}
+          Value: {fileID: 3275585746580936483, guid: 9a8f89d75484fdd44ac7ac98ff9e1e26, type: 3}
+        - Key: {x: -76, y: 89.3}
+          Value: {fileID: 7858841516001933962, guid: 0d7ff997ca5a1d942a9b6a6177fc2794, type: 3}
+        - Key: {x: -82.2, y: 115.9}
+          Value: {fileID: 1094539952704906747, guid: 990b768d01e69544290e37a92e0db4e1, type: 3}
+        - Key: {x: -102.3, y: 63.1}
+          Value: {fileID: 5253003526761793223, guid: 3f94b3a24b8eb88469d30d086c3d6a42, type: 3}
+        - Key: {x: -40.1, y: 119.2}
+          Value: {fileID: 3028197825323646260, guid: d9a2ee058e008254fba4cf80b1a2c3be, type: 3}
+        - Key: {x: 9.54, y: -0.08}
+          Value: {fileID: 6084862735114052573, guid: 14f05199484eb374daed6adf7417918c, type: 3}

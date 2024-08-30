@@ -1,0 +1,279 @@
+
+Props.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bench
+  rotate: true
+  xy: 193, 15
+  size: 226, 173
+  orig: 226, 173
+  offset: 0, 0
+  index: -1
+Bench2
+  rotate: false
+  xy: 398, 317
+  size: 187, 183
+  orig: 188, 183
+  offset: 1, 0
+  index: -1
+Box
+  rotate: false
+  xy: 398, 502
+  size: 191, 192
+  orig: 191, 192
+  offset: 0, 0
+  index: -1
+Btn_Red
+  rotate: true
+  xy: 591, 502
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Bush
+  rotate: true
+  xy: 509, 28
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+EggPlant
+  rotate: false
+  xy: 645, 351
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+Leaf1_1
+  rotate: true
+  xy: 905, 390
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+Leaf1_2
+  rotate: true
+  xy: 964, 419
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+Leaf1_3
+  rotate: true
+  xy: 645, 396
+  size: 141, 64
+  orig: 141, 64
+  offset: 0, 0
+  index: -1
+Leaf1_4
+  rotate: true
+  xy: 587, 358
+  size: 142, 56
+  orig: 142, 56
+  offset: 0, 0
+  index: -1
+Leaf1_5
+  rotate: true
+  xy: 738, 553
+  size: 100, 147
+  orig: 100, 147
+  offset: 0, 0
+  index: -1
+Leaf1_6
+  rotate: true
+  xy: 750, 655
+  size: 88, 148
+  orig: 88, 148
+  offset: 0, 0
+  index: -1
+Leaf2_1
+  rotate: true
+  xy: 244, 247
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+Leaf2_2
+  rotate: false
+  xy: 679, 539
+  size: 57, 171
+  orig: 57, 171
+  offset: 0, 0
+  index: -1
+Leaf2_3
+  rotate: false
+  xy: 368, 4
+  size: 139, 106
+  orig: 139, 106
+  offset: 0, 0
+  index: -1
+Leaf2_4
+  rotate: false
+  xy: 738, 453
+  size: 145, 98
+  orig: 145, 98
+  offset: 0, 0
+  index: -1
+Leaf2_5
+  rotate: false
+  xy: 398, 244
+  size: 148, 71
+  orig: 148, 71
+  offset: 0, 0
+  index: -1
+Leaf2_6
+  rotate: true
+  xy: 548, 167
+  size: 148, 69
+  orig: 148, 69
+  offset: 0, 0
+  index: -1
+Leaf2_7
+  rotate: false
+  xy: 887, 549
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+Leaf2_8
+  rotate: true
+  xy: 824, 349
+  size: 102, 79
+  orig: 102, 79
+  offset: 0, 0
+  index: -1
+MysteryBox
+  rotate: false
+  xy: 711, 340
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+PineTree2
+  rotate: false
+  xy: 374, 696
+  size: 214, 326
+  orig: 214, 326
+  offset: 0, 0
+  index: -1
+PineTree_Shadow
+  rotate: true
+  xy: 591, 546
+  size: 164, 86
+  orig: 164, 86
+  offset: 0, 0
+  index: -1
+Pine_Tree
+  rotate: false
+  xy: 590, 712
+  size: 158, 310
+  orig: 158, 310
+  offset: 0, 0
+  index: -1
+Pole
+  rotate: true
+  xy: 900, 640
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+Recycle
+  rotate: true
+  xy: 326, 244
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+Screen
+  rotate: false
+  xy: 591, 512
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Shoe
+  rotate: false
+  xy: 2, 16
+  size: 189, 225
+  orig: 189, 225
+  offset: 0, 0
+  index: -1
+Signs
+  rotate: false
+  xy: 885, 476
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+Tomato
+  rotate: true
+  xy: 962, 498
+  size: 49, 60
+  orig: 51, 60
+  offset: 1, 0
+  index: -1
+Tomato2
+  rotate: true
+  xy: 905, 338
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+Top
+  rotate: true
+  xy: 983, 946
+  size: 76, 36
+  orig: 76, 38
+  offset: 0, 1
+  index: -1
+Tree
+  rotate: false
+  xy: 2, 243
+  size: 240, 323
+  orig: 240, 323
+  offset: 0, 0
+  index: -1
+Trunk
+  rotate: false
+  xy: 904, 690
+  size: 77, 332
+  orig: 77, 332
+  offset: 0, 0
+  index: -1
+Vending_Blue
+  rotate: false
+  xy: 750, 745
+  size: 152, 277
+  orig: 152, 277
+  offset: 0, 0
+  index: -1
+Vending_Purple
+  rotate: false
+  xy: 244, 289
+  size: 152, 277
+  orig: 152, 277
+  offset: 0, 0
+  index: -1
+WTE_Sign
+  rotate: false
+  xy: 2, 568
+  size: 370, 454
+  orig: 370, 454
+  offset: 0, 0
+  index: -1
+WhiteFence_1
+  rotate: false
+  xy: 487, 128
+  size: 59, 114
+  orig: 59, 114
+  offset: 0, 0
+  index: -1
+WhiteFence_2
+  rotate: false
+  xy: 368, 112
+  size: 117, 130
+  orig: 117, 130
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caae6ae202a2a94e982f052307f7a76, type: 3}
+  m_Name: DialogData
+  m_EditorClassIdentifier: 
+  header: {fileID: 21300000, guid: c4e58d0508ff2ec4f8a2a57ee838de22, type: 3}
+  imageContents:
+  - {fileID: 21300000, guid: cf0b3be983ccd4c43b50e59d8f3a2a18, type: 3}
+  - {fileID: 21300000, guid: d6e43256376d1924eb98693cda70184e, type: 3}
+  stringContents:
+  - 'User selects a pool to submit the ticket to. Everyone is free to add as many
+    lotto tickets  as they want to any pool. '
+  - There will be a draw time for each pool, including PBUX, USDT and NFT.
+  imageConfirm: {fileID: 0}
+  readMoreUrl: 
+  confirmUrl: 

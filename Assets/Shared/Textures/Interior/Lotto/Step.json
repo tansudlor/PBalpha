@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"ZPZvRNbDMt0","spine":"4.1.24","x":466.7,"y":-222.97,"width":451,"height":258,"images":"./images/","audio":""},"bones":[{"name":"root","x":692.2,"y":-145.51}],"slots":[{"name":"Step","bone":"root","attachment":"Step"}],"skins":[{"name":"default","attachments":{"Step":{"Step":{"y":51.54,"width":451,"height":258}}}}],"animations":{"animation":{}}}

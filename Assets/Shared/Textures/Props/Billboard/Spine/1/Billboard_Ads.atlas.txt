@@ -1,0 +1,13 @@
+
+Billboard_Ads.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Ads
+  rotate: false
+  xy: 2, 2
+  size: 1000, 830
+  orig: 1000, 830
+  offset: 0, 0
+  index: -1

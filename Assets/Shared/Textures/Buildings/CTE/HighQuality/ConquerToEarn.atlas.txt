@@ -1,0 +1,209 @@
+
+ConquerToEarn.png
+size: 4096, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Corner_Right
+  rotate: false
+  xy: 1174, 1104
+  size: 558, 897
+  orig: 560, 899
+  offset: 1, 1
+  index: -1
+Counter
+  rotate: false
+  xy: 1165, 340
+  size: 485, 469
+  orig: 487, 471
+  offset: 1, 1
+  index: -1
+Fence
+  rotate: false
+  xy: 1734, 1370
+  size: 824, 631
+  orig: 826, 633
+  offset: 1, 1
+  index: -1
+Flag1
+  rotate: true
+  xy: 3502, 981
+  size: 244, 283
+  orig: 244, 283
+  offset: 0, 0
+  index: -1
+Flag2
+  rotate: false
+  xy: 2129, 116
+  size: 252, 293
+  orig: 252, 293
+  offset: 0, 0
+  index: -1
+Flag3
+  rotate: true
+  xy: 3212, 977
+  size: 248, 288
+  orig: 248, 288
+  offset: 0, 0
+  index: -1
+Gate
+  rotate: true
+  xy: 2560, 1360
+  size: 641, 778
+  orig: 1029, 1059
+  offset: 1, 1
+  index: -1
+Lock
+  rotate: true
+  xy: 3930, 1367
+  size: 158, 98
+  orig: 160, 100
+  offset: 1, 1
+  index: -1
+No1
+  rotate: false
+  xy: 3787, 989
+  size: 137, 236
+  orig: 139, 238
+  offset: 1, 1
+  index: -1
+No2
+  rotate: false
+  xy: 3930, 1527
+  size: 150, 236
+  orig: 152, 238
+  offset: 1, 1
+  index: -1
+No3
+  rotate: false
+  xy: 3930, 1765
+  size: 153, 236
+  orig: 155, 238
+  offset: 1, 1
+  index: -1
+Online
+  rotate: true
+  xy: 3162, 773
+  size: 188, 122
+  orig: 191, 124
+  offset: 2, 1
+  index: -1
+Pipe
+  rotate: false
+  xy: 1676, 106
+  size: 451, 253
+  orig: 453, 255
+  offset: 1, 1
+  index: -1
+Pole
+  rotate: true
+  xy: 2510, 773
+  size: 188, 650
+  orig: 190, 652
+  offset: 1, 1
+  index: -1
+Pole_Lock
+  rotate: true
+  xy: 2779, 327
+  size: 160, 86
+  orig: 162, 88
+  offset: 1, 1
+  index: -1
+Prop
+  rotate: false
+  xy: 2458, 489
+  size: 396, 282
+  orig: 398, 284
+  offset: 1, 1
+  index: -1
+Screen_Blank
+  rotate: true
+  xy: 2856, 504
+  size: 267, 398
+  orig: 269, 400
+  offset: 1, 1
+  index: -1
+Screen_Blank_Top
+  rotate: false
+  xy: 1165, 31
+  size: 509, 307
+  orig: 511, 309
+  offset: 1, 1
+  index: -1
+Screen_Flag
+  rotate: true
+  xy: 1652, 361
+  size: 421, 469
+  orig: 423, 471
+  offset: 1, 1
+  index: -1
+Screen_Large
+  rotate: false
+  xy: 2, 846
+  size: 1170, 1155
+  orig: 1172, 1157
+  offset: 1, 1
+  index: -1
+Screen_Leaderboard
+  rotate: true
+  xy: 626, 55
+  size: 789, 537
+  orig: 791, 539
+  offset: 1, 1
+  index: -1
+Triangle
+  rotate: false
+  xy: 626, 4
+  size: 176, 49
+  orig: 178, 51
+  offset: 1, 1
+  index: -1
+Wall_L1
+  rotate: false
+  xy: 3340, 1227
+  size: 588, 774
+  orig: 590, 776
+  offset: 1, 1
+  index: -1
+Wall_L2
+  rotate: true
+  xy: 1174, 811
+  size: 291, 556
+  orig: 293, 558
+  offset: 1, 1
+  index: -1
+Wall_L3
+  rotate: true
+  xy: 1734, 784
+  size: 584, 774
+  orig: 586, 776
+  offset: 1, 1
+  index: -1
+Wall_Left
+  rotate: true
+  xy: 2510, 963
+  size: 395, 700
+  orig: 397, 702
+  offset: 1, 1
+  index: -1
+Wall_Part
+  rotate: false
+  xy: 2458, 294
+  size: 319, 193
+  orig: 321, 195
+  offset: 1, 1
+  index: -1
+Wall_Right
+  rotate: false
+  xy: 2, 2
+  size: 622, 842
+  orig: 624, 844
+  offset: 1, 1
+  index: -1
+Wire
+  rotate: false
+  xy: 2123, 411
+  size: 333, 371
+  orig: 335, 373
+  offset: 1, 1
+  index: -1

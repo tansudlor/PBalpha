@@ -1,0 +1,153 @@
+
+PlaybuxShop_Interior.png
+size: 4096, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Board
+  rotate: true
+  xy: 790, 135
+  size: 76, 187
+  orig: 76, 187
+  offset: 0, 0
+  index: -1
+Counter
+  rotate: false
+  xy: 2568, 298
+  size: 289, 202
+  orig: 289, 202
+  offset: 0, 0
+  index: -1
+Floor_1
+  rotate: false
+  xy: 1737, 213
+  size: 490, 287
+  orig: 899, 450
+  offset: 408, 163
+  index: -1
+Floor_2
+  rotate: false
+  xy: 1164, 214
+  size: 571, 286
+  orig: 899, 450
+  offset: 246, 82
+  index: -1
+Floor_3
+  rotate: false
+  xy: 509, 213
+  size: 653, 287
+  orig: 899, 450
+  offset: 1, 0
+  index: -1
+Gate
+  rotate: true
+  xy: 3591, 336
+  size: 164, 197
+  orig: 165, 197
+  offset: 1, 0
+  index: -1
+Mornitor
+  rotate: false
+  xy: 790, 67
+  size: 99, 66
+  orig: 101, 66
+  offset: 1, 0
+  index: -1
+Partition
+  rotate: false
+  xy: 3968, 412
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+Pipe
+  rotate: false
+  xy: 2, 2
+  size: 67, 54
+  orig: 67, 56
+  offset: 0, 1
+  index: -1
+Pipe_S
+  rotate: false
+  xy: 1107, 164
+  size: 54, 47
+  orig: 56, 47
+  offset: 1, 0
+  index: -1
+Playbux_Standy
+  rotate: false
+  xy: 3790, 363
+  size: 97, 137
+  orig: 97, 137
+  offset: 0, 0
+  index: -1
+Pole_Back
+  rotate: true
+  xy: 3155, 351
+  size: 149, 222
+  orig: 149, 222
+  offset: 0, 0
+  index: -1
+Pole_Corner
+  rotate: true
+  xy: 509, 67
+  size: 144, 279
+  orig: 144, 280
+  offset: 0, 0
+  index: -1
+Pole_Geo
+  rotate: true
+  xy: 2568, 219
+  size: 77, 193
+  orig: 79, 193
+  offset: 1, 0
+  index: -1
+Pole_Round
+  rotate: true
+  xy: 3379, 342
+  size: 158, 210
+  orig: 160, 210
+  offset: 1, 0
+  index: -1
+Rail
+  rotate: true
+  xy: 2763, 229
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+Top
+  rotate: false
+  xy: 2859, 318
+  size: 294, 182
+  orig: 296, 182
+  offset: 1, 0
+  index: -1
+Vending_Blue
+  rotate: true
+  xy: 979, 136
+  size: 75, 126
+  orig: 77, 126
+  offset: 1, 0
+  index: -1
+Vending_Orange
+  rotate: false
+  xy: 3889, 377
+  size: 77, 123
+  orig: 77, 125
+  offset: 0, 1
+  index: -1
+Wall_L
+  rotate: false
+  xy: 2, 58
+  size: 505, 442
+  orig: 505, 442
+  offset: 0, 0
+  index: -1
+Wall_R
+  rotate: false
+  xy: 2229, 172
+  size: 337, 328
+  orig: 337, 328
+  offset: 0, 0
+  index: -1

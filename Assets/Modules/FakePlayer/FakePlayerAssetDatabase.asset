@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18ba126a53c3a83449b941adcdbad3d1, type: 3}
+  m_Name: FakePlayerAssetDatabase
+  m_EditorClassIdentifier: 
+  randomNames:
+  - John
+  randomAssetById:
+    id: 248666468
+    asset: {fileID: 3036374873490673508, guid: 7c75eb9d30e77c6458a8db7e462a1870, type: 3}
+  assets:
+    _serializedList:
+    - Key: 0
+      Value: {fileID: 3036374873490673508, guid: 7c75eb9d30e77c6458a8db7e462a1870, type: 3}
+    - Key: 1
+      Value: {fileID: 3036374873490673508, guid: fef245ad2f7182d43a782a065df1a44f, type: 3}
+    - Key: 2
+      Value: {fileID: 3036374873490673508, guid: 79fca5e85b43cf842b17ab81168501c5, type: 3}
+    - Key: 3
+      Value: {fileID: 3036374873490673508, guid: bb696bbd6189af1419b86ad8178bc9d5, type: 3}
+    - Key: 4
+      Value: {fileID: 3036374873490673508, guid: abd7c36a0ca733341859cc45bfc28e0f, type: 3}
+  assetByAssetId:
+    _serializedList: []

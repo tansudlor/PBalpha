@@ -1,0 +1,18 @@
+{
+    "name": "Playbux.Networking.Core.Editor",
+    "rootNamespace": "com.playbux.networking.mirror.core.editor",
+    "references": [
+        "GUID:d18ca3c2c28a0b346ac1ac78d0064f0d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

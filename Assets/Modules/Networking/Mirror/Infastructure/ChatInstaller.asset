@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61ed773af5ac4d85b7fbafef64d6540b, type: 3}
+  m_Name: ChatInstaller
+  m_EditorClassIdentifier: 
+  chatServerInstaller: {fileID: 8570517336660457402, guid: 1df1fa2b371c310408070a3f41c3860b, type: 3}
+  chatConfig: {fileID: 11400000, guid: 0e41a123670470540bb796d008fbea55, type: 2}
+  uiInstaller: {fileID: 835788439309277890, guid: 7f547f7d2ee97df449b04688b2395dda, type: 3}
+  penaltySettings:
+    cooldown: 1
+    penaltyTime: 5
+    maxPenaltyTime: 60
+    penaltyIncreaseStep: 5
+  constrainSettings:
+    maximumLetterCount: 48
+    prohibitedWords:
+    - Fuck
+    - Bitch
+    - Ass
+    - Arse
+    - Cunt
+    - Cum
+    - Dick
+    - Pussy
+    - Motherfucker
+    - Fucker
+    - Bigot
+    - Fuckfack
+    - Retard
+    - Kuy
+    - Hee
+    - Faggot
+    - Twat

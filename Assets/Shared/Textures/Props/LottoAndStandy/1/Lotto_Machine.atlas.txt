@@ -1,0 +1,181 @@
+
+Lotto_Machine.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+10K
+  rotate: false
+  xy: 1637, 1142
+  size: 152, 110
+  orig: 163, 113
+  offset: 5, 2
+  index: -1
+30
+  rotate: true
+  xy: 1951, 1904
+  size: 115, 91
+  orig: 117, 94
+  offset: 1, 2
+  index: -1
+300
+  rotate: true
+  xy: 1845, 1594
+  size: 114, 91
+  orig: 117, 94
+  offset: 1, 2
+  index: -1
+Ball_Base1
+  rotate: false
+  xy: 2, 1065
+  size: 1075, 954
+  orig: 1077, 956
+  offset: 1, 1
+  index: -1
+Ball_Base2
+  rotate: true
+  xy: 1079, 944
+  size: 1075, 556
+  orig: 1077, 558
+  offset: 1, 1
+  index: -1
+Ball_Glass
+  rotate: false
+  xy: 2, 225
+  size: 1075, 838
+  orig: 1075, 838
+  offset: 0, 0
+  index: -1
+Ball_Top
+  rotate: false
+  xy: 850, 103
+  size: 191, 120
+  orig: 191, 120
+  offset: 0, 0
+  index: -1
+Daily
+  rotate: false
+  xy: 1402, 700
+  size: 159, 118
+  orig: 161, 120
+  offset: 1, 1
+  index: -1
+Data_1
+  rotate: false
+  xy: 2, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+Data_2
+  rotate: false
+  xy: 447, 25
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Data_3
+  rotate: false
+  xy: 1610, 934
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Hole
+  rotate: false
+  xy: 1637, 1710
+  size: 312, 309
+  orig: 312, 310
+  offset: 0, 1
+  index: -1
+Light_Top
+  rotate: false
+  xy: 1402, 628
+  size: 122, 70
+  orig: 124, 72
+  offset: 1, 1
+  index: -1
+Lotto
+  rotate: true
+  xy: 1239, 446
+  size: 173, 113
+  orig: 173, 113
+  offset: 0, 0
+  index: -1
+Lotto_txt
+  rotate: false
+  xy: 1079, 243
+  size: 158, 114
+  orig: 160, 116
+  offset: 1, 1
+  index: -1
+Monthly
+  rotate: false
+  xy: 1637, 1477
+  size: 167, 108
+  orig: 169, 110
+  offset: 1, 1
+  index: -1
+Pixel_Bar
+  rotate: true
+  xy: 447, 40
+  size: 183, 401
+  orig: 185, 403
+  offset: 1, 1
+  index: -1
+Pools_txt
+  rotate: false
+  xy: 1637, 1254
+  size: 153, 110
+  orig: 155, 112
+  offset: 1, 1
+  index: -1
+Reward
+  rotate: true
+  xy: 1239, 285
+  size: 159, 106
+  orig: 161, 109
+  offset: 1, 2
+  index: -1
+Screen
+  rotate: true
+  xy: 2, 22
+  size: 201, 443
+  orig: 203, 445
+  offset: 1, 1
+  index: -1
+Stand1
+  rotate: false
+  xy: 1079, 621
+  size: 321, 321
+  orig: 323, 323
+  offset: 1, 1
+  index: -1
+Stand2
+  rotate: false
+  xy: 1079, 359
+  size: 158, 260
+  orig: 160, 263
+  offset: 1, 2
+  index: -1
+Standy_Bot
+  rotate: false
+  xy: 1637, 1587
+  size: 206, 121
+  orig: 208, 161
+  offset: 1, 39
+  index: -1
+Standy_Top
+  rotate: false
+  xy: 1402, 820
+  size: 206, 122
+  orig: 208, 124
+  offset: 1, 1
+  index: -1
+Weekly
+  rotate: false
+  xy: 1637, 1366
+  size: 164, 109
+  orig: 166, 111
+  offset: 1, 1
+  index: -1

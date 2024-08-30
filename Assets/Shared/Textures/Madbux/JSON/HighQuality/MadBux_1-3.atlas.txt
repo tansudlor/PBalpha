@@ -1,0 +1,236 @@
+
+MadBux_1-3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 2, 14
+  size: 45, 1024
+  orig: 45, 1024
+  offset: 0, 0
+  index: -1
+Arm1
+  rotate: true
+  xy: 680, 147
+  size: 43, 1022
+  orig: 43, 1022
+  offset: 0, 0
+  index: -1
+Arm2
+  rotate: true
+  xy: 680, 102
+  size: 43, 1022
+  orig: 43, 1022
+  offset: 0, 0
+  index: -1
+Arm_1_Blur
+  rotate: true
+  xy: 2, 61
+  size: 345, 676
+  orig: 346, 676
+  offset: 1, 0
+  index: -1
+Body_0
+  rotate: false
+  xy: 889, 1223
+  size: 835, 813
+  orig: 835, 813
+  offset: 0, 0
+  index: -1
+Body_0_Blur
+  rotate: false
+  xy: 2, 1223
+  size: 885, 813
+  orig: 885, 813
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: false
+  xy: 1464, 517
+  size: 580, 704
+  orig: 835, 813
+  offset: 128, 55
+  index: -1
+Body_2
+  rotate: false
+  xy: 2, 408
+  size: 836, 813
+  orig: 836, 813
+  offset: 0, 0
+  index: -1
+Body_Front_Blur
+  rotate: false
+  xy: 840, 521
+  size: 622, 700
+  orig: 624, 700
+  offset: 1, 0
+  index: -1
+Eyes_Blank
+  rotate: true
+  xy: 1993, 1307
+  size: 398, 13
+  orig: 398, 13
+  offset: 0, 0
+  index: -1
+Eyes_Die
+  rotate: false
+  xy: 1255, 209
+  size: 386, 109
+  orig: 386, 109
+  offset: 0, 0
+  index: -1
+Eyes_Fire
+  rotate: true
+  xy: 1726, 1290
+  size: 415, 154
+  orig: 500, 173
+  offset: 43, 18
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 1028, 9
+  size: 396, 91
+  orig: 396, 91
+  offset: 0, 0
+  index: -1
+Eyes_Hurt
+  rotate: false
+  xy: 1426, 2
+  size: 385, 84
+  orig: 386, 84
+  offset: 0, 0
+  index: -1
+Eyes_Round2
+  rotate: true
+  xy: 1882, 1307
+  size: 398, 109
+  orig: 398, 109
+  offset: 0, 0
+  index: -1
+Hole
+  rotate: false
+  xy: 1813, 2
+  size: 81, 84
+  orig: 83, 86
+  offset: 1, 1
+  index: -1
+Leg
+  rotate: true
+  xy: 1726, 1707
+  size: 329, 320
+  orig: 329, 320
+  offset: 0, 0
+  index: -1
+Leg_Front
+  rotate: true
+  xy: 1704, 88
+  size: 230, 279
+  orig: 230, 279
+  offset: 0, 0
+  index: -1
+Mouth_Back
+  rotate: false
+  xy: 840, 389
+  size: 573, 130
+  orig: 575, 197
+  offset: 1, 1
+  index: -1
+Mouth_Front
+  rotate: false
+  xy: 1415, 320
+  size: 573, 195
+  orig: 575, 197
+  offset: 1, 1
+  index: -1
+Mouth_Side
+  rotate: false
+  xy: 680, 192
+  size: 573, 195
+  orig: 575, 197
+  offset: 1, 1
+  index: -1
+Sweat
+  rotate: false
+  xy: 1643, 214
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+
+MadBux_1-3_2.png
+size: 2048, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Eyes_Front_Close
+  rotate: false
+  xy: 402, 119
+  size: 385, 64
+  orig: 385, 64
+  offset: 0, 0
+  index: -1
+Eyes_Round1
+  rotate: false
+  xy: 2, 35
+  size: 371, 83
+  orig: 371, 83
+  offset: 0, 0
+  index: -1
+Eyes_Tired
+  rotate: false
+  xy: 2, 120
+  size: 398, 63
+  orig: 399, 63
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 789, 2
+  size: 220, 181
+  orig: 222, 183
+  offset: 1, 1
+  index: -1
+Hand1
+  rotate: false
+  xy: 1011, 4
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 1583, 74
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1467, 70
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1228, 66
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1701, 71
+  size: 113, 112
+  orig: 113, 112
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1347, 67
+  size: 118, 116
+  orig: 118, 116
+  offset: 0, 0
+  index: -1

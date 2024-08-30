@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1010551b7fd4dd7af95b1fef23cd113, type: 3}
+  m_Name: ClientAbilityAssetDatabase
+  m_EditorClassIdentifier: 
+  data:
+    _serializedList:
+    - Key: 16118
+      Value:
+        asset: {fileID: 4357929719029957413, guid: e1fa40f2c335dc142b163f85160d5ce4, type: 3}
+    - Key: 35186
+      Value:
+        asset: {fileID: 6680898672224352106, guid: 004c1dfe00d659f43bdd9d53f04fd402, type: 3}

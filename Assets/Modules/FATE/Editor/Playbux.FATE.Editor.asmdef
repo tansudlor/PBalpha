@@ -1,0 +1,22 @@
+{
+    "name": "Playbux.FATE.Editor",
+    "rootNamespace": "com,playbux.fate.editor",
+    "references": [
+        "GUID:9c6a2dcbb423b734f905c1a131e5adb8",
+        "GUID:9c9dbf812d76b8b4099275edebc882d9",
+        "GUID:e2e1aa74f878ecb45bf2138a635acae2",
+        "GUID:64b26ef43b77bec479f2d41033e7b3e6",
+        "GUID:3243fb765e18fed4ba73a58716cfec28"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

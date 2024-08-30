@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 201a360aa91b4a4c98e0677c28ed833d, type: 3}
+  m_Name: PositionDebugInstaller
+  m_EditorClassIdentifier: 
+  debugTextPrefab: {fileID: 3308203773519086839, guid: 3dc52bc16e2c7d243b76faa7975e1cba, type: 3}
+  debugCanvasContext: {fileID: -1359079777013051295, guid: 3ee580bc4b9f84e43bea74416d5beb8b, type: 3}

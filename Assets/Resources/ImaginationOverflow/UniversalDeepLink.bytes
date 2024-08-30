@@ -1,0 +1,66 @@
+{
+    "_steamId": "",
+    "_displayName": "Playbux - Alpha",
+    "_globalConfiguration": {
+        "_domainProtocols": [],
+        "_deepLinkingProtocols": [
+            {
+                "_scheme": "playbux",
+                "_host": "",
+                "_path": ""
+            }
+        ],
+        "_initialized": false
+    },
+    "_customDeepLinkingProtocols": [
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        }
+    ],
+    "_testDeepLinks": [
+        "playbux://login/?token=aaaa&refresh=bbbbb",
+        "playbux://login/?token=aaaa&refresh=bbbbb",
+        "playbux://login/?token=aaaa&refresh=bbbbb",
+        "playbux://login/?token=aaaa&refresh=bbbbb",
+        "playbux://login/?token=aaaa&refresh=bbbbb",
+        "playbux://login/?token=aaaa&refresh=bbbbb",
+        "playbux://login/?token=aaaa&refresh=bbbbb",
+        "playbux://login/?token=aaaa&refresh=bbbbb",
+        "playbux://login/?token=aaaa&refresh=bbbbb",
+        "playbux://login/?token=aaaa&refresh=bbbbb"
+    ],
+    "_automaticDeferralExe": true,
+    "_automaticDeferralExeDebug": false
+}

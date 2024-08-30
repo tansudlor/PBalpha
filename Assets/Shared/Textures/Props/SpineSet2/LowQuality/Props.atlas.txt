@@ -1,0 +1,279 @@
+
+Props.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bench
+  rotate: false
+  xy: 202, 218
+  size: 113, 86
+  orig: 113, 86
+  offset: 0, 0
+  index: -1
+Bench2
+  rotate: false
+  xy: 317, 212
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+Box
+  rotate: true
+  xy: 202, 121
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+Btn_Red
+  rotate: true
+  xy: 300, 212
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+Bush
+  rotate: false
+  xy: 403, 320
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+EggPlant
+  rotate: false
+  xy: 485, 285
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Leaf1_1
+  rotate: true
+  xy: 384, 168
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+Leaf1_2
+  rotate: false
+  xy: 231, 2
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Leaf1_3
+  rotate: false
+  xy: 265, 50
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+Leaf1_4
+  rotate: false
+  xy: 99, 2
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+Leaf1_5
+  rotate: false
+  xy: 457, 366
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+Leaf1_6
+  rotate: true
+  xy: 300, 121
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+Leaf2_1
+  rotate: false
+  xy: 413, 257
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Leaf2_2
+  rotate: false
+  xy: 99, 32
+  size: 29, 85
+  orig: 29, 85
+  offset: 0, 0
+  index: -1
+Leaf2_3
+  rotate: true
+  xy: 457, 441
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+Leaf2_4
+  rotate: false
+  xy: 191, 70
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+Leaf2_5
+  rotate: false
+  xy: 265, 84
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+Leaf2_6
+  rotate: false
+  xy: 183, 33
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+Leaf2_7
+  rotate: true
+  xy: 357, 306
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+Leaf2_8
+  rotate: false
+  xy: 130, 34
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+MysteryBox
+  rotate: false
+  xy: 454, 308
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+PineTree2
+  rotate: false
+  xy: 189, 347
+  size: 107, 163
+  orig: 107, 163
+  offset: 0, 0
+  index: -1
+PineTree_Shadow
+  rotate: false
+  xy: 300, 167
+  size: 82, 43
+  orig: 82, 43
+  offset: 0, 0
+  index: -1
+Pine_Tree
+  rotate: false
+  xy: 298, 355
+  size: 79, 155
+  orig: 79, 155
+  offset: 0, 0
+  index: -1
+Pole
+  rotate: true
+  xy: 338, 58
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Recycle
+  rotate: false
+  xy: 462, 281
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+Screen
+  rotate: true
+  xy: 379, 356
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Shoe
+  rotate: false
+  xy: 2, 4
+  size: 95, 113
+  orig: 95, 113
+  offset: 0, 0
+  index: -1
+Signs
+  rotate: false
+  xy: 341, 84
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Tomato
+  rotate: false
+  xy: 413, 225
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Tomato2
+  rotate: false
+  xy: 435, 267
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Top
+  rotate: false
+  xy: 414, 299
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+Tree
+  rotate: false
+  xy: 2, 119
+  size: 120, 162
+  orig: 120, 162
+  offset: 0, 0
+  index: -1
+Trunk
+  rotate: true
+  xy: 189, 306
+  size: 39, 166
+  orig: 39, 166
+  offset: 0, 0
+  index: -1
+Vending_Blue
+  rotate: false
+  xy: 379, 371
+  size: 76, 139
+  orig: 76, 139
+  offset: 0, 0
+  index: -1
+Vending_Purple
+  rotate: false
+  xy: 124, 142
+  size: 76, 139
+  orig: 76, 139
+  offset: 0, 0
+  index: -1
+WTE_Sign
+  rotate: false
+  xy: 2, 283
+  size: 185, 227
+  orig: 185, 227
+  offset: 0, 0
+  index: -1
+WhiteFence_1
+  rotate: true
+  xy: 172, 2
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+WhiteFence_2
+  rotate: false
+  xy: 130, 75
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1

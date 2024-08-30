@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c591adc869422ab0033718377f370e, type: 3}
+  m_Name: IQIYI-183
+  m_EditorClassIdentifier: 
+  highQuality: {fileID: 2800000, guid: 18b5ab370208fd940aa15040c07b88ee, type: 3}
+  mediumQuality: {fileID: 2800000, guid: 0d6c1c08783a78d4eb19856e0c28171b, type: 3}
+  lowQuality: {fileID: 2800000, guid: 5a0f34637c765ff4492f03c42b3c26e2, type: 3}
+  defaultQuality: {fileID: 0}

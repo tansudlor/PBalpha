@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4d82417100a428d8d934d0b74c11f13, type: 3}
+  m_Name: TeleportPointDatabase
+  m_EditorClassIdentifier: 
+  dictionary:
+    _serializedList:
+    - Key: StampEntry
+      Value:
+        areaPosition: {x: 26.95, y: -45.01}
+        targetPosition: {x: 408.01, y: 85.5}
+        areaPrefab: {fileID: 8321563702927871222, guid: fe55bff7616fb9f46aa761c2f3b3c08f, type: 3}
+    - Key: StampInteriorDoor
+      Value:
+        areaPosition: {x: 410.62, y: 81.86}
+        targetPosition: {x: 29.65, y: -49.82}
+        areaPrefab: {fileID: 8387247301284255, guid: fc121c67fa0588e46ac0417851b60bce, type: 3}
+    - Key: ShopToEarnEntry
+      Value:
+        areaPosition: {x: 97.37, y: -28.66}
+        targetPosition: {x: 200, y: 193.3}
+        areaPrefab: {fileID: 2405357463770445784, guid: 9ccb160c0b082e248bb047070ff8e4cc, type: 3}
+    - Key: ShopToEarnInteriorDoor
+      Value:
+        areaPosition: {x: 197.65, y: 189.52}
+        targetPosition: {x: 97.15, y: -31.74}
+        areaPrefab: {fileID: 3258640127656342791, guid: cd93beb908a9f4b49835bb37421fa900, type: 3}
+    - Key: LottoEntry
+      Value:
+        areaPosition: {x: -30.62, y: 115.65}
+        targetPosition: {x: 302.9, y: 109.8}
+        areaPrefab: {fileID: 8725700167132917229, guid: 538d89b10d1fea5478cd5483a118bfa1, type: 3}
+    - Key: LottoInteriorDoor
+      Value:
+        areaPosition: {x: 305.53, y: 105.36}
+        targetPosition: {x: -28.5, y: 113.08}
+        areaPrefab: {fileID: 2465958387285639002, guid: be8d4c5704a759e41a03129468fbe3d9, type: 3}
+    - Key: VapourFundEntry
+      Value:
+        areaPosition: {x: 4.25, y: 56.41}
+        targetPosition: {x: 334.85, y: -31.78}
+        areaPrefab: {fileID: 2971954108110412654, guid: 580fc8fa6099e134b930a69e7b918e0a, type: 3}
+    - Key: VapourFundInteriorDoor
+      Value:
+        areaPosition: {x: 331.33, y: -37.83}
+        targetPosition: {x: 3.62, y: 53.36}
+        areaPrefab: {fileID: 2270379880763684800, guid: 65ec6a84ec6f63b40a9cee3ab09e1bfe, type: 3}
+    - Key: PlaybuxShopEntry
+      Value:
+        areaPosition: {x: 36.39, y: -32.97}
+        targetPosition: {x: 246.26, y: 19.11}
+        areaPrefab: {fileID: 4680289924194243431, guid: 14008fa247e960d47a7526776d3d6d05, type: 3}
+    - Key: PlaybuxShopInteriorDoor
+      Value:
+        areaPosition: {x: 248.88, y: 14.38}
+        targetPosition: {x: 36.41, y: -39.11}
+        areaPrefab: {fileID: 623454183127471255, guid: 9076f6a56a04e8d46b455f94c9dd8d30, type: 3}

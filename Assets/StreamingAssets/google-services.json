@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1076615873971",
+    "firebase_url": "https://playbux-unity-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "playbux-unity",
+    "storage_bucket": "playbux-unity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076615873971:android:e83da60b45d0330a7737c6",
+        "android_client_info": {
+          "package_name": "com.mankindmedia.playbux.unity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhf3tssNcjV1vTmKoqqZSfuyjO1C3pCT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

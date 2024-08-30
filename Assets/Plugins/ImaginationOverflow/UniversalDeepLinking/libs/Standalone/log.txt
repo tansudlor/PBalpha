@@ -1,0 +1,4 @@
+29/01/2024 3:34 pm: Deep link -> raiosecurr://123abc22/
+29/01/2024 3:34 pm: Arg 1 -> 
+29/01/2024 3:34 pm: Target Application: found in: C:\Program Files\Unitys\2020.3.35f1\Editor\Unity.exe
+29/01/2024 3:34 pm: Wrote in D:\FAC\Programing\Projects\UniversalDeepLinking\src\unity\UniversalDeepLink\Assets\Plugins\ImaginationOverflow\UniversalDeepLinking\libs\Standalone\udlsharedfile.dat ---> raiosecurr://123abc22/

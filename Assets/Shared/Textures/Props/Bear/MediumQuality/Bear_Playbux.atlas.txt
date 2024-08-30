@@ -1,0 +1,48 @@
+
+Bear_Playbux.png
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 2, 2
+  size: 16, 32
+  orig: 16, 34
+  offset: 0, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 270, 208
+  size: 26, 38
+  orig: 26, 39
+  offset: 0, 1
+  index: -1
+Body
+  rotate: false
+  xy: 158, 141
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 70
+  size: 154, 176
+  orig: 154, 176
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 2, 20
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 158, 94
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1

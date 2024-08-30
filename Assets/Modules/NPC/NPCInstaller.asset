@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f378af18d05afe4680c3a609ffb5333, type: 3}
+  m_Name: NPCInstaller
+  m_EditorClassIdentifier: 
+  arrow: {fileID: 7945185938117602020, guid: 23751e5d329acea48ac785f9490ffc2b, type: 3}
+  quests:
+  - {fileID: 11400000, guid: 4ea5589d360dc29488a82ef58b222c04, type: 2}
+  - {fileID: 11400000, guid: 6488203c2f816b7419ed46eb4d86ff2b, type: 2}
+  npcData: {fileID: 11400000, guid: 30b569611305e854ab9aa14dfacd210b, type: 2}

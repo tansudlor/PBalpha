@@ -1,0 +1,20 @@
+{
+    "name": "Playbux.Sound",
+    "rootNamespace": "com.playbux.sound",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:d525ad6bd40672747bde77962f1c401e",
+        "GUID:81b2d18d8bba225459ef180613124d08",
+        "GUID:c7a0c037d583d8646a4876e5916ae8d8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,90 @@
+
+SushiSwap.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+A
+  rotate: false
+  xy: 1311, 1271
+  size: 146, 326
+  orig: 146, 326
+  offset: 0, 0
+  index: -1
+H
+  rotate: true
+  xy: 2, 44
+  size: 146, 343
+  orig: 147, 344
+  offset: 1, 1
+  index: -1
+I
+  rotate: true
+  xy: 2, 2
+  size: 40, 291
+  orig: 40, 291
+  offset: 0, 0
+  index: -1
+LED_Board
+  rotate: false
+  xy: 2, 884
+  size: 1307, 1094
+  orig: 1307, 1094
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 899, 283
+  size: 254, 131
+  orig: 254, 131
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 1566, 1652
+  size: 146, 326
+  orig: 146, 326
+  offset: 0, 0
+  index: -1
+Rail
+  rotate: false
+  xy: 2, 192
+  size: 895, 690
+  orig: 895, 690
+  offset: 0, 0
+  index: -1
+S
+  rotate: false
+  xy: 899, 539
+  size: 145, 343
+  orig: 147, 344
+  offset: 1, 0
+  index: -1
+Sushi
+  rotate: false
+  xy: 1046, 665
+  size: 228, 217
+  orig: 228, 217
+  offset: 0, 0
+  index: -1
+Sushi_Shadow
+  rotate: true
+  xy: 1311, 1066
+  size: 203, 114
+  orig: 203, 114
+  offset: 0, 0
+  index: -1
+U
+  rotate: true
+  xy: 347, 44
+  size: 146, 325
+  orig: 146, 327
+  offset: 0, 1
+  index: -1
+W
+  rotate: false
+  xy: 1311, 1599
+  size: 253, 379
+  orig: 253, 379
+  offset: 0, 0
+  index: -1

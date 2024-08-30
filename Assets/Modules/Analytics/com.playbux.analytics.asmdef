@@ -1,0 +1,18 @@
+{
+    "name": "com.playbux.analytic",
+    "rootNamespace": "com.playbux.analytic",
+    "references": [
+        "GUID:201b3f959eb66754b9bd5b55fd00e5fb",
+        "GUID:f22db8b8cd7e0224b8cda9b2d16addf4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

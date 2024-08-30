@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c591adc869422ab0033718377f370e, type: 3}
+  m_Name: Land1+2Chuck1-10-19
+  m_EditorClassIdentifier: 
+  highQuality: {fileID: 2800000, guid: f1efc3e90c335b644af24b158cba6500, type: 3}
+  mediumQuality: {fileID: 2800000, guid: 436b7a80e3a361941bdc57733ec199c8, type: 3}
+  lowQuality: {fileID: 2800000, guid: 7fd72500e57a3674f9fc07a6682b5198, type: 3}
+  defaultQuality: {fileID: 2800000, guid: 7fd72500e57a3674f9fc07a6682b5198, type: 3}

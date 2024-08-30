@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC6PqeKTO-r1G_UvkUVNqQ6YGb8qjY4m8E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1076615873971</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mankindmedia.playbux.unity</string>
+	<key>PROJECT_ID</key>
+	<string>playbux-unity</string>
+	<key>STORAGE_BUCKET</key>
+	<string>playbux-unity.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1076615873971:ios:d89fd0ffdb6584c17737c6</string>
+	<key>DATABASE_URL</key>
+	<string>https://playbux-unity-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
